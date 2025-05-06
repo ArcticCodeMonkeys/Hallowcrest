@@ -1,0 +1,1 @@
+Son of Aurora Stellaris and Gestalt Hallowbrand, current dean of Aurora College.

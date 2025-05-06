@@ -1,0 +1,1 @@
+Adult Red Dragon, steadfast companion of Gestalt Hallowbrand, point of worship for Ember's Creed

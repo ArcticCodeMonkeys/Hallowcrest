@@ -1,0 +1,1 @@
+Dhampir thief and swindler, member of The Menagerie

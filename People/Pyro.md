@@ -1,0 +1,1 @@
+Path of Boiling Blood barbarian, hot headed Bruiser of The Menagerie

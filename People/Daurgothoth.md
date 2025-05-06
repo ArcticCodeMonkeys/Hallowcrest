@@ -1,0 +1,1 @@
+Ancient Black Dragon, enslaved by Ne're Darke, killed by Searclaw in the battle of ember and ash

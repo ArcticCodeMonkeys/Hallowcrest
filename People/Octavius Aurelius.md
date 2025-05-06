@@ -1,0 +1,1 @@
+Oracle, Professor at Aurora College, Close friend of Proffesor Thimblebang

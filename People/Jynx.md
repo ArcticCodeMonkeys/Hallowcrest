@@ -1,0 +1,1 @@
+Wild Magic Sorcerer, Tiefling merc of The Menagerie
