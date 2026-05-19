@@ -40,13 +40,14 @@ def process_markdown(path):
     return body
 
 def copy_images():
-    for root, _, files in os.walk(VAULT_DIR):
+    for root, dirs, files in os.walk(VAULT_DIR):
         for fname in files:
             ext = os.path.splitext(fname)[1].lower()
             if ext in IMAGE_EXTS and fname in referenced_images:
                 src  = os.path.join(root, fname)
                 dest = os.path.join(WIKI_CONTENT, fname)
-                shutil.copy2(src, dest)
+                if os.path.abspath(src) != os.path.abspath(dest):
+                    shutil.copy2(src, dest)
 
 shutil.rmtree(WIKI_CONTENT, ignore_errors=True)
 os.makedirs(WIKI_CONTENT)
