@@ -1,0 +1,7 @@
+Duration: 1273 years (present day)
+
+Signing a treaty ensuring that they would never break this peace, the civilizations established the [[Sovereign Concord]]. A global alliance in peace, trade, and strength, the [[Concord of Sovereign Nations]] marked the beginning the Sovereign Era (SE). By 127 SE, [[the Capital]] was constructed, the largest city in [[Astell]] where all trades went through and the rich and elite were able to live burdenless lives. 
+
+In 1244 SE, the [[Sovereign Concord]] heard word of [[Ne're Darke]] plotting something in the far and recently discovered [[Silver Coast]]. After sending some scouts from a nearby [[Crackrock Quarry]], they learned that [[Ne're Darke]] plotted to take control of a great dragon, by the name of [[Daurgothoth]], using psionic crystals located deep underground. Fearing a hostile takeover, the [[Sovereign Concord]] sent an army to combat [[Ne're Darke]] and stop them from gaining control over [[Daurgothoth]], lead by the great general [[Gestalt Hallowbrand]]. In [[The Battle of Ash and Ember]], [[Gestalt Hallowbrand]] and his army successfully defeated [[Ne're Darke]]'s forces, though resulting in his untimely demise. 
+
+Upon the establishment of [[Hallowcrest]] in 1246 SE, the [[Sovereign Concord]] sent a large platoon of forces to build and defend the city, as well as a large amount of tradesmen, nobles, and adventurers from [[the Capital]] to inhabit the city and capitalize on its rich resources and undiscovered land. 

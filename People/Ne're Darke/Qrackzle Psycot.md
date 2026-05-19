@@ -1,0 +1,5 @@
+![[Qrackzle Psycot.jpg]]Right Hand Man – A chaotic yet brilliant Half Illithid Duergar, wearing an elegant purple gown. She is the inventor of Psycrowns, magical crowns imbued with pysionic energy which dominate any creature who wears it and places it under the control of a Domination Pendant, which allows the wearer to control the dominated creatures. 
+
+Qrackzle often goes by either Q, or Psycho, which is fitting because of her psychotic tendencies. She enjoys watching people in pain and subjugating weaker creatures which she sees as lesser. She works under [[Zalaxor Nezere]], but mostly does so to gain access to people to torture and protection from the law. She also has a bit of admiration for [[Zalaxor Nezere]], respecting his intelligence when it comes to social situations and plotting schemes.
+
+She invented the Phantasmal Killer and Psychic Lance spell.

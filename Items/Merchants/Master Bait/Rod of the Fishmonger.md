@@ -1,0 +1,3 @@
+*Uncommon, Quarterstaff (350gp)*
+
+This rod has a magical +1 bonus to attack and damage rolls. Additionally, it has the reach property. Once per short rest as a bonus action, you can extend the rod and cast its hook, targeting a creature you can see within 30 feet of you. The creature must make a contested Strength (Athletics) check or be pulled up to 30 feet towards you. You can expend 15 feet of movement to gain advantage on this Athletics check.

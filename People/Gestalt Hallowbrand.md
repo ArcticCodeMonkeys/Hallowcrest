@@ -1,1 +1,0 @@
-Founder, Hero, and Savior of Hallowcrest. Searclaw's companion. Fallen in the battle of ash and ember.

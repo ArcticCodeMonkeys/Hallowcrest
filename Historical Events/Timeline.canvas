@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"6a64f3b0b6075929","type":"file","file":"Historical Events/Eras/Chaotic Era.md","x":-1980,"y":-345,"width":400,"height":400},
+		{"id":"c3fd364a10d1a3fb","type":"file","file":"Historical Events/Eras/Lost Era.md","x":-840,"y":-345,"width":400,"height":400},
+		{"id":"d64ba0494f3062a7","type":"file","file":"Historical Events/Eras/Primal Era.md","x":-1400,"y":-345,"width":400,"height":400},
+		{"id":"f31f41f9b1c4de6b","type":"file","file":"Historical Events/Silent Departure.md","x":-260,"y":-345,"width":400,"height":400},
+		{"id":"b491675382893c1a","type":"file","file":"Historical Events/Eras/Dark Era.md","x":280,"y":-345,"width":400,"height":400},
+		{"id":"b5b6f335bc81a556","x":820,"y":-345,"width":400,"height":400,"type":"file","file":"Historical Events/Concord of Sovereign Nations.md"},
+		{"id":"323060909c6cefa0","type":"file","file":"Historical Events/Eras/Sovereign Era.md","x":1380,"y":-345,"width":400,"height":400},
+		{"id":"0fe5f1bc78406cf4","x":1920,"y":-345,"width":400,"height":400,"type":"file","file":"Historical Events/The Bloodletting.md"},
+		{"id":"ee38cc8e1d9a3e33","x":2440,"y":-345,"width":400,"height":400,"type":"file","file":"Historical Events/The Battle of Ash and Ember.md"}
+	],
+	"edges":[
+		{"id":"b4b2c7c6b5025aed","fromNode":"6a64f3b0b6075929","fromSide":"right","toNode":"d64ba0494f3062a7","toSide":"left"},
+		{"id":"ae6e9900ddb8e55e","fromNode":"d64ba0494f3062a7","fromSide":"right","toNode":"c3fd364a10d1a3fb","toSide":"left"},
+		{"id":"57327ef274947818","fromNode":"c3fd364a10d1a3fb","fromSide":"right","toNode":"f31f41f9b1c4de6b","toSide":"left"},
+		{"id":"4068aa78ae343297","fromNode":"f31f41f9b1c4de6b","fromSide":"right","toNode":"b491675382893c1a","toSide":"left"},
+		{"id":"be6b72b65b0f4013","fromNode":"b491675382893c1a","fromSide":"right","toNode":"b5b6f335bc81a556","toSide":"left"},
+		{"id":"4457966fd86fc652","fromNode":"b5b6f335bc81a556","fromSide":"right","toNode":"323060909c6cefa0","toSide":"left"},
+		{"id":"2d34589ba690b3a4","fromNode":"323060909c6cefa0","fromSide":"right","toNode":"0fe5f1bc78406cf4","toSide":"left"},
+		{"id":"b9795e020149f0bc","fromNode":"0fe5f1bc78406cf4","fromSide":"right","toNode":"ee38cc8e1d9a3e33","toSide":"left"}
+	]
+}

@@ -1,0 +1,3 @@
+Rare, Consumable (200gp)
+
+A wax letter seal, hot and ready to be pressed. You can make a thrown weapon attack with this letter seal against a target within range (20/40). On a hit, select a letter (not a vowel) to imbed into the wax seal. For the next minute, the target cannot cast any spell that contains that letter in its name. The target can use an action to make a DC 15 Strength (Athletics) check to remove the seal, ending the effects early. A target can have multiple of these seals applied at a time, and if it has 3 or more, it also cannot provide verbal components for spells.

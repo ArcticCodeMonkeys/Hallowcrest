@@ -1,1 +1,0 @@
-Powerful Mage and Diviner. Founder of Aurora College. Mother of Artemis Hallowbrand.

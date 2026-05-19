@@ -1,0 +1,1 @@
+![[Chedda.jpg]]Ratfolk Bartender and spy for [[The Menagerie]]. Chedda works at [[The Other Bar]], where he listens in on conversations and learns information for [[The Menagerie]]. Members of [[The Menagerie]] have learned his language, but he is unable to speak common.

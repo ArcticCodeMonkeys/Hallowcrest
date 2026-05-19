@@ -4,24 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "23be3de1e1f51eef",
+        "id": "f036d2a7887f2663",
         "type": "tabs",
         "children": [
           {
-            "id": "2bd49da60dd1f159",
+            "id": "476861196ca6f5e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Stores/Creature Couture.md",
+                "file": "Locations/Districts/Grand Plaza.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creature Couture"
+              "title": "Grand Plaza"
+            }
+          },
+          {
+            "id": "a56050394679dc65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Districts/High Grounds.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "High Grounds"
+            }
+          },
+          {
+            "id": "6617fcce35ac3c33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Districts/Shamblewood.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shamblewood"
+            }
+          },
+          {
+            "id": "4b06408eec7b2fa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Districts/Silverside.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Silverside"
+            }
+          },
+          {
+            "id": "5264d89cb7c645ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Districts/The Crypts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Crypts"
+            }
+          },
+          {
+            "id": "5fa7472153f2e8c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Districts/The Docks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Docks"
+            }
+          },
+          {
+            "id": "0ad8521b7d7dc42a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Cities/Hallowcrest.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hallowcrest"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -53,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "1276",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +179,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Jack Rivers.md",
-                "collapseAll": false,
+                "file": "Locations/Cities/Hallowcrest.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jack Rivers"
+              "title": "Backlinks for Hallowcrest"
             }
           },
           {
@@ -113,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Jack Rivers.md",
+                "file": "Locations/Cities/Hallowcrest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Jack Rivers"
+              "title": "Outgoing links from Hallowcrest"
             }
           },
           {
@@ -128,7 +213,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -140,77 +227,85 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Jack Rivers.md"
+                "file": "Locations/Cities/Hallowcrest.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Jack Rivers"
+              "title": "Outline of Hallowcrest"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "githobs:Manage a github issue": false
     }
   },
-  "active": "2bd49da60dd1f159",
+  "active": "0ad8521b7d7dc42a",
   "lastOpenFiles": [
-    "Locations/Stores/Djinn and Tonics.md",
-    "Locations/Stores/Sew it Seems.md",
-    "People/General Howard Goode.md",
-    "Locations/Stores/General Goode's General Goods.md",
-    "Pasted image 20250430232641.png",
-    "Locations/Stores/Fondantes Inferno.md",
-    "Locations/Stores/Horsin' Around.md",
-    "Locations/Stores/Black and Blue.md",
-    "Locations/Stores/Creature Couture.md",
-    "Guilds and Organizations/Sovereign Guard.md",
-    "Items/Wild Magic Sandwiches.md",
-    "Locations/Jim's Sandwich Shop.md",
-    "Items/Emerald Elegance.md",
-    "People/Jim.md",
-    "Locations/Stores/Fletcher's Fletchery.md",
-    "Locations/Hallowcrest.md",
-    "Images/Pasted image 20250430200809.png",
-    "Images/Pasted image 20250430200731.png",
-    "Images/Pasted image 20250430200718.png",
-    "People/Cassandro.md",
-    "People/Drax & Brax Blarglesnark.md",
-    "People/Famous Criminals.md",
-    "People/Gestalt Hallowbrand.md",
-    "People/Chedda.md",
-    "People/Fletcher Swiftfeather.md",
-    "Guilds and Organizations/The Magistrate.md",
-    "Guilds and Organizations/Weaveseers.md",
-    "People/Zalaxor Nezere.md",
-    "People/Marcus Stellaris.md",
-    "Locations/POIs",
-    "Locations/Districts",
-    "Locations/Taverns",
-    "Locations/Stores",
-    "Images/Pasted image 20250430200813.png",
-    "Images/Pasted image 20250430200804.png",
-    "Images/Pasted image 20250430200721.png",
+    "Locations/Districts/The Lion's Den.md",
+    "Locations/Cities/Hallowcrest.md",
+    "People/Aurora College/Marcus Stellaris.md",
+    "Locations/Cities/Rosedale.md",
+    "Locations/Taverns/The Booby Trap.md",
+    "Locations/Districts/Grand Plaza.md",
+    "Locations/Districts/The Docks.md",
+    "Locations/Districts/Shamblewood.md",
+    "Locations/Districts/High Grounds.md",
+    "Locations/Districts/Silverside.md",
+    "Locations/Taverns/Wet Stone.md",
+    "Locations/Taverns/Vanessa's.md",
+    "Locations/Taverns/The Treetop Tavern.md",
+    "Locations/Taverns/The Silken Mirage.md",
+    "Locations/Taverns/The Rusty Tankard.md",
+    "Locations/Taverns/The Other Bar.md",
+    "Locations/Taverns/The Drifting Barrel.md",
+    "Locations/Taverns/Stargazer.md",
+    "Locations/Taverns/Fellowship of the Frontier.md",
+    "Locations/Stores/Unearthed Arcana.md",
+    "Locations/Stores/The Understreet.md",
+    "Locations/Districts/The Crypts.md",
+    "Locations/Stores/The Shaded Hat.md",
+    "Locations/Stores/The Bank of Holding.md",
+    "Locations/Stores/Tats, The Way I Like It.md",
+    "Locations/Stores/Spice Of Life.md",
+    "Plot/The Grand Game",
+    "Historical Events/Timeline.canvas",
+    "Historical Events/Eras",
+    "Images/Locations/Grand Plaza.jpg",
+    "Guilds and Organizations/Guilds",
+    "Images/NPCs/Steven Vanderblit.jpg",
+    "Images/NPCs/Vanessa Vanderblit.jpg",
+    "Plot/Session Notes",
+    "Images/Locations/Aurora College.jpg",
+    "Images/Locations/The Lion's Den.png",
+    "Images/Locations/The Docks.jpg",
+    "Images/Locations/The Crypts.jpg",
+    "Images/Locations/The Docks.png",
+    "Images/Items/Anti Gravi-Tea.jpg",
+    "Images/Locations/Hallowcrest.png",
+    "Images/Symbols",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Plot/Perfecting the People",
+    "Plot",
+    "People/Citizens",
+    "Untitled.canvas",
     "Timeline.canvas",
-    "Guilds and Organizations",
-    "Misc",
-    "Images/Meat.jpg",
-    "Images/Victory Hill.jpg",
-    "Images/Drifting Barrel.jpg",
-    "Untitled 1.canvas",
-    "Items",
-    "People",
-    "Factions",
-    "Locations"
+    "Untitled 1.canvas"
   ]
 }

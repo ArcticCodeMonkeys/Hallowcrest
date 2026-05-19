@@ -1,0 +1,5 @@
+_Rare, Wraps (4000gp), (Requires Attunement by a Monk)_
+
+While attuned to and wearing these wraps, you have a +2 bonus to hit and damage rolls with unarmed strikes. These wraps collect the residual ki flowing through your body as you expend it to use your abilities. Whenever you expend one or more ki points, you gain an equal amount of Energy points stored within the wraps. At the end of a long rest, the Energy points return to 0 and you can store a number of Energy points at a time equal to your level.
+
+You can expend 1 Energy point whenever you hit with an unarmed strike to deal an additional 1d4 force or radiant damage. Alternatively, you can expend 5 ki points to gather the energy into a ball and shoot it in a beam as a bonus action. All creatures in a 60 foot long, 5ft wide line originating from yourself must succeed a Dexterity Saving Throw against your Ki save DC or take 8d6 force or radiant damage or half as much on a success.

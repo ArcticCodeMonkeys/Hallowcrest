@@ -1,1 +1,5 @@
-Potion store run by a genie
+Potion store run by a genie named [[Kababel]]
+
+
+District: [[The Lion's Den]]
+

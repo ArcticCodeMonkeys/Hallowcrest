@@ -1,0 +1,5 @@
+*Wondrous Consumable, Common (20 gp)*
+
+This gum is incredibly sticky and doesn't taste particularly good. It is however, quite useful in other situations. As a bonus action, you can chew a piece of gum and roll a d4. After that many rounds, the gum is chewed and can be used. Once a piece of gum is chewed, it must be used in the next 10 minutes or it loses it magic. 
+
+The gum can be used to patch a hole less than 1 inch thick and 6 inches wide or can be placed in the hinges of a door to require a DC 15 Strength (Athletics Check) to open. Alternatively, you can spit the gum at a creature within 10 feet as a bonus action, forcing them to make a DC 12 Dexterity Saving Throw or be restrained for the next minute. The creature can make a DC 15 Strength (Athletics) check to escape by expending 15 feet of movement, ending the effect on a success.

@@ -1,0 +1,1 @@
+The large body of water separating [[Golden Plains]], [[Spine of the North]], and [[Silver Coast]]. It is a 42 day journey to cross from [[Hallowcrest]] to [[The Capital]]. The biggest port for the [[Spine of the North]] is about half way between them, taking about 25 days.

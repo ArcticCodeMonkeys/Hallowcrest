@@ -1,0 +1,3 @@
+Uncommon, Wonderous Item (250gp)
+
+This notebook is owned by nearly every student in [[Locations/Hideouts/Aurora College|Aurora College]], used to keep track of notes and organize information. Anything written in the 300 pages of this notebook is documented in [[Locations/Hideouts/Aurora College|Aurora College]]'s Book of Records. By touching a page of the book to another Student's Notebook, the contents of the page can be copied over. Additionally, pages of the book can be easily torn out and placed back in a different position in the book. The start of the book has a table of contents which can be filled out and encircling a section automatically flips the book to the start of that section.

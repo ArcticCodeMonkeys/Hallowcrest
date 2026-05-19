@@ -1,0 +1,3 @@
+![[Andrew Bramblenest.jpg]]
+
+Druid of the Land, Diplomat for [[The Keepers of Oak]]. Serves as a quest giver and point of contact for most members. Engaged to [[Tania Fern]]. Andrew went on a pilgramage from the [[Golden Plains]], along [[Spine of the North]] and arriving at [[Hallowcrest]] just a few years ago. He found [[The Keepers of Oak]], and offered to join their cause. He is a strong advocate for ensuring the wildlife and plant life in and around [[Hallowcrest]] stays safe and in balance. He has weekly talks with [[Elowyn Hallowbrand]] to discuss ecological plans and commitments to the ecosystem. He is also engaged to [[Tania Fern]], who he met and fell for upon his arrival in [[Hallowcrest]].

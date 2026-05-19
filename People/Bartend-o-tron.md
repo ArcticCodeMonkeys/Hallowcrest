@@ -1,1 +1,0 @@
-A well known and well liked bartender automoton of the Rusty Tankard.

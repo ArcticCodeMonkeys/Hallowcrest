@@ -1,0 +1,1 @@
+![[Daurgothoth.jpg]]Ancient Black Dragon, enslaved by[[ Ne're Darke]], killed by [[Searclaw]] in [[The Battle of Ash and Ember]].

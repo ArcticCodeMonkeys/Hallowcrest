@@ -1,0 +1,2 @@
+![[Chang Ling.jpg]]
+Chamelion Rogue of [[The Menagerie]]. Adept at pickpocketing, espionage and forgery. Chang is sent to scout, learn information in hard to reach places, and acquire access passes, badges, and tickets to events. He is a crucial aspect of the setup for many of [[Roach]]'s heists.

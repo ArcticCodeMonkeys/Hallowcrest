@@ -1,0 +1,3 @@
+The Sage Mind is a name given to one of the [[Precursors]] whose consciousness is stored within the orb of the same name. The Sage Mind is an incredibly intelligent creature who seems to be able to answer nearly any question with 99% accuracy and even be able to predict future events with the same degree of confidence. The most likely explanation is that the Sage Mind, along with most other precursors, had a highly advanced mind, able to think with trillions of more parameters than humans. They also are likely able to interface with the minds of others, as The Sage Mind communicates through telepathy and would explain how it is able to predict things so accurately. 
+
+See Also: [[Items/Artifacts/The Sage Mind|The Sage Mind]] (Item)

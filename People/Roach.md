@@ -1,1 +1,0 @@
-Half Goblin Leader, Plan Maker, and Founder of The Menagerie

@@ -1,0 +1,1 @@
+![[Octavius Aurelius.jpg]]Elf; Oracle; Professor at [[Factions/Aurora College]]; Close friend of [[Professor Thimblebang]] and [[Rishaal]]; Teaches mostly Divination and Abjuration

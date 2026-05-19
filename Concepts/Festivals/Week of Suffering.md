@@ -1,0 +1,2 @@
+
+The last week of Illmatus and of the year. It is finals week at [[Locations/Hideouts/Aurora College|Aurora College]], so students have jokingly dubbed this week the Week of Suffering. There are many free amenities given to [[Factions/Aurora College|Aurora College]] students and young school children to ease their 'burden'.

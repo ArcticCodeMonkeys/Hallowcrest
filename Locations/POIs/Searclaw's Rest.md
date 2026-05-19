@@ -1,0 +1,1 @@
+The large mountain to the east of [[Hallowcrest]]. It is the location of [[Searclaw]]'s lair and where he rests. There is a monetary of [[Ember's Creed]] atop called [[Scorched Peak]]. This inactive volcano used to be the lair of [[Daurgothoth]] before [[The Battle of Ash and Ember]].

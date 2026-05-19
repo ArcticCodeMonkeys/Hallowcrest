@@ -1,0 +1,2 @@
+![[Weaveseer.jpg]]
+Magical Enforcers, employed by [[The Magistrate]] to enforce restrictions on unlawful uses of magic. They the have innate magical ability to see trace amounts of magic, left behind from casting spells. They wander the streets of Hallowcrest and ensure that no magic is being used without a permit. Permits can be purchased from [[The Magistrate]] and obscure certain traces of magic, depending on the permit.

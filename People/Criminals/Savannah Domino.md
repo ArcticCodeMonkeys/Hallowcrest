@@ -1,0 +1,2 @@
+![[Savannah Domino.jpg]]
+Seductress, Burglar, and assassin. Performs major heists and relies on her silver tongue to get into hard to reach places. She is also known to be an assassin, getting alone with her targets by seducing them before garroting them with her [[Red Lace]] or stabbing them with her sword, [[Ruby Red]]. She has a sister, [[Rellana Domino]], who is an adventurer / merchant and despises her. Savannah knows this and loves seeing her get upset.

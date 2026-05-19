@@ -1,0 +1,1 @@
+A large capital city in the [[Golden Plains]], the Capital is the largest city in [[Astell]], formed in 127 SE after the signing and establishment of the [[Sovereign Concord]].

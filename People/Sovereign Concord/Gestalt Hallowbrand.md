@@ -1,0 +1,8 @@
+![[Gestalt Hallowbrand.jpeg]]Founder, Hero, and Savior of Hallowcrest. [[Searclaw]]'s companion. Fallen in [[The Battle of Ash and Ember]]. Human. Died at 59.
+
+Gestalt began his adventures at the age of 18, as early as his mother and father would let him. He was a well known adventurer even in his early days, slaying monsters around [[The Capital]] and [[Golden Plains]]. It was not until his first encounter with [[Ne're Darke]], encountering a village they had pillaged and raided, where he vowed to bring justice and peace to the world. Gestalt joined the [[Sovereign Concord]] and started as a platoon captain. In his free time, he continued adventuring, where he met [[Searclaw]] in search for his newest weapon, [[Ashbringer]]. The two had a great fight in which Gestalt offered [[Searclaw]] mercy, earning his respect. In a later encounter against [[Ne're Darke]], [[Searclaw]] came to his aid and offered to journey along side him to vanquish [[Ne're Darke]]. The two spend all of 40 years together, forming a [[Soul Bond]]. Unfortunately, their journey ended short, as at the age of 59, Gestalt was killed in [[The Battle of Ash and Ember]]. 
+
+A renowned leader, Hero, and savior of Hallowcrest, Gestalt is respected by just about any person in [[Hallowcrest]]. His wife, [[Aurora Stellaris]] bore his twin sons, [[Marcus Stellaris]] and [[Elowyn Hallowbrand]], who both look to make names for themselves in two very different ways.
+
+
+At the age of just 23, Gestalt Hallowbrand was cursed by a hag in the [[Golden Plains]] for him and all of his descendants to permanently have white hair. No amount of magic or dye could ever change the color of their hair.

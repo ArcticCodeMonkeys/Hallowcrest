@@ -1,0 +1,3 @@
+*Common, Shield (50gp)*
+
+Whenever you are targeted by a spell or magical effect that targets only you while wielding this shield, you gain a d4 bonus to any saving throw made to resist its effect. If the effect has no saving throw, but deals damage of any type other than psychic, you can reduce the damage by 1d8. Once you use either of these features, the shield becomes non-magical until the next dawn.

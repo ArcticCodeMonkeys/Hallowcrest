@@ -1,0 +1,3 @@
+*Uncommon, Club (400gp)*
+
+This club has a magic +1 bonus to attack and damage rolls. As a reaction to taking fire damage, you can attempt to block some of it with the frying pan, reducing the damage by 1d8 + your proficiency bonus. After doing so and until the end of your next turn, the frying pan deals an additional 1d6 fire damage. You can use this reaction a number of times equal to your proficiency bonus per long rest.

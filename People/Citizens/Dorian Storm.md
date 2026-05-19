@@ -1,0 +1,3 @@
+![[Dorian Storm.jpg]]
+
+Tempest Sorcerer, Meteorologist at [[Fine Print]]. Active community member participating and starting many festivals, protests, and charity events. Sometimes helps out at [[Fondantes Inferno]], and [[Unearthed Arcana]]. She used to date [[Rellana Domino]] and is the unofficial 'Fucked up Fifth' of the [[Fucked Up Four]], with the exception being that she doesn't really go on adventures with them. She will cover the store when all of them are out. She also serves as one of the [[Rainwalkers]].

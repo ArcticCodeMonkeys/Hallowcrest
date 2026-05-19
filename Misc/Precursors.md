@@ -1,0 +1,1 @@
+Not much is known about the precursors as no remains have been found, but they are believed to be the architects of the many ruins and dungeons throughout the plane, as well as the builders of many of the most powerful magic items, which humanity is just beginning to learn to control.

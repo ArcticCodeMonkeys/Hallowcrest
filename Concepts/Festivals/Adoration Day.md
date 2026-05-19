@@ -1,0 +1,1 @@
+There is a yearly festival dedicated to [[Aproxi and Delphine]] and love in general. People confess their love, hand out gifts of admiration, and the streets are filled with rose pedals which the children spread throughout the city. 

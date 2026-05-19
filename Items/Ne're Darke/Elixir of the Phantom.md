@@ -1,0 +1,3 @@
+Uncommon, Potion (250gp)
+
+Whenever you drink this potion, you become slightly translucent and harder to see. You have advantage on stealth checks and your weapon attacks deal psychic damage instead of their normal damage types. If you score a critical hit while under the effects of this potion, the target must succeed a DC 14 Wisdom Saving Throw or be frightened until the end of its next turn. This potion lasts up to 1 minute or until dispelled.

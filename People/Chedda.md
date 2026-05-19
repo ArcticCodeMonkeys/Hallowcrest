@@ -1,1 +1,0 @@
-Ratfolk Bartender and spy for the Menagerie

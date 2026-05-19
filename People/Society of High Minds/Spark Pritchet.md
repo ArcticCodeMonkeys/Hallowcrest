@@ -1,0 +1,2 @@
+![[Spark Pritchet.jpg]]
+Kobold member of the [[Society of Higher Minds]]. Inventor and occasional salesman. Most of his inventions are powerful, but have a chance of exploding in your face. Spark also created [[Bartend-o-tron]], and used his funds to create [[The Rusty Tankard]], which now makes more money than his inventions and serves as a source of funding.

@@ -1,0 +1,3 @@
+*Uncommon, Consumable (100gp)*
+
+This chocolate is very hard to make and has over 300% the recommended daily intake of sugar within it. Despite this, it is very delicious and grants any who consume it heightened energy levels and awareness. After eating the chocolate bar as a bonus action, you can take an additional action this turn and your movement speed is doubled. Additionally, you have advantage on perception checks. At the start of your next turn, these effects end and you either gain a level of exhaustion, or become incapacitated (your choice).

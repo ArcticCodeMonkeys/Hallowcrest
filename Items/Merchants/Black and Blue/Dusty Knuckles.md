@@ -1,0 +1,2 @@
+Uncommon, Brass Knuckles (400gp), (Requires Attunement)
+While attuned to these knuckles, your unarmed strikes become magical, have a +1 bonus to hit and damage rolls, and you can use a d6 in place of the normal damage of your unarmed strikes. Additionally, whenever you hit a creature with an unarmed strike, you can use a bonus action to attempt to concuss the creature. The target must succeed a DC 13 Constitution Saving Throw or be Dazed until the end of its next turn.

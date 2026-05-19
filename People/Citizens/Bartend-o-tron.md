@@ -1,0 +1,1 @@
+![[Bartendotron.jpg]]A well known and well liked bartender automaton of [[The Rusty Tankard]]

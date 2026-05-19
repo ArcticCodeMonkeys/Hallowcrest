@@ -1,0 +1,1 @@
+A particularly prominent figure of the Precursors, said to have a Soul Bond with another unknown creature known coloqiually as [[Y]]. It is unclear what type of creature Y was, but it seemed to be about 2 to 3 times bigger than X and was quadrapedal according to Precursor artistic depictions.

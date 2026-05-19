@@ -1,0 +1,1 @@
+![[Trixie Featherington.jpg]]Faerie member of [[The Keepers of Oak]]. Constantly getting into trouble and annoying people. Member of [[The Picksies]].

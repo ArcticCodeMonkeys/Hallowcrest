@@ -1,0 +1,1 @@
+A Displacer Beast said to have a [[Soul Bond]] with [[Ne're D. Darke]]. Its fate is unknown and was last told to have retreated to the Underdark after [[Ne're D. Darke]] died at the end of the Dark Era.

@@ -25,3 +25,6 @@ Stock:
 | Eversmoking Bottle           | 500gp  |
 | Pixie Dust                   | 400gp  |
 | Green Chromatic Rose         | 1500gp |
+
+
+District: [[Silverside]]

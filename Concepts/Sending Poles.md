@@ -1,0 +1,1 @@
+Small poles spotted around the city, these poles are fitted with a single sending stone stuck in the pole. Set up by [[The Magistrate]], the sending stones connect to a large communications room which can be used for emergencies. This can be used to call for the [[Sovereign Guard]], [[Rainwalkers]], or [[Lifeweavers]].

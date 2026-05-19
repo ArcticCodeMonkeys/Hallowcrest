@@ -1,0 +1,1 @@
+![[Professor Thimblebang.jpg]]Gnome; Head of Research at [[Factions/Aurora College]]; Close friend of [[Octavius Aurelius]]; Teaches mostly Alchemy and Evocation

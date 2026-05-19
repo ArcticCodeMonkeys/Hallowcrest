@@ -1,0 +1,4 @@
+
+Monestary outpost of [[Ember's Creed]] members atop [[Searclaw's Rest]]. The conditions here are very harsh, with intense wind and cold. Many people die attempting to get to the peak and even more die while they are there. The cold and the training forge the monks and sorcerers who travel there into mighty warriors. Members of [[Ember's Creed]] believe this place to be sacred, as it is where [[Searclaw]] remains in his lair. On [[Victory Day]], many members will make the climb to the top of [[Searclaw]]'s rest in order to reach the peak before sunrise, when [[Searclaw]] makes his decent over the city. They will then fly after him, use their slow falling abilities, or more recently, gliders created by the [[Society of Higher Minds]] to follow after him and decend into the city.
+
+

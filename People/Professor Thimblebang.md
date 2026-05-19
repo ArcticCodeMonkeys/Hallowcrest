@@ -1,1 +1,0 @@
-Head of Research at Aurora College, Close friend of Octavious Aurelius

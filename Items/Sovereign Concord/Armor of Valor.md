@@ -1,0 +1,3 @@
+Uncommon, Half Plate or Plate (400gp), (Requires Attunement)
+
+While wearing this armor, you have an aura of valor and hope. Whenever you hit a creature with an attack for the first time on your turn, you can give one creature other than yourself temporary hit points equal to 2d8 + your Charisma Modifier. Once you do, you cannot do so until a creature misses you with an attack, or you finish a short rest.

@@ -1,0 +1,2 @@
+![[Rellana Domino.jpg]]
+College of Valor Bard, member of the [[Fucked Up Four]] and Co-Owner of [[Unearthed Arcana]]. She is quite serious and blunt, doesn't like negotiations and is perfectly fine letting a customer leave unhappy if what they offer isn't enough. Her sister, [[Savannah Domino]] is a well known criminal, which irks her as it stains her family name and makes people associate her with her sister.

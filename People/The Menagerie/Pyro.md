@@ -1,0 +1,5 @@
+![[Pyro.jpg]]Path of Boiling Blood barbarian, hot headed Bruiser of [[The Menagerie]].
+
+Pyro is a descendant of an Effreti and lived in [[The Capital]] for most of his life when he heard word of [[The Menagerie]]. He had been training for the [[Sovereign Guard]] but hated the bureaucracy and reports, not to mention the constant jeering about his appearance and tendency to burn paperwork. He had quite the explosive exit as he set fire to the station he worked at before leaving for [[Hallowcrest]]. 
+
+As a member of [[The Menagerie]], Pyro is an enforcer, being sent on missions that require no tact and pure force. He is extremely brazen, blunt, and outlandish. He has a very bad anger problem and will heat up (literally) whenever insulted, especially about his appearance. He also loves cocaine.

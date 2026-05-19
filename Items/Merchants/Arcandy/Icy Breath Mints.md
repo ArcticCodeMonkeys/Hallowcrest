@@ -1,0 +1,3 @@
+*Wondrous Consumable, Uncommon (150gp)*
+
+These mints come in a tin containing 4 mints. You can consume a mint as a bonus action, granting you advantage on persuasion checks for the next hour. Additionally, as bonus action or in place of an attack made as part of the attack action once per turn, you can exhale a breath of frost and ice, forcing all creatures in a 20-foot cone centered on yourself to make a DC 14 Dexterity Saving Throw or take 2d8 cold damage, or half as much on a success.

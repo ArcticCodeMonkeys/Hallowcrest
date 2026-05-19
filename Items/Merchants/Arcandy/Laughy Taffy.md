@@ -1,0 +1,3 @@
+*Wondrous Consumable, Common (15gp)*
+
+This taffy comes in a variety of flavors, all of which are bizarre combinations of exotic fruits. A creature which consumes this taffy must succeed a DC 15 Constitution Saving Throw or be overwhelmed with laughter. The creature is under the effects of Tasha's Hideous Laughter for the next minute. At the start of each of the creature's turn and whenever it takes damage, it repeats the saving throw, ending the effect on a success.

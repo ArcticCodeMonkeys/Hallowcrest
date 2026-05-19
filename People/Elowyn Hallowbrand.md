@@ -1,1 +1,0 @@
-Son of Aurora Stellaris and Gestalt Hallowbrand. Current lord of Hallowcrest

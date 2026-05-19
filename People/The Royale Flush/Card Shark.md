@@ -1,0 +1,2 @@
+![[Card Shark.jpg]]
+Constructs made of casino chips and playing cards. [[The Royale Flush]] uses them for piracy and executions. Numerous can be found on display at [[Fortune's Favor]] in a large aquarium.
