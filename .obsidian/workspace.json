@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Cities/Hallowcrest.md",
+                "file": "Locations/Districts/The Docks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hallowcrest"
+              "title": "The Docks"
             }
           }
         ],
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Cities/Hallowcrest.md",
+                "file": "Locations/Districts/The Docks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hallowcrest"
+              "title": "Outline of The Docks"
             }
           }
         ],
@@ -252,13 +252,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "githobs:Manage a github issue": false
+      "github-sync-multi-platform:Obsidian-Github-Sync-Multi-Platform: Sync all notes": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "0ad8521b7d7dc42a",
   "lastOpenFiles": [
-    "Locations/Districts/The Lion's Den.md",
+    "Locations/Districts/Silverside.md",
+    "Historical Events/The Battle of Ash and Ember.md",
     "Locations/Cities/Hallowcrest.md",
+    "_templates/toggle-publish.md",
+    "_templates",
+    "Locations/Districts/The Lion's Den.md",
     "People/Aurora College/Marcus Stellaris.md",
     "Locations/Cities/Rosedale.md",
     "Locations/Taverns/The Booby Trap.md",
@@ -266,7 +271,6 @@
     "Locations/Districts/The Docks.md",
     "Locations/Districts/Shamblewood.md",
     "Locations/Districts/High Grounds.md",
-    "Locations/Districts/Silverside.md",
     "Locations/Taverns/Wet Stone.md",
     "Locations/Taverns/Vanessa's.md",
     "Locations/Taverns/The Treetop Tavern.md",
@@ -281,8 +285,6 @@
     "Locations/Districts/The Crypts.md",
     "Locations/Stores/The Shaded Hat.md",
     "Locations/Stores/The Bank of Holding.md",
-    "Locations/Stores/Tats, The Way I Like It.md",
-    "Locations/Stores/Spice Of Life.md",
     "Plot/The Grand Game",
     "Historical Events/Timeline.canvas",
     "Historical Events/Eras",
@@ -303,7 +305,6 @@
     "Untitled 1.base",
     "Plot/Perfecting the People",
     "Plot",
-    "People/Citizens",
     "Untitled.canvas",
     "Timeline.canvas",
     "Untitled 1.canvas"

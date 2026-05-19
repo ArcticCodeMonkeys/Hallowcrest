@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ![[The Battle of Ash and Ember.png]]
 
 [[Hallowcrest]]’s origins are rooted in a pivotal moment in history. In 1244 SE, [[Ne're Darke]] threatened to gain control of an ancient deep / black (accounts are inconsistent) dragon named [[Daurgothoth]] who inhabited the caverns of the towering mountain range in the recently discovered [[Silver Coast]]. Using psionic crystals mined from deep underground, [[Ne're Darke]] constructed [[The Mindrend Crown]] and enslaved the dragon’s mind and unleashed terror on nearby regions.
@@ -16,5 +19,8 @@ In the aftermath of the battle, [[Aurora Stellaris]] established and lead a sett
 
 [[Hallowcrest]] honours the sacrifices of the Battle of Ash and Ember with an annual festival, known as [[Victory Day]], during which [[Searclaw]] flies over the city, his fiery silhouette a symbol of courage, strength, and renewal. The festival brings the city together in a vibrant celebration of its history and resilience.
 
+
+
+YESSSSIRRRR
 
 

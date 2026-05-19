@@ -52,5 +52,14 @@
       ],
       "key": "6"
     }
+  ],
+  "templater-obsidian:_templates/toggle-publish.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
   ]
 }

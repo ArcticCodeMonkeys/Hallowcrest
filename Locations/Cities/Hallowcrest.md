@@ -48,7 +48,6 @@ The large forest of mostly willow and oak trees to the South of [[Hallowcrest]],
 
 There are 3 entrances to the city, the Main Entrance being from the North Gate, while two others, the South Gate and the East gate lead out into the wilderness. [[The Docks]] are actually the most common entrance point however, since [[Hallowcrest]] has no neighboring cities.
 
-Testing
 ## Layers:
 
 Hallowcrest is commonly considered to have 'Layers' to the city. 
