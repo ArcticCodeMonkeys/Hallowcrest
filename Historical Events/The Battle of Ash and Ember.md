@@ -21,6 +21,3 @@ In the aftermath of the battle, [[Aurora Stellaris]] established and lead a sett
 
 
 
-YESSSSIRRRR
-
-
