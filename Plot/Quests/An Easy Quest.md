@@ -97,3 +97,8 @@ If the party manages to get past [[Ne're Darke]] and [[The Royale Flush]] attemp
 "Well I'd recommend heading to [[Fellowship of the Frontier]]. Its an adventurers guild in [[Silverside]]. Ask around there and people will get you situated."
 
 "I almost forgot, your payment"
+
+Each player will be given 150 crowns and 1 Renown for Aurora College.
+
+"Oh and if you're interested, Aurora College is still accepting students for the next semester until the end of next week. It is one of the most prestigious colleges in the world, so if you've been looking to expand your knowledge of the arcane then head to our admissions office to fill out a form."
+
