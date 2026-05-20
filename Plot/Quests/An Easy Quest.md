@@ -55,5 +55,21 @@ Good Luck
 -X
 "
 
+If the party fails the combat and Captain Kriss gets away, they fail the quest.
 
+Otherwise, they will be able to fend off the [[Ne're Darke]] forces. The living crew members will thank the party greatly for their help, and give a bit of information about [[Ne're Darke]], though just basic info.
+
+### Encounter: Anyone Know How To Drive This Thing?
+
+
+With the captain dead and the ship riddled with holes, the party will have to attempt to pilot the ship into port at [[Hallowcrest]]. 
+
+People can make a variety of checks to attempt to patch holes in the ship, man the sails, and steer the ship, when they get close to [[The Docks]], people can make more checks to attempt to steer, tie ropes, and close sails.
+
+
+### Encounter: Papers Please
+
+[[Quinn Hammer]] arrives at the port just on time for the party to arrive. He will walk up to the party and attempt to trick them into believing he is port authority. 
+
+"Hey, Quinn Hammer, member of the Port Trades and Exchange Guild. I'm going to need to see your manifest and inspect your cargo. Names and place of origin please." Deception +6)
 
