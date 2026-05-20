@@ -7,6 +7,3 @@ Along their adventures, the two became incredibly close friends. They spend ever
 In [[The Battle of Ash and Ember]], [[Gestalt Hallowbrand]] was killed, leading [[Searclaw]] to become incredibly reclusive and depressed. He retreated into the nearby volcanic mountain, which was then dubbed [[Searclaw's Rest]], where he has remained for the last 27 years. He only leaves once per year, on the anniversary of [[The Battle of Ash and Ember]], [[Victory Day]]. 
 
 Searclaw is well respected and loved by the people of [[Hallowcrest]], especially by the group known as [[Ember's Creed]]. They are a group / religion dedicated to his worship and praise. Worshipers of [[Searclaw]] are sometimes bestowed great powers by him and worship him for his power, strength, and heroics.
-
-
-%%CENSOR%%Searclaw is also secretly Astrael Deus in disguise%%/CENSOR%%

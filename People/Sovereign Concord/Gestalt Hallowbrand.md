@@ -8,4 +8,6 @@ Gestalt began his adventures at the age of 18, as early as his mother and father
 A renowned leader, Hero, and savior of Hallowcrest, Gestalt is respected by just about any person in [[Hallowcrest]]. His wife, [[Aurora Stellaris]] bore his twin sons, [[Marcus Stellaris]] and [[Elowyn Hallowbrand]], who both look to make names for themselves in two very different ways.
 
 
-At the age of just 23, Gestalt Hallowbrand was cursed by a hag in the [[Golden Plains]] for him and all of his descendants to permanently have white hair. No amount of magic or dye could ever change the color of their hair.
+%%CENSOR%%At the age of just 23, Gestalt Hallowbrand was cursed by a hag in the [[Golden Plains]] for him and all of his descendants to permanently have white hair. No amount of magic or dye could ever change the color of their hair.%%/CENSOR%%
+
+
