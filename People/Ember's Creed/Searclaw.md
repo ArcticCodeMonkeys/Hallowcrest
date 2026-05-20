@@ -8,3 +8,5 @@ In [[The Battle of Ash and Ember]], [[Gestalt Hallowbrand]] was killed, leading 
 
 Searclaw is well respected and loved by the people of [[Hallowcrest]], especially by the group known as [[Ember's Creed]]. They are a group / religion dedicated to his worship and praise. Worshipers of [[Searclaw]] are sometimes bestowed great powers by him and worship him for his power, strength, and heroics.
 
+
+%%CENSOR%%Searclaw is also secretly Astrael Deus in disguise%%/CENSOR%%
