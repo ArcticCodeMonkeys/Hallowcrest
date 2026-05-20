@@ -71,5 +71,29 @@ People can make a variety of checks to attempt to patch holes in the ship, man t
 
 [[Quinn Hammer]] arrives at the port just on time for the party to arrive. He will walk up to the party and attempt to trick them into believing he is port authority. 
 
-"Hey, Quinn Hammer, member of the Port Trades and Exchange Guild. I'm going to need to see your manifest and inspect your cargo. Names and place of origin please." Deception +6)
+"Hey, Quinn Hammer, member of the Port Trades and Exchange Guild. I'm going to need to see your manifest and inspect your cargo. Names and place of origin please." Deception (+6)
 
+If the party doesn't allow him on their ship, he will threaten to call the [[Sovereign Guard]] and cite legal documents stating fines of up to 100 gold per person. He will not actually call the guards though, and will instead just leave and send [[Jack Rivers]] to keep an eye on the party.
+
+If the party allows him on their ship, he will likely immediately see the bodies on the ship, but play it cool:
+
+"Ah, Ne're Darke ambush? Seems like you handled yourselves pretty well."
+
+Then he will search through the cargo in search for [[The Sage Mind]].
+
+[[Card Shark]]s circle the ship below, and [[Quinn Hammer]] will attempt to quickly toss [[People/Precursors/The Sage Mind|The Sage Mind]] out of the port hole and into the ocean, where the [[Card Shark]]s will take [[People/Precursors/The Sage Mind|The Sage Mind]] to [[The Maestro]].
+
+If he is caught at any point, he will attempt to escape using a Misty Step Tattoo and then running through the alleyways towards [[Fortune's Favor]].
+
+
+### Encounter: Sign Here
+
+If the party manages to get past [[Ne're Darke]] and [[The Royale Flush]] attempting to steal [[People/Precursors/The Sage Mind|The Sage Mind]], they can wait about an hour on the ship for a [[Sovereign Guard]] escort to [[Locations/Hideouts/Aurora College|Aurora College]]. When they arrive, they will meet [[Aurora Stellaris]].
+
+"Thank you very much travellers. This orb is quite precious so I am very thankful you have brought it to me in one piece."
+
+"Will you be staying in Hallowcrest? Most do for some reason or another."
+
+"Well I'd recommend heading to [[Fellowship of the Frontier]]. Its an adventurers guild in [[Silverside]]. Ask around there and people will get you situated."
+
+"I almost forgot, your payment"
