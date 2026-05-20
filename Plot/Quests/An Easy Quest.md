@@ -15,9 +15,9 @@ Guy, how does X react?
 
 ### Encounter: A Sudden Awakening
 
-Hostile Creatures: 6 Ne're Darke Initiates, 1 Ne're Darke Elite
+Hostile Creatures: 5 Ne're Darke Initiates, 1 Ne're Darke Elite
 
-Friendly Creatures: 4 Crewmates
+Friendly Creatures: 2 Crewmates
 
 Unique Mechanic: 2 of the Ne're Darke Initiates are below deck on the Ne're Darke ship firing Cannons, once on initiative 15 and again on initiative 5. When they fire a cannon, roll a d100:
 
@@ -38,7 +38,10 @@ The ships are moving at 60 feet per round.
 
 Loot:
 Each Ne're Darke Member has:
-- 1 Scimitar
-- 1 Pistol
-- 
+- 1 Shortsword (10gp) or 1 Pistol (20gp)
+- Leather Armor (10gp)
+- 1d4 + 2 rounds of ammunition or 1d6 + 2 copper pieces
+The Ne're Darke Elite also has:
+- Studded Leather (instead of Leather)
+- A letter from 
 
