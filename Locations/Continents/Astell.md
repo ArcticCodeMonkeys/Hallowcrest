@@ -1,3 +1,6 @@
+---
+publish: true
+---
 The Material Plane. Not fully explored or mapped yet. There are 3 main continents so far:
 
 [[Golden Plains]], the most populated area, with large fields of grain, located to the west.

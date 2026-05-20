@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ![[Ne're D Darke.jpg]]
 
 A powerful [[Chosen]] of Lolth, granted immortality and control over spiders and shadow. He was born in 1389 DE and was trained from birth to be the strongest and most powerful humanoid on the plane. The early generations of drow grew into dominance mainly due to their harshness and tenacity, living by the survival of the fittest ideology. In 1512 DE, Ne're D. Darke was a powerful war general and fighter, having formed a [[Soul Bond]] with a Displacer Beast whom he named [[Shadow]]. It was during a large battle against the mindflayers that Lolth appeared to him, recognizing his strength and ruthlessness as a great feat. She offered to make him immortal as her [[Chosen]], a deal he could not turn down. 

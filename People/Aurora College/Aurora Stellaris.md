@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ![[Aurora Stellaris.jpeg]]
 Elf, Powerful Mage and Diviner and founder of [[Locations/Hideouts/Aurora College|Aurora College]]. She was the first to divine the plan of [[Ne're Darke]] to capture [[Daurgothoth]] and was a crucial actor in [[The Battle of Ash and Ember]], where she met [[Gestalt Hallowbrand]]. The two worked closely together and ultimately ended up conceiving twin sons just days before [[Gestalt Hallowbrand]]'s death.
 

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ![[Marcus Stellaris.jpeg]]Son of [[Aurora Stellaris]] and [[Gestalt Hallowbrand]], current dean of [[Factions/Aurora College]]. He is a strong intellectual and powerful mage, mostly focused on research and pushing the bounds of what is possible with magic. 
 
 He does not care for his father, [[Gestalt Hallowbrand]]'s legacy, and wishes to make his own name for himself. As such, he has taken the last name of his mother instead. As such, he also does not have the best of relationships with his twin brother [[Elowyn Hallowbrand]], who feels his ignorance towards his father is disrespectful.

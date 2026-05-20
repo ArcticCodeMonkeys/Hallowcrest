@@ -1,3 +1,6 @@
+---
+publish: true
+---
 Duration: 1273 years (present day)
 
 Signing a treaty ensuring that they would never break this peace, the civilizations established the [[Sovereign Concord]]. A global alliance in peace, trade, and strength, the [[Concord of Sovereign Nations]] marked the beginning the Sovereign Era (SE). By 127 SE, [[the Capital]] was constructed, the largest city in [[Astell]] where all trades went through and the rich and elite were able to live burdenless lives. 

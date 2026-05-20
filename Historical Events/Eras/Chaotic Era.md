@@ -1,3 +1,6 @@
+---
+publish: true
+---
 Estimated Duration: 1,000,000 years
 
 Historians believe that the plane was created by some sort of cascading event, many attribute the cause of this event to be some God; Mystra, Ao, Selune, and Shar are common hypothesized creators. Regardless, the first to inhabit the plane were the elementals. Their chaotic power synthesized mountain and sea, sky and fire, plant and ash, and even life and death. The elementals battled and conflicted, their opposing nature causing ruptures in the plane. The gods banished the elementals to outer planes, one for each element, leaving behind only their byproducts. 

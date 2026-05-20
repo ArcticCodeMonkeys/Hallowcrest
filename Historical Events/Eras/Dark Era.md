@@ -1,3 +1,6 @@
+---
+publish: true
+---
 Duration: 2678 Years
 
 Marked by the event known as the [[Silent Departure]]. The [[Precursors]] suddenly vanished, without a trace. Historical analysis consistently places the newest [[Precursors]] artifacts at around 2000 years old. Explanations for why they left are few and far between. Historians have attempted to draw conclusions from abandoned structures and what little traces of information were left behind, but the cause is unknown. Some speculate the Gods struck them from the plane as they did to the elementals, while others believe they left of their own volitions. Regardless, they vanished without trace, leaving behind their ruined monuments and powerful artifacts. Upon their disappearance, the Gods influence became more pronounced in the world. Devils, Demons, and Celestials were created, and all other species, especially humanoids, began to quickly evolve into their current forms.

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ![[Elowyn Hallowbrand.jpg]]Elowyn is the son of [[Aurora Stellaris]] and [[Gestalt Hallowbrand]] and the current lord of [[Hallowcrest]].
 
 While his official title is Lord Hallowbrand, he is often referred to by an assortment of nicknames, such as Wyn, The Young Lord, The Boy Among Men, and The Burdened Son. Most of these refer to his position as one of the youngest lords in recorded history. At the young age of 17, he became lord of [[Hallowcrest]], taking the place of his mother [[Aurora Stellaris]] who held the position for 17 years. For the past 9 years, Elowyn relied on a group of royal advisors to make most of his major decisions, but grew tired of the infighting and conflicting opinions. Just last year, he has decided to make major decisions mostly by himself, keeping only a few advisors for more niche issues.

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 LE: Lost Era, Estimated Duration: 4000 years
 

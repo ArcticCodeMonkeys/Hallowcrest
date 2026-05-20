@@ -1,2 +1,5 @@
+---
+publish: true
+---
 
 The underdark is a large cavernous system located underground. Its extent is unknown to most, but rumors say that it spans all three continents. Inhabited and controlled mostly by the drow and [[Ne're Darke]], there are some more dangerous sections which are inhabited by mindflayers.

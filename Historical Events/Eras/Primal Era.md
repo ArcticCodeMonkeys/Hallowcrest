@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 Estimated Duration: 20,000 years
 

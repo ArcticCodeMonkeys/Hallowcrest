@@ -1,3 +1,6 @@
+---
+publish: true
+---
 Not much is known about the early history of [[Astell]], very few archeological findings have been found before modern day, and even fewer historical records. History is split into 5 eras
 
 - [[Chaotic Era]] (CE), ~1,000,000 years
