@@ -43,5 +43,15 @@ Each Ne're Darke Member has:
 - 1d4 + 2 rounds of ammunition or 1d6 + 2 copper pieces
 The Ne're Darke Elite also has:
 - Studded Leather (instead of Leather)
-- A letter from 
+- A letter
+
+The letter says:
+
+"The cargo should be arriving around 10am, mid sized galleon, 120ft. 6-8 crew members, mercenary body guards, untrained. Target is a melon sized blue orb, located in the lower cargo bay. Payout is 80 dragons to each member of your crew, plus another 100 for yourself. Dead drop at Tango, mid day.
+
+Good Luck
+-X
+"
+
+
 
