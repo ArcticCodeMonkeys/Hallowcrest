@@ -1,2 +1,2 @@
 
-An event taking place in 678 DE, where all major nations (excluding the Underdark) signed a treaty to peace and broker an alliance between nations for trade and prosperity. This marks the start of the Sovereign Era (SE)
+An event taking place in 678 DE, where all major nations (excluding the [[Underdark]]) signed a treaty to peace and broker an alliance between nations for trade and prosperity. This marks the start of the [[Sovereign Era]] (SE)

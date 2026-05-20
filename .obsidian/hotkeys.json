@@ -70,5 +70,13 @@
       ],
       "key": "X"
     }
+  ],
+  "tag-pane:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
   ]
 }
