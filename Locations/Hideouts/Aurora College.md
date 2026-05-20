@@ -12,7 +12,7 @@ Key Figures:
 - [[Professor Thimblebang]] - Professor, School of Evocation, Head of Research%%/CENSOR%%
 
 
-Aurora College has a house system, with 4 key houses
+%%CENSOR%%Aurora College has a house system, with 4 key houses
 
 [[Chroma]]:
 - Mascot: Modron
@@ -29,7 +29,7 @@ Aurora College has a house system, with 4 key houses
 [[Aegis]]
 - Mascot: Battle Angel
 - Personality: Noble, Humble, Selfless, Dumb, Trouble Makers 
-
+%%/CENSOR%%
 District: [[Silverside]]
 
 
