@@ -26,6 +26,11 @@ def collect_images(content):
     for img in wiki_imgs + md_imgs:
         referenced_images.add(os.path.basename(img))
 
+def redact_censor_block(match):
+    block = match.group(0)
+    line_count = block.count("\n") + 1
+    return "\n".join(["█████"] * line_count)
+
 def process_markdown(path):
     with open(path, "r", encoding="utf-8") as f:
         text = f.read()
@@ -33,6 +38,10 @@ def process_markdown(path):
     if not should_publish(fm):
         return None
     collect_images(body)
+    
+    # Replace censored blocks with redacted text
+    body = re.sub(r'%%CENSOR%%.*?%%/CENSOR%%', redact_censor_block, body, flags=re.DOTALL)
+    
     fm.pop("publish", None)
     out_fm = yaml.dump(fm, allow_unicode=True).strip() if fm else ""
     if out_fm:

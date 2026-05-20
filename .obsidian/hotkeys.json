@@ -61,5 +61,14 @@
       ],
       "key": "P"
     }
+  ],
+  "censor-tool:toggle-censor": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "X"
+    }
   ]
 }
