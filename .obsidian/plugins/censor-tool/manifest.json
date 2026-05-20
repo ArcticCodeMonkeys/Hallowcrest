@@ -1,0 +1,9 @@
+{
+  "id": "censor-tool",
+  "name": "Censor Tool",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Wrap selected text in censor markers for publish filtering",
+  "author": "ArcticCodeMonkeys",
+  "isDesktopOnly": true
+}
