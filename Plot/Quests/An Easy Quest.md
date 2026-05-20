@@ -15,7 +15,7 @@ Guy, how does X react?
 
 ### Encounter: A Sudden Awakening
 
-Hostile Creatures: 5 Ne're Darke Initiates, 1 Ne're Darke Elite
+Hostile Creatures: 5 Ne're Darke Initiates, 1 Ne're Darke Elite (Captain Kriss)
 
 Friendly Creatures: 2 Crewmates
 
@@ -36,15 +36,17 @@ The cargo ship has one cannon with 3 cannon balls. A creature can load the canno
 
 The ships are moving at 60 feet per round.
 
+Captain Kriss will attempt to get down into the Cargo Bay to acquire [[Items/Artifacts/The Sage Mind|The Sage Mind]], then exit the ship via the zip lines. 
+
 Loot:
 Each Ne're Darke Member has:
-- 1 Shortsword (10gp) or 1 Pistol (20gp)
+- 1 Shortsword (10gp) and 1 Pistol (20gp) (ones on the other ship don't have guns)
 - Leather Armor (10gp)
 - 1d4 + 2 rounds of ammunition or 1d6 + 2 copper pieces
 The Ne're Darke Elite also has:
-- Studded Leather (instead of Leather)
+- Studded Leather (instead of Leather) (45gp)
 - A letter
-
+(Total Estimated Sell Price: )
 The letter says:
 
 "The cargo should be arriving around 10am, mid sized galleon, 120ft. 6-8 crew members, mercenary body guards, untrained. Target is a melon sized blue orb, located in the lower cargo bay. Payout is 80 dragons to each member of your crew, plus another 100 for yourself. Dead drop at Tango, mid day.
