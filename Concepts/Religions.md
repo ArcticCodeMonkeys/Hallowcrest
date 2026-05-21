@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 There are a few main religions in Hallowcrest:
 
