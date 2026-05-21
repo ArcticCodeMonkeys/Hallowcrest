@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 [[Hallowcrest]] has some nicknames for its currency, which is issued by [[The Capital]].
 

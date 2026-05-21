@@ -6,17 +6,17 @@ The Year is split up into 10 months, each are 30 days, plus Genesis, which is a 
 
 Months:
 
-Genesis (5 days)
-Aortum
-Kelemvorn
-Bahamus
-Selunum
-Lathand
-Mystril
-Oghm
-Torim
-Sharil
-Ilmatum
+- Genesis (5 days)
+- Aortum
+- Kelemvorn
+- Bahamus
+- Selunum
+- Lathand
+- Mystril
+- Oghm
+- Torim
+- Sharil
+- Ilmatum
 
 Seasons:
 Spring: Aortum -> Bahamus
