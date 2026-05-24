@@ -1,9 +1,12 @@
+---
+publish: true
+---
 
 
 ## Basic Description
 
 Individuals devoted to research, invention, and brilliance. Formed in [[Hallowcrest]] upon its creation, it hasn't gained much momentum until recently, when  Panel of "Leaders" called Enlightened Ones
-
+%%CENSOR%%
 ## Important Members
 
 - [[Dr. Edward Monroe]] - Enlightened One
@@ -15,10 +18,12 @@ Individuals devoted to research, invention, and brilliance. Formed in [[Hallowcr
 - [[Breelyn Brew]] - Alchemist
 ## Hideouts / Guild Houses
 
-- [[The Auditorium]]
+- [[The Auditorium]]%%/CENSOR%%
 ## Symbols and Attire
 
 ![[Society of Higher Minds Symbol.jpg]]
+
+%%CENSOR%%
 ## Renown
 
 Hostile: 
@@ -42,3 +47,4 @@ Allied
 
 ## Quests
 
+%%/CENSOR%%

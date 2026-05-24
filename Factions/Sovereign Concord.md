@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 ## History
 In 2678 DE, all of the major civilizations in the plane came together to form a peace alliance, excluding [[Ne're Darke]], in an event known as the [[Concord of Sovereign Nations]]. Signing a treaty ensuring that they would never break this peace, the civilizations established the [[Sovereign Concord]], a global alliance in peace, trade, and strength, and establishing the Sovereign Era (SE). By 127 SE, [[the Capital]] was constructed, the largest city in the Plane where all trades went through and the rich and elite were able to live burdenless lives. 
@@ -9,7 +12,7 @@ Upon the establishment of Hallowcrest in 1246 SE, the [[Sovereign Concord]] sent
 ## Basic Description
 
 In Hallowcrest, the Sovereign Concord is the presiding force controlling the city, creating laws, and enforcing justice. Lead by the lord of Hallowcrest, [[Elowyn Hallowbrand]], the Sovereign Concord has a large group of trained city guards, called the [[Sovereign Guard]].
-
+%%CENSOR%%
 ## Important Members:
 
 - [[Gestalt Hallowbrand]] - Original Lord and Founder of Hallowcrest, 5th Commander of the Sovereign Concord
@@ -22,7 +25,7 @@ In Hallowcrest, the Sovereign Concord is the presiding force controlling the cit
 
 - [[Smokepowder Keep]] - The Main Castle of [[Hallowcrest]], home of [[Elowyn Hallowbrand]] and main operations center for the [[Sovereign Guard]]
 - [[Ironwrought Prison]] - The highest security prison in [[Hallowcrest]], made for the most famous and dangerous criminals
-- [[Sealed Vault]], a large vault containing [[The Ashen Horn]] and the sovereign wealth.
+- [[Sealed Vault]], a large vault containing [[The Ashen Horn]] and the sovereign wealth.%%/CENSOR%%
 ## Symbols and Attire
 
 ![[Sovereign Concord Crest.jpg]]
@@ -31,6 +34,7 @@ In Hallowcrest, the Sovereign Concord is the presiding force controlling the cit
 
 
 ![[Sovereign Guard Member.jpeg]]
+%%CENSOR%%
 ## Renown
 
 Hostile: 
@@ -52,3 +56,4 @@ Allied
 - [[The Keepers of Oak]]
 
 ## Quests
+%%/CENSOR%%

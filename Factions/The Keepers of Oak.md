@@ -1,10 +1,15 @@
+---
+publish: true
+---
 
 
 ## Basic Description
 
 Druidic order with a base just outside of the city. Mostly druids, some rangers, nature clerics, and Nature Wizards.
-
+%%CENSOR%%
 Some serve as [[Lifeweavers]] and [[Rainwalkers]], and a few are on a [[Mage Tower]] team called [[The Picksies]]. 
+
+
 ## Important Members
 
 - [[Tania Fern]] - Leader of The Keepers of Oak
@@ -19,12 +24,14 @@ Some serve as [[Lifeweavers]] and [[Rainwalkers]], and a few are on a [[Mage Tow
 ## Hideouts / Guildhouses
 
 - [[The Tree of Life]] - Main hub of [[The Keepers of Oak]]
-- [[The Treetop Tavern]] - A large outdoor tavern atop a large tree
+- [[The Treetop Tavern]] - A large outdoor tavern atop a large tree%%/CENSOR%%
 ## Symbols and Attire
 
 ![[Keepers of Oak Crest.jpg]]
 
 ![[Keepers of Oak Symbol.jpg]]
+
+%%CENSOR%%
 ## Renown
 
 Hostile: 
@@ -54,3 +61,4 @@ Allied
 The Keepers of Oak have a [[Mage Tower]] team, called [[The Picksies]]
 
 Motif: https://www.youtube.com/watch?v=YR_wIb_n4ZU
+%%/CENSOR%%

@@ -1,9 +1,12 @@
+---
+publish: true
+---
 #### **Basic Description:**
 
 A criminal organization in [[Hallowcrest]], sharing its name with their parent organization residing in the [[Underdark]]. It is composed mostly of drow, with some exceptions for powerful creatures and adventurers. They trade in illegal goods such as poisons, illegal creatures, and smokepowder. They also are criminals for hire, able to be licensed out to steal something, kill someone, or smuggle anything into the city.
 
 They are attempting to locate [[The Mindrend Crown]], in order to bargain or force their way into power in the [[Silver Coast]] and [[Hallowcrest]], as they almost were able to do in [[The Battle of Ash and Ember]].
-
+%%CENSOR%%
 #### **Important Members:**
 
 Leader – [[Zalaxor Nezere]]
@@ -23,14 +26,17 @@ A prominent clothing and attire store in the center of [[Grand Plaza]], secretly
 
 ###### [[The Silken Mirage]]
 A bustling tavern of criminals, not entirely restricted to Ne’re Darke members. Potential criminals can enter here looking for jobs or asking for requests. It is run by Zalaxor Nezere, who often makes appearances there. By ordering a shot of “Black Rum, Under the Table”, members of Ne’re Darke are granted access to the tunnel leading down into the main lair within the catacombs, just beneath the tavern.
-
+%%/CENSOR%%
 #### **Symbols and Attire:**
 
-Ne’re Darke is associated with two main symbols. The first is the logo for the Silken Mirage, and the second is the one they place upon their wax letter seals.
-
+%%CENSOR%%Ne’re Darke is associated with two main symbols. The first is the logo for the Silken Mirage, and the second is the one they place upon their wax letter seals.
+%%/CENSOR%%
 ![[Ne're Darke Symbol A.jpg]]
 
 ![[Ne're Darke Symbol B.jpg]]
+
+
+%%CENSOR%%
 ### Renown
 
 
@@ -54,4 +60,4 @@ Likes
 ## Other
 
 Ne're Darke has a Mage Tower team (though they are not officially tied to them); [[The Duskbloods]]
-
+%%/CENSOR%%
