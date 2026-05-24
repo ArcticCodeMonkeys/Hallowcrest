@@ -6,4 +6,12 @@
 - Character Creation
 - Plan One on Ones?
 
+ Questions for old players:
+- What was the best encounter in the last campaign, why?
+- What was the worst encounter in the last campaign, why?
+- Who was your favorite NPC in the last campaign, why?
+- Who was your most hated NPC in the last campaign, why?
+- How did you feel about pacing and encounter balance in the last campaign?
+
+
 Next: [[Session 1]]
