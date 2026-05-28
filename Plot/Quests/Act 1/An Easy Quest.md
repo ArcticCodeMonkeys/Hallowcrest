@@ -5,13 +5,13 @@ Alright, lets get started.
 
 The bright morning sun beats down on your face, forcing you to squint. The sway of your ship rocks you slowly but heavily as you stabilize your feet to keep your balance. The smell of the salty ocean fills the air, carried by the heavy eastern headwinds which cool down what would be a blistering spring morning. A torrent of scents beat through the salt, metallic, rotten, smokey. The sound of metal clashing rings out as the loud boom of a pistol rings out, bringing you back to your senses. Shouting all around, drow flying through the air, sliding across zip lines attached to another galleon not too far from your own. A bullet flies narrowly past your head and strikes the captain, drilling a hole in his head and killing him instantly. 
 
-Jaime, where is X?
+Jaime, where is Jackson?
 
-Archer, what is X doing?
+Archer, what is Mel doing?
 
-Edge, who is X fighting?
+Edge, who is Felicity fighting?
 
-Charly, how does X react?
+Charly, how does Kaida react?
 
 ### Encounter: A Sudden Awakening
 
