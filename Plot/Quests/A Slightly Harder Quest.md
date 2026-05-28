@@ -19,4 +19,22 @@ The current quests on the quest board are [[An Infestation]], [[A Very Important
 As the party looks for [[Dominic Hart]], they can find the following clues at the varying locations:
 
 [[Fine Print]]
-- A half written 
+- A map of the Crypts, partially finished with a red circle in some sort of Antechamber.
+- [[Cyrus Taloncroft]] mentions he had heard word of some criminal activity in the Crypts involving the disappearance of a fisherman in the Docks, told [[Dominic Hart]] about it but never suggested to actually investigate
+
+[[Vanessa's]]
+- The bartender says that [[Dominic Hart]] did actually show up last night, but only briefly. A cloaked figure sat down at the table with him, they spoke for a few minutes, and then they left together.
+- A patron says he overheard the cloaked figure say "I thought you were smarter than this" and "Lets go pay your father a visit" as they left the bar.
+
+[[Sir Finley Steinhart]]
+- He will affirm that [[Dominic Hart]]'s father is dead and buried in the crypts and that he doesnt have any friends other than him and his [[Ashley Hart]].
+
+[[Ashley Hart]]
+- Upon hearing that her father is missing, she will begin to panic. 
+- If the party can calm her down, she would be able to take them to where her grandfather was buried
+
+If the party finds enough clues to point them to the Crypts, they can attempt to navigate them. They can make an investigation or survival check, the DC for which depends on how they are trying to find it. it begins as a DC 20 Check, and the DC decreases for each of these aspe
+
+Ashley Hart: -10
+
+
