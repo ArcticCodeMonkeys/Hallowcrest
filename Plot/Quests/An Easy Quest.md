@@ -25,9 +25,8 @@ Unique Mechanic: 2 of the Ne're Darke Initiates are below deck on the Ne're Dark
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1-15   | Miss: No Damage                                                                                                                                         |
 | 16-40  | Minor Hit: 10 damage                                                                                                                                    |
-| 41-60  | Hit: 15 damage                                                                                                                                          |
-| 61-80  | Above Deck: 120 foot long, 5 foot wide line. DC 14 Dex Save or 3d8 bludgeoning, half on a success                                                       |
-| 80-95  | Critical Hit: 20 damage                                                                                                                                 |
+| 41-60  | Hit: 20 damage                                                                                                                                          |
+| 61-95  | Above Deck: 120 foot long, 5 foot wide line. DC 14 Dex Save or 3d8 bludgeoning, half on a success                                                       |
 | 96-100 | Mast: The ship's mast is destroyed.100 foot long, 10 foot wide line. DC 14 Dex Save or 4d6 bludgeoning, half on a success. The ship can no longer move. |
 
 The ship has 220 hit points, after it falls below half its maximum, it begins to sink. When it reaches 0, it completely falls apart.

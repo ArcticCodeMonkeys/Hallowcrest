@@ -15,3 +15,8 @@ If the party accepts, they can begin looking around for [[Dominic Hart]].
 If they decline, [[Sir Finley Steinhart]] will say "I understand, I'll put up a posting on the Quest Board. I just thought that perhaps you'd like to make a name for yourself? (very clearly guilt tripping).... If you still want money, there's some quests on the board. None all too exciting or rewarding, but to each their own."
 
 The current quests on the quest board are [[An Infestation]], [[A Very Important Mission]],  [[Lost Wedding Ring]]
+
+As the party looks for [[Dominic Hart]], they can find the following clues at the varying locations:
+
+[[Fine Print]]
+- A half written 
