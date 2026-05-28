@@ -31,8 +31,6 @@ Unique Mechanic: 2 of the Ne're Darke Initiates are below deck on the Ne're Dark
 
 The ship has 220 hit points, after it falls below half its maximum, it begins to sink. When it reaches 0, it completely falls apart.
 
-The cargo ship has one cannon with 3 cannon balls. A creature can load the cannon as an action and fire it as a bonus action. The creature can aim in a general location and roll to hit against it, using their dexterity modifier to hit. 
-
 The ships are moving at 60 feet per round.
 
 Captain Kriss will attempt to get down into the Cargo Bay to acquire [[Items/Artifacts/The Sage Mind|The Sage Mind]], then exit the ship via the zip lines. 
