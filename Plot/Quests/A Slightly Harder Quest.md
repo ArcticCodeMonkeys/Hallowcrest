@@ -33,8 +33,28 @@ As the party looks for [[Dominic Hart]], they can find the following clues at th
 - Upon hearing that her father is missing, she will begin to panic. 
 - If the party can calm her down, she would be able to take them to where her grandfather was buried
 
-If the party finds enough clues to point them to the Crypts, they can attempt to navigate them. They can make an investigation or survival check, the DC for which depends on how they are trying to find it. it begins as a DC 20 Check, and the DC decreases for each of these aspe
+If the party finds enough clues to point them to the Crypts, they can attempt to navigate them. They can make an investigation or survival check, the DC for which depends on how they are trying to find it. it begins as a DC 20 Check, and the DC decreases for each of these aspects they have
 
 Ashley Hart: -10
+Map: -5
+Dock Ward: -2
 
+On a failure, roll a d100 for a random crypt encounter, afterwards, repeat again.
 
+If it takes the party more than 1 day to find him, he will be killed, unless the party tells [[Sir Finley Steinhart]] that they have abandoned the search, in which case he will go after him himself. [[Dominic Hart]] and [[Sir Finley Steinhart]] will die.
+
+Upon finding the place where [[Dominic Hart]] is, they find him paralyzed by a poison and laying on a stone altar in an antechamber underneath The Docks. Bone saws and signs of necromancy fill the room. An Alarm spell will awaken 4 skeletons and 6 zombies from the antechamber who will attempt to kill the party. If the party spends more than 5 minutes within the antechamber after triggering the alarm, or arrives from 12-2am, they will encounter [[Panambre Stark]], who will attempt to kill them.
+
+[[Dominic Hart]] had discovered his antechamber and necromancy and spotted him exiting the place. [[Panambre Stark]] was already outcast due to his experiments with necromancy, but this expose would have ruined his career forever.
+
+If the party successfully saves Dominic Hart, they can return to [[Fellowship of the Frontier]] to receive their reward. 
+
+"DOMINIC, YOURE ALIVE! THANK FUCK!"
+
+"THANK YOU BRAVE HEROES! Let us share some ale and celebrate the safe return of my dear friend!"
+
+[[Sir Finley Steinhart]] will attempt to skirt around the topic of payment and will suggest that they discuss in the morning when they are not so drunk.
+
+If pressed however, he will confess
+
+"I must apologize for decieving you. You see I my purse has run dry as well, and I do not have the Crowns I promised you. But do not fret. For i have something much better. No guild fees for life! And since you're new to town, you'll need a place to stay! I'd offer you to stay at my place but.... no. I have so"
