@@ -87,7 +87,7 @@ If he is caught at any point, he will attempt to escape using a Misty Step Tatto
 
 If the party manages to get past [[Ne're Darke]] and [[The Royale Flush]] attempting to steal [[People/Precursors/The Sage Mind|The Sage Mind]], they can wait about an hour on the ship for a [[Sovereign Guard]] escort to [[Locations/Hideouts/Aurora College|Aurora College]]. When they arrive, they will meet [[Aurora Stellaris]].
 
-"Thank you very much travellers. This orb is quite precious so I am very thankful you have brought it to me in one piece."
+"Thank you very much travelers. This orb is quite precious so I am very thankful you have brought it to me in one piece."
 
 "Will you be staying in Hallowcrest? Most do for some reason or another."
 
