@@ -102,3 +102,9 @@ Each player will be given 150 crowns and 1 Renown for Aurora College.
 
 "Oh and if you're interested, Aurora College is still accepting students for the next semester until the end of next week. It is one of the most prestigious colleges in the world, so if you've been looking to expand your knowledge of the arcane then head to our admissions office to fill out a form."
 
+The Players now have one key lead, going to the [[Fellowship of the Frontier]] and picking up a quest.
+
+If the party gets [[Items/Artifacts/The Sage Mind|The Sage Mind]] stolen from them, and they still decide to go to Aurora Stellaris, she will be upset, but will still pay them 100 crowns each. She will not offer them to apply to Aurora College and instead will say "Well if you need money, [[Fellowship of the Frontier]] has some odd jobs you can do. I'd probably go there if I were you". her mind seems preoccupied with [[Items/Artifacts/The Sage Mind|The Sage Mind]].
+
+Heading to the [[Fellowship of the Frontier]], the party can begin [[A Slightly Harder Quest]]
+
