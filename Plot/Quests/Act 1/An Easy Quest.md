@@ -11,7 +11,7 @@ Archer, what is X doing?
 
 Edge, who is X fighting?
 
-Guy, how does X react?
+Charly, how does X react?
 
 ### Encounter: A Sudden Awakening
 
