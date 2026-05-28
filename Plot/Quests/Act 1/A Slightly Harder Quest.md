@@ -57,4 +57,16 @@ If the party successfully saves Dominic Hart, they can return to [[Fellowship of
 
 If pressed however, he will confess
 
-"I must apologize for decieving you. You see I my purse has run dry as well, and I do not have the Crowns I promised you. But do not fret. For i have something much better. No guild fees for life! And since you're new to town, you'll need a place to stay! I'd offer you to stay at my place but.... no. I have so"
+"I must apologize for decieving you. You see I my purse has run dry as well, and I do not have the Crowns I promised you. But do not fret. For i have something much better. No guild fees for life! And since you're new to town, you'll need a place to stay! I'd offer you to stay at my place but.... no. I have the perfect thing for you though! [[Fellowship of the Frontier]] used to be located in [[The Lion's Den]], but it burned down and I moved over here. I still have the deed to the old place though, so why don't you take that! You can fix it up, make it all quaint and cozy, even reopen the bar!"
+
+He pulls the deed out from his pocket.
+
+if the party declines his offer despite his urging and convincing, he suggests they sell the deed to claim around 200 Crowns total.
+
+Alternatively, he will offer to pay them back in a few months time after the [[Contest of Champions]].
+
+However it resolves, the party can find their place to stay and begin getting set up in the city.
+
+The campaign really opens up at this point, so I'd consult the Quest Board to see what they want to do. I need to prep a bunch of random quest encounters, as well as the initating quests for some of the guilds. [[Sir Finley Steinhart]] will spread the good word of their deeds and the party will be put in the paper for the week, making their names heard across the city and drawing the attention of the factions. They will periodically send messages or messangers asking to meet the party and speak about buisness.
+
+Upon completing 3 more quests, the party can level up, and upon finishing all of the faction quests and setting up their main base, they can level up again and go to Act 2.

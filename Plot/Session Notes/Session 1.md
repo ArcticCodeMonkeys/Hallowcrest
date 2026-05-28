@@ -9,4 +9,4 @@ Need:
 - Port battle map
 - [[Aurora College]] Dean's Office
 - [[Fellowship of the Frontier]] map
-- [[Sir Finley Steinhart]]'s quest
+- [[Sir Finley Steinhart]]'s quest (just the beginnings)
