@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-%%CENSOR%%
+ %%CENSOR%%
 ## History
 
 In 1280 SE, [[The Maestro]] moved to [[Hallowcrest]] from [[The Capital]] to evade capture and set up his own criminal organization. Shortly after, [[Lady Luck]] moved as well, attempting to set up a casino in [[Hallowcrest]]. The two met and decided that instead of competing against each other, they would combine their wealth and efforts into a joint venture, a casino and mob hideout dubbed [[Fortune's Favor]]. [[Lady Luck]] focused mostly on managing [[Fortune's Favor]], while [[The Maestro]] ensured that everything went smoothly, handled security and hiring thugs, and planning heists.
