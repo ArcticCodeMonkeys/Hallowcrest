@@ -19,6 +19,19 @@ A large college for bards, wizards, and scholars under the same name (see [[Loca
 - [[Professor Thimblebang]] - Professor
 - [[Octavius Aurelius]] - Professor
 - [[Neil Degassi]] - Bartender at [[Stargazer]]
+
+#### Hierarchal Structure
+
+| Role         | Count | CR  |
+| ------------ | ----- | --- |
+| Founder      |       | 12  |
+| Dean         |       | 9   |
+| Professor    |       | 6   |
+| Grad Student |       | 2   |
+| Senior       |       | 1   |
+| Sophomore    |       | 1/2 |
+| Freshman     |       | 1/4 |
+
 %%/CENSOR%%
 
 %%CENSOR%%

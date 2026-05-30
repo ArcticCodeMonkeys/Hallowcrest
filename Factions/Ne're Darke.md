@@ -14,6 +14,19 @@ Right Hand Man –[[ Qrackzle Psycot]]
 Twin Enforcers – [[Drax & Brax Blarglesnark]]
 Front Man 
 
+#### Hierarchal Structure
+
+| Role       | Count | CR  |
+| ---------- | ----- | --- |
+| Leader     |       | 12  |
+| Right Hand |       | 9   |
+| Enforcer   |       | 6   |
+| Psion      |       | 2   |
+| Assasin    |       | 1   |
+| Pirate     |       | 1/2 |
+| Thug       |       | 1/4 |
+
+
 #### **Hideouts/Guildhouses:**
 
 Ne’re Darke has many hideouts all across the city, though due to them being mostly drows, they mostly all underground. [[The Crypts]] serve as an excellent place for their hideouts, to which they have dug tunnels, connecting to the sewer networks for easy access to the main streets.

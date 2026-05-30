@@ -16,6 +16,18 @@ Individuals devoted to research, invention, and brilliance. Formed in [[Hallowcr
 - [[Panambre Stark]] - Enlightened One
 - [[Spark Pritchet]] - Kobold Inventor
 - [[Breelyn Brew]] - Alchemist
+#### Hierarchal Structure
+
+| Role            | Count | CR  |
+| --------------- | ----- | --- |
+| Higher Mind     |       | 12  |
+| Enlightened One |       | 9   |
+| Enhanced        |       | 6   |
+| Artificer       |       | 2   |
+| Monk            |       | 1   |
+| Devout          |       | 1/2 |
+| Initate         |       | 1/4 |
+
 ## Hideouts / Guild Houses
 
 - [[The Auditorium]]%%/CENSOR%%

@@ -20,6 +20,20 @@ Ember's Creed is heavily involved in the search for [[The Mindrend Crown]], fear
 - [[Ashley Hart]] - Assistant Cleric
 - [[Jessie Faux]] - Assistant Cleric (Reserve)
 
+
+#### Hierarchal Structure
+
+| Role       | Count | CR  |
+| ---------- | ----- | --- |
+| Searclaw   |       | 12  |
+| Chosen     |       | 9   |
+| Archpriest |       | 6   |
+| Paladin    |       | 2   |
+| Monk       |       | 1   |
+| Devout     |       | 1/2 |
+| Worshiper  |       | 1/4 |
+
+
 %%/CENSOR%%
 %%CENSOR%%
 ## Hideouts / Guildhouses
