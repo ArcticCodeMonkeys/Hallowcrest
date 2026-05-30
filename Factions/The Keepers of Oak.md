@@ -20,6 +20,18 @@ Some serve as [[Lifeweavers]] and [[Rainwalkers]], and a few are on a [[Mage Tow
 - [[Dorian Storm]] - Member and one of the [[Rainwalkers]]
 - [[Oriana Vinland]] - Bartender at [[The Treetop Tavern]]
 
+#### Hierarchal Structure
+
+| Role      | Count | CR  |
+| --------- | ----- | --- |
+| Archdruid |       | 12  |
+| Cleric    |       | 9   |
+| Warden    |       | 6   |
+| Shaman    |       | 2   |
+| Ranger    |       | 1   |
+| Channeler |       | 1/2 |
+| Outlander |       | 1/4 |
+
 
 ## Hideouts / Guildhouses
 

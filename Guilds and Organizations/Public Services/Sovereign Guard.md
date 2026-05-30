@@ -16,5 +16,6 @@ Members:
 [1] Commander: [[Elowyn Hallowbrand]]
 [4] Lieutenant: [[Hannah Baker]], [[Ardwin Hammer]],
 [12] Sergeant:  [[Jessie Faux]]
-[60] Soldier:
-[36] Recruit:
+[30] Commander
+[160] Soldier:
+[86] Recruit:

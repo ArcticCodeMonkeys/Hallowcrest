@@ -21,7 +21,7 @@ Front Man
 | Leader     |       | 12  |
 | Right Hand |       | 9   |
 | Enforcer   |       | 6   |
-| Psion      |       | 2   |
+| Elite      |       | 2   |
 | Assasin    |       | 1   |
 | Pirate     |       | 1/2 |
 | Thug       |       | 1/4 |

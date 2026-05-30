@@ -21,6 +21,18 @@ In Hallowcrest, the Sovereign Concord is the presiding force controlling the cit
 - [[Jessie Faux]] - Captain of the [[Sovereign Guard]]
 - [[General Howard Goode]] - Retired Captain of the [[Sovereign Guard]]
 
+#### Hierarchal Structure
+
+| Role       | Count | CR  |
+| ---------- | ----- | --- |
+| Lord       |       | 12  |
+| Lieutenant |       | 9   |
+| Sergeant   |       | 6   |
+| Commander  |       | 2   |
+| Commander  |       | 1   |
+| Soldier    |       | 1/2 |
+| Recruit    |       | 1/4 |
+
 ## Hideouts / Guildhouses
 
 - [[Smokepowder Keep]] - The Main Castle of [[Hallowcrest]], home of [[Elowyn Hallowbrand]] and main operations center for the [[Sovereign Guard]]

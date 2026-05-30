@@ -17,6 +17,17 @@ An outcast criminal group filled with odd people. They look to make a name for t
 - [[Enya]] - Oracle and Witch
 - [[Chang Ling]] - Spy
 
+#### Hierarchal Structure
+
+| Role      | Count         | CR  |
+| --------- | ------------- | --- |
+| Boss      | (1) [[Roach]] | 9   |
+| Mercenary | (6)           | 6   |
+| Spy       |               | 2   |
+| Thug      |               | 1   |
+| Scout     |               | 1/2 |
+| Outcast   |               | 1/4 |
+
 %%/CENSOR%%
 %%CENSOR%%
 ## Hideouts / Guildhouses

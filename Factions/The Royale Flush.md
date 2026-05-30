@@ -20,6 +20,18 @@ A mafia like organization which runs [[Fortune's Favor]], run by [[Lady Luck]] a
 - [[Visi Parks]] - Enforcer, Thief
 - [[Card Shark]] - Constructs
 - [[Royale Flush Jester]] - Constructs
+#### Hierarchal Structure
+
+| Role       | Count | CR  |
+| ---------- | ----- | --- |
+| Maestro    |       | 12  |
+| Lady Luck  |       | 9   |
+| Enforcer   |       | 6   |
+| Dealer     |       | 2   |
+| Grunt      |       | 1   |
+| Card Shark |       | 1/2 |
+| Jester     |       | 1/4 |
+
 ## Hideouts / Guildhouses
 
 - [[Fortune's Favor]] - The Largest Casino in the Plane, prime tourist destination, and hideout for [[The Royale Flush]].%%/CENSOR%%

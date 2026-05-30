@@ -24,8 +24,8 @@ Individuals devoted to research, invention, and brilliance. Formed in [[Hallowcr
 | Enlightened One |       | 9   |
 | Enhanced        |       | 6   |
 | Artificer       |       | 2   |
-| Monk            |       | 1   |
-| Devout          |       | 1/2 |
+| Brilliant       |       | 1   |
+| Apprentice      |       | 1/2 |
 | Initate         |       | 1/4 |
 
 ## Hideouts / Guild Houses
