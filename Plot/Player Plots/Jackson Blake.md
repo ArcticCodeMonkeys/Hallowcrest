@@ -16,4 +16,4 @@ Brainstorm:
 - The band members need a sufficiently loud performance, so they had been searching the world for the body parts of Sonare to use as instruments. They may also need some sort of magical speaker to amplify the performance / broadcast it to the realm outside existence where he remains.
 - The band members are "singer would be a dragonborn (M) who be a caster using the power of his voice for spells, a drow or tielfling (F) on bass who would be more dex orientated (perhaps some magic capability) and a goliath (M) drummer who is either mute or just rarely speaks who uses his strength to play a massive set of drums"
 - The hero group from before hears word of the cult's new attempt to ressurect Sonare, and attempts to stop them.
-- The hero group from before could be lead by the Maestro, as he calls the Discordant sound of the cult and Sonare a curse upon the wor
+- The hero group from before could be lead by the Maestro, as he calls the Discordant sound of the cult and Sonare a curse upon the world and will try to silence them if he hears word of them in Hallowcrest.
