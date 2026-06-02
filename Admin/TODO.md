@@ -3,9 +3,6 @@
 
 VERY IMPORTANT
 
-- Make the MAP
-- DECIDE WHAT HOMEBREW RULES AND CHARACTER OPTIONS WE ARE USING
-- Plan first ARC + first Session
 
 NICE TO HAVE:
 - More Famous Criminals
@@ -14,6 +11,8 @@ NICE TO HAVE:
 - Noble Families, tie to factions 
 - Connect more side characters in different ways.
 - Guilds
+- Jeweler
+- 
 
 
 
