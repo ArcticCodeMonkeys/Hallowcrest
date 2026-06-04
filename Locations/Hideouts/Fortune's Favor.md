@@ -8,7 +8,7 @@ Signature Meal:
 Signature Drink:
 
 Staff:
-- [[Quinn Hammer]] - Bartender
+- [[People/The Royale Flush/Quinn Hammer]] - Bartender
 Unique Decorations:
 
 Regulars:

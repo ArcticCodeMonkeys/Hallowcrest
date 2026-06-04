@@ -66,7 +66,7 @@ People can make a variety of checks to attempt to patch holes in the ship, man t
 
 ### Encounter: Papers Please
 
-[[Quinn Hammer]] arrives at the port just on time for the party to arrive. He will walk up to the party and attempt to trick them into believing he is port authority. 
+[[People/The Royale Flush/Quinn Hammer]] arrives at the port just on time for the party to arrive. He will walk up to the party and attempt to trick them into believing he is port authority. 
 
 "Hey, Quinn Hammer, member of the Port Trades and Exchange Guild. I'm going to need to see your manifest and inspect your cargo. Names and place of origin please." Deception (+6)
 
@@ -78,7 +78,7 @@ If the party allows him on their ship, he will likely immediately see the bodies
 
 Then he will search through the cargo in search for [[The Sage Mind]].
 
-[[Card Shark]]s circle the ship below, and [[Quinn Hammer]] will attempt to quickly toss [[People/Precursors/The Sage Mind|The Sage Mind]] out of the port hole and into the ocean, where the [[Card Shark]]s will take [[People/Precursors/The Sage Mind|The Sage Mind]] to [[The Maestro]].
+[[Card Shark]]s circle the ship below, and [[People/The Royale Flush/Quinn Hammer]] will attempt to quickly toss [[People/Precursors/The Sage Mind|The Sage Mind]] out of the port hole and into the ocean, where the [[Card Shark]]s will take [[People/Precursors/The Sage Mind|The Sage Mind]] to [[The Maestro]].
 
 If he is caught at any point, he will attempt to escape using a Misty Step Tattoo and then running through the alleyways towards [[Fortune's Favor]].
 

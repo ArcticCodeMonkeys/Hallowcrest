@@ -15,7 +15,7 @@ A mafia like organization which runs [[Fortune's Favor]], run by [[Lady Luck]] a
 - [[The Maestro]] - Co-Leader, manages the criminal side
 - [[Lady Luck]] - Co-leader, manages the casino side
 - [[Jack Rivers]] - Hitman, Dealer
-- [[Quinn Hammer]] - Enforcer, Bartender
+- [[People/The Royale Flush/Quinn Hammer]] - Enforcer, Bartender
 - [[Roger Parks]] - Enforcer, Spy
 - [[Visi Parks]] - Enforcer, Thief
 - [[Card Shark]] - Constructs
