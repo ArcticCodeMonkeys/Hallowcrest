@@ -47,7 +47,7 @@ Ember's Creed is heavily involved in the search for [[The Mindrend Crown]], fear
 
 
 %%CENSOR%%
-## Renown
+## Attitudes
 
 
 Hostile: 
@@ -70,6 +70,17 @@ Likes
 Allied
 
 ## Quests
+
+
+## Renown
+
+
+| Renown | Rewards                                                                                                                                                                                                                                                                                                                  |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 3      | Monastic Training. Once per tenday, you can attend a monastic retreat at the Scorched Peak, the journey taking 8 hours and the retreat lasting 12. At the end of the retreat, you become resistant to fire damage and gain the Breath Weapon (Fire) feature of the Dragonborn. You retain these benefits for one Tenday. |
+| 7      | Hearth Refuge. You are offered refuge at Hearthstone. You can take rests there and food and a place to sleep will be provided. They will also provide healing services, amounting to 3 Levels worth of spells per Tenday, including Ceremony and Lesser Restoration.                                                     |
+| 12     | Draconic Aspects. You learn Draconic and gain proficiency in Indimidation. I                                                                                                                                                                                                                                             |
+| 20     | Blessed by the Stars. You can cast one of the following spells without providing material components or expending a spell slot:<br>- Melf's Minute Meteors<br>- Counterspell<br>- Elminster's Elusion<br>Once a spell is cast by this feature, it cannot be used again until you finish a half rest.                     |
 
 
 ## Other
