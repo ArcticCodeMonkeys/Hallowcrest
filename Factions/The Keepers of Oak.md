@@ -44,7 +44,7 @@ Some serve as [[Lifeweavers]] and [[Rainwalkers]], and a few are on a [[Mage Tow
 ![[Keepers of Oak Symbol.jpg]]
 
 %%CENSOR%%
-## Renown
+## Attitude
 
 Hostile: 
 - [[Ne're Darke]]
@@ -65,6 +65,17 @@ Allied
 - [[Sovereign Concord]]
 
 ## Quests
+
+
+## Renown
+
+| Renown | Rewards                                                                                                                                                                                                                                                                                                                         |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3      | By spending at least 16 hours over the course of a Tenday in Shamblewood with part of the druidic order, you gain one of the following benefits for a Tenday.<br><br>Outlander. You ignore the effects of difficult terrain and can cast Hunter's Mark once per half rest.<br>Shaman. You gain the Magic Initiate (Druid) feat. |
+| 7      | Nature Guarded. You learn Druidic. Whenever you take damage from a melee                                                                                                                                                                                                                                                        |
+| 12     | Shadowy Savior. Once per Tenday, you can use the secret Ne're Darke whistle to call upon any of its nearby members for aid in battle. The DM determines who and how many agents are nearby and how fast they arrive.                                                                                                            |
+| 20     | Assassinate. Once per combat, the first attack you make deals an additional 6d6 damage.                                                                                                                                                                                                                                         |
+
 
 
 
