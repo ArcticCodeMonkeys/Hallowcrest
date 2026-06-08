@@ -41,7 +41,7 @@ A mafia like organization which runs [[Fortune's Favor]], run by [[Lady Luck]] a
 
 %%CENSOR%%Royale Flush Members are seen wearing either professional attire, such as suits, gowns, blouses, and dress shirts, or in jester costumes. [[The Maestro]] is capable of creating magical constructs called Jesters, who are not very smart but can understand basic commands and are good body guards.%%/CENSOR%%
 %%CENSOR%%
-## Renown
+## Attitude
 
 Hostile: 
 - [[Ne're Darke]]
@@ -60,6 +60,18 @@ Likes
 
 Allied
 - [[Society of Higher Minds]]
+
+
+## Renown
+
+
+| Renown | Rewards                                                                                                                                                                                |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3      | Lucky. You gain the Lucky feat.                                                                                                                                                        |
+| 7      | Underhanded. You gain proficiency in Sleight of Hand. If you already had proficiency, you instead gain expertise. Additionally, whenever you roll a 1 on a d20, it is treated as a 20. |
+| 12     | Blood Money.                                                                                                                                                                           |
+| 20     | Hotstreak. Whenever you roll a natural 20, your next d20 roll automatically is a critical success. You can use this feature once per short rest.                                       |
+
 
 ## Quests
 %%/CENSOR%%
