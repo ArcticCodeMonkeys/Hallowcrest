@@ -50,7 +50,7 @@ A bustling tavern of criminals, not entirely restricted to Ne’re Darke members
 
 
 %%CENSOR%%
-### Renown
+### Attitude
 
 
 Hostile: 
@@ -68,6 +68,19 @@ Neutral
 
 Likes
 - [[Society of Higher Minds]]
+
+
+## Renown
+
+
+| Renown | Rewards                                                                                                                                                                                                                                                           |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3      | Underwordler. You become an expert navigator and assassin thanks to training with Ne're Darke. By supplying a due of 20 gp per Tenday, you gain proficiency in Stealth and Survival, and have advantage on checks made to navigate the Sewers and [[The Crypts]]. |
+| 7      | Black Market. You are able to purchase items from [[The Understreet]] at no markup price. Additionally, once per month, you can acquire poisons or explosives totaling to a price no more than 100 gp for free.                                                   |
+| 12     | Shadowy Savior. Once per Tenday, you can use the secret Ne're Darke whistle to call upon any of its nearby members for aid in battle. The DM determines who and how many agents are nearby and how fast they arrive.                                              |
+| 20     | Assassinate. Once per combat, the first attack you make deals an additional 6d6 damage.                                                                                                                                                                           |
+
+
 
 
 ## Other

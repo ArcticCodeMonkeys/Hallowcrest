@@ -36,7 +36,7 @@ Individuals devoted to research, invention, and brilliance. Formed in [[Hallowcr
 ![[Society of Higher Minds Symbol.jpg]]
 
 %%CENSOR%%
-## Renown
+## Attitude
 
 Hostile: 
 
@@ -56,6 +56,21 @@ Likes
 -  [[Locations/Hideouts/Aurora College|Aurora College]]
 
 Allied
+
+
+## Renown
+
+
+| Renown | Rewards                                                                                                                                                                                                              |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3      | Early Adopter. You are given a spell storing item                                                                                                                                                                    |
+| 7      | Black Market. You are able to purchase items from [[The Understreet]] at no markup price. Additionally, once per month, you can acquire poisons or explosives totaling to a price no more than 100 gp for free.      |
+| 12     | Shadowy Savior. Once per Tenday, you can use the secret Ne're Darke whistle to call upon any of its nearby members for aid in battle. The DM determines who and how many agents are nearby and how fast they arrive. |
+| 20     | Assassinate. Once per combat, the first attack you make deals an additional 6d6 damage.                                                                                                                              |
+
+
+
+
 
 ## Quests
 
