@@ -24,6 +24,10 @@ On the day which the assignation attempt occurs, roll a d20. on a 6 or higher it
 | Party Spotted, Assassin Hidden | The assasin will attempt a distraction, Conested Performance check against the highest passive Insight. On a success, the party will notice something in the distance, allowing the assassin to sneak up to [[Steven Vanderblit]] and get surprise as well as a bit of distance between them.                                                                                                     |
 | Party Spotted, Assasin Spotted | The first scenario occurs, but Steven Vanderblit is not Surprised.                                                                                                                                                                                                                                                                                                                                |
 
-If the party fails to save [[Steven Vanderblit]], the guild fee for the [[Architect's Guild]] increases to 2gp per tenday and is waved for [[Ne're Darke]] members. The party loses 2 Renown from [[The Royale Flush]] and 1 from [[Ne're Darke]].
+If the party fails to save [[Steven Vanderblit]], the guild fee for the [[Architect's Guild]] increases to 2gp per tenday and is waved for [[Ne're Darke]] members. The party loses 2 Renown from [[The Royale Flush]] and 1 from [[Ne're Darke]]. I
 
-If the party succeeds, they gain 2 Renown from [[The Royale Flush]] and 
+If the party decides to help [[Ne're Darke]], they will gain 3 Renown, and lose 3 Renown from [[The Royale Flush]]
+
+If the party succeeds, they gain 2 Renown from [[The Royale Flush]] and -2 Renown from [[Ne're Darke]].
+
+The party can then return to [[Fortune's Favor]], where [[People/The Royale Flush/Quinn Hammer|Quinn Hammer]] will be dealing a table in for blackjack. He gestures to the people sitting at the table to leave and for the party to sit down. He says "bets" then deals in whoever bets, before asking how the job went. If it went smoothly, he will pay the amount +10%, and offer them to join [[The Royale Flush]]. If it was messy, he will not give the 1
