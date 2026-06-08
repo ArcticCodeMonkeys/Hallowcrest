@@ -45,7 +45,7 @@ A large college for bards, wizards, and scholars under the same name (see [[Loca
 ![[Aurora College Logo.jpg]]
 
 %%CENSOR%%
-## Renown
+## Attitudes
 
 Hostile: 
 - [[The Keepers of Oak]]
@@ -69,6 +69,16 @@ Allied
 ## Quests
 
 
+%%/CENSOR%%
+
+## Renown
+
+| Renown | Rewards                                                                                     |
+| ------ | ------------------------------------------------------------------------------------------- |
+| 3      | Enrollment in Aurora College. Mandatory 8 hours per week spent at Aurora College training.  |
+
+
+%%CENSOR%%
 ## Other
 
 Aurora College has 4 college level [[Mage Tower]] teams, the [[Angels]], [[Chromodrons]], [[Prismaris]], and [[Quandrix]]. It also has a national level team, [[The Stellar Bodies]].
