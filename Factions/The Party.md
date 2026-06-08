@@ -11,7 +11,22 @@ publish: true
 
 ### Renown
 
-Renown is a system which determines how well liked you are by different factions. You gain renown by helping factions or doing actions which indirectly assist them that they are able to attribute to you. You lose renown by actively contesting factions, failing their quests, disobeying their requests, or allying with their 
+Renown is a system which determines how well liked you are by different factions. You gain renown by helping factions or doing actions which indirectly assist them that they are able to attribute to you. You lose renown by actively contesting factions, failing their quests, disobeying their requests, or allying with their enemies. Their attitude levels shift according to the table below
+
+
+| Renown Score | Attitude Level |
+| ------------ | -------------- |
+| -20          | Arch Nemesis   |
+| -12          | Enemy          |
+| -7           | Hostile        |
+| -3           | Disliked       |
+| 0            | Neutral        |
+| +3           | Liked          |
+| +7           | Allied         |
+| +12          | Partner        |
+| +20          | Beloved        |
+
+### Current Renown
 
 | Faction                                     | Renown Score | Attitude Level |
 | ------------------------------------------- | ------------ | -------------- |
