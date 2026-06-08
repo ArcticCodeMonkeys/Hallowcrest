@@ -39,7 +39,21 @@ An outcast criminal group filled with odd people. They look to make a name for t
 ![[Menagerie Symbol.jpg]]
 
 %%CENSOR%%
+## Attitude
+
+
 ## Renown
+
+
+| Renown | Rewards                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3      | Oddball. By supplying 20gp worth of dues once per Tenday, the Menagerie will grant you one of the following benefits.<br><br>Resilience. You gain resistance to one damage type (excluding physical) and proficiency in one skill of your choosing<br>Adaptivity. You gain proficiency in one Saving Throw of your choosing<br>Creativity. You can take the Utilize, Study, Influence, and Help actions as a bonus action. |
+| 7      | Black Market. You are able to purchase items from [[The Understreet]] at no markup price. Additionally, once per month, you can acquire poisons or explosives totaling to a price no more than 100 gp for free.                                                                                                                                                                                                            |
+| 12     | Shadowy Savior. Once per Tenday, you can use the secret Ne're Darke whistle to call upon any of its nearby members for aid in battle. The DM determines who and how many agents are nearby and how fast they arrive.                                                                                                                                                                                                       |
+| 20     | Assassinate. Once per combat, the first attack you make deals an additional 6d6 damage.                                                                                                                                                                                                                                                                                                                                    |
+
+
+
 
 
 ## Quests
