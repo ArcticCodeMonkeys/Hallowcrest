@@ -61,12 +61,12 @@ Allied
 ## Renown
 
 
-| Renown | Rewards                                                                                                                                                                                                              |
-| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3      | Early Adopter. You are given a spell storing item                                                                                                                                                                    |
-| 7      | Black Market. You are able to purchase items from [[The Understreet]] at no markup price. Additionally, once per month, you can acquire poisons or explosives totaling to a price no more than 100 gp for free.      |
-| 12     | Shadowy Savior. Once per Tenday, you can use the secret Ne're Darke whistle to call upon any of its nearby members for aid in battle. The DM determines who and how many agents are nearby and how fast they arrive. |
-| 20     | Assassinate. Once per combat, the first attack you make deals an additional 6d6 damage.                                                                                                                              |
+| Renown | Rewards                                                                                                                                                                                                                                                                                                                                                          |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3      | Prototype. You are given an Enspelled Item (either a Weapon, Staff, or Armor) with a spell of your choice of 1st level stored within it. Once per Tenday, you can pay 10gp to change the spell stored within the item by taking it to [[The Auditorium]] and leaving it there for 24 hours.                                                                      |
+| 7      | Early Adopter. You receive a Sending Message whenever a new invention is made. Additionally, you receive a 20% discount to all items purchased at [[The Auditorium]].                                                                                                                                                                                            |
+| 12     | Inventive Mind. Your crafting times are halved and you no longer need schematics to craft items.                                                                                                                                                                                                                                                                 |
+| 20     | Enhanced Prototype. Your Prototype now is a Level 3 Enspelled Item, that has 12 charges and regains 1d12 daily at dawn. You choose a 1st, 2nd and 3rd level spell to store within it which can be changed following the same rules as before. It costs 1 charge to cast the 1st level spell, 2 to cast the 2nd level spell, and 3 to cast the third level spell. |
 
 
 

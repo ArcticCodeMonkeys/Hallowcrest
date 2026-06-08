@@ -47,7 +47,7 @@ In Hallowcrest, the Sovereign Concord is the presiding force controlling the cit
 
 ![[Sovereign Guard Member.jpeg]]
 %%CENSOR%%
-## Renown
+## Attitude
 
 Hostile: 
 - [[Ne're Darke]]
@@ -66,6 +66,20 @@ Likes
 Allied
 - [[Factions/Aurora College|Aurora College]]
 - [[The Keepers of Oak]]
+
+
+## Renown
+
+| Renown | Rewards                                                                                                                                                                                                                                              |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3      | Basic Training. By spending at least 16 hours over the course of a Tenday training with the [[Sovereign Guard]], you gain the following benefits for a Tenday. <br><br>You gain proficiency in martial weapons or gain the Lightly Armored Feat.<br> |
+| 7      | Black Market. You are able to purchase items from [[The Understreet]] at no markup price. Additionally, once per month, you can acquire poisons or explosives totaling to a price no more than 100 gp for free.                                      |
+| 12     | Shadowy Savior. Once per Tenday, you can use the secret Ne're Darke whistle to call upon any of its nearby members for aid in battle. The DM determines who and how many agents are nearby and how fast they arrive.                                 |
+| 20     | Assassinate. Once per combat, the first attack you make deals an additional 6d6 damage.                                                                                                                                                              |
+
+
+
+
 
 ## Quests
 %%/CENSOR%%
