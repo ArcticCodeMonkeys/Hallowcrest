@@ -13,5 +13,12 @@ See [[Ne're Darke]] is planning to assassinate an influential Nobleman named [[S
 [[Steven Vanderblit]] PP: 13
 [[Ne're Darke]] Assassin: PP: 14, ST: 17
 
-On the day which the assinationn attempt occurs, 
+On the day which the assignation attempt occurs, roll a d20. on a 6 or higher it occurs at night, and on a 5 or lower it occurs during the day. There are 4 scenarios possible
+
+
+
+| Scenario                       | Outcome                                                                                                                                                                                                                                                                                                                                                                       |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Party Hidden, Assassin Hidden  | The assassin makes an attempt on [[Steven Vanderblit]] without seeing the party, combat ensues and then the party will have to convince him to not pursue [[Ne're Darke]] (DC 18) and leave the assassin alive to convey the message to Ne're Darke. If either of these things are not done, he will be killed either by his own tenacity or by a second attempt on his life. |
+| Party Hidden, Assassin Spotted | The party can approach the assassin and threaten or convince her to stop, or they                                                                                                                                                                                                                                                                                             |
 
