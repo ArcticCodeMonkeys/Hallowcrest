@@ -44,3 +44,4 @@ If a student passes each portion of the exam, they are allowed into Aurora Colle
 - [[Headband of the Scholar]]
 - [[Starry Pendant]]
 - [[Student's Notebook]]
+

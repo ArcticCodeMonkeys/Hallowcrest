@@ -12,11 +12,11 @@ They fund the [[Lifeweavers]], [[Rainwalkers]], and [[Weaveseers]].
 
 Below are the available tiers of Health Insurance, available only to Citizens of Hallowcrest and provided by the [[Lifeweavers]].
 
-| Subscription Level | Cost/Month | Benefits                                                                                                                                    |
-| ------------------ | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Basic              | Free       | - Stabilization and transport to a care facility by the Lifeweavers                                                                         |
-| Premium            | 5gp        | - Basic On-Site Healing (1st level spells)<br>- 1/Month Disease and Poison curing services                                                  |
-| Adventurer         | 10gp       | - Advanced On-Site Healing (3rd level spells)<br>- Instant Rescue Service 1/Month (Word of Recall)<br>- Discounted Revivification (50% off) |
+| Subscription Level | Cost/Tenday | Benefits                                                                                                                                     |
+| ------------------ | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Basic              | Free        | - Stabilization and transport to a care facility by the Lifeweavers                                                                          |
+| Premium            | 10gp        | - Basic On-Site Healing (1st level spells)<br>- 1/Tenday Disease and Poison curing services                                                  |
+| Adventurer         | 30gp        | - Advanced On-Site Healing (3rd level spells)<br>- Instant Rescue Service 1/Tenday (Word of Recall)<br>- Discounted Revivification (50% off) |
 #### Messaging:
 
 The Magistrate Provides messaging services, at the costs described below
