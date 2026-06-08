@@ -2,14 +2,15 @@
 publish: true
 ---
 
+## Party Members
+
 - [[Jackson Brody]]
 - [[Kaida Dante]]
 - [[Melagios Vita-Gladius]]
 - [[Felicity Oak]]
 
 
-
-### Renown
+## Renown
 
 Renown is a system which determines how well liked you are by different factions. You gain renown by helping factions or doing actions which indirectly assist them that they are able to attribute to you. You lose renown by actively contesting factions, failing their quests, disobeying their requests, or allying with their enemies. Their attitude levels shift according to the table below
 
