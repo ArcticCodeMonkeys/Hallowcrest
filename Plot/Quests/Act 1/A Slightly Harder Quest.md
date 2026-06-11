@@ -27,7 +27,7 @@ As the party looks for [[Dominic Hart]], they can find the following clues at th
 - A patron says he overheard the cloaked figure say "I thought you were smarter than this" and "Lets go pay your father a visit" as they left the bar.
 
 [[Sir Finley Steinhart]]
-- He will affirm that [[Dominic Hart]]'s father is dead and buried in the crypts and that he doesnt have any friends other than him and his [[Ashley Hart]].
+- He will affirm that [[Dominic Hart]]'s father is dead and buried in the crypts and that he doesnt have any friends other than him and his daughter [[Ashley Hart]].
 
 [[Ashley Hart]]
 - Upon hearing that her father is missing, she will begin to panic. 
