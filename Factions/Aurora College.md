@@ -73,6 +73,8 @@ Allied
 
 ## Renown
 
+Mastering a Spell, Trasmuting, etc.
+
 | Renown | Rewards                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 3      | Enrollment in Aurora College. A player can enroll in Aurora College, but must first score above 75% on the entrance exam. Upon passing, they must spend at least 16 hours per Tenday training to get and retain the Magic Initiate (Wizard) feat. If a player ever misses a week of classes, they lose this benefit for the next Tenday and if they miss two in a row, they lose 2 Renown and are kicked out of Aurora College |

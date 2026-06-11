@@ -30,4 +30,5 @@ If the party decides to help [[Ne're Darke]], they will gain 3 Renown, and lose 
 
 If the party succeeds, they gain 2 Renown from [[The Royale Flush]] and -2 Renown from [[Ne're Darke]].
 
-The party can then return to [[Fortune's Favor]], where [[People/The Royale Flush/Quinn Hammer|Quinn Hammer]] will be dealing a table in for blackjack. He gestures to the people sitting at the table to leave and for the party to sit down. He says "bets" then deals in whoever bets, before asking how the job went. If it went smoothly, he will pay the amount +10%, and offer them to join [[The Royale Flush]]. If it was messy, he will not give the 1
+The party can then return to [[Fortune's Favor]], where [[People/The Royale Flush/Quinn Hammer|Quinn Hammer]] will be dealing a table in for blackjack. He gestures to the people sitting at the table to leave and for the party to sit down. He says "bets" then deals in whoever bets, before asking how the job went. If it went smoothly, he will pay the amount +10%, and offer them to join [[The Royale Flush]]. If it was messy, he will not give the 10% bonus and if they failed, he will refuse to pay them saying "We don't do pity points here. You either get the job done or you're done. You wont get many more chances from us, so best if you just stay out of our way."
+
