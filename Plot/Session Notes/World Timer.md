@@ -2,23 +2,27 @@ Notes here indicate time remaining on events which pass without player input.
 
 
 [[Ne're Darke]]
+- Prepare to sabotage the [[Victory Day]] parade in order to steal [[The Ashen Horn]] from [[Sealed Vault]]. - 4 weeks
 
 [[Ember's Creed]]
 - Eternal Flame Splinter Cell - 6 weeks
+
 [[Factions/Aurora College|Aurora College]]
 - Entrance Exams - 2 weeks
+
 [[Society of Higher Minds]]
-- 
+- Partnership Invention of the [[Arcane Cuffs]] - 1 week
 
 [[Sovereign Concord]]
-
+- Victory Day Parade - 2 weeks.
 
 [[The Keepers of Oak]]
 - Initiate the Anti-Conquest act - 2 months
+
 [[The Menagerie]]
-- Heist for [[Items/Artifacts/The Sage Mind|The Sage Mind]] - 3 weeks
+- Heist for [[Items/Artifacts/The Sage Mind|The Sage Mind]] - 4 weeks
 
 [[The Royale Flush]]
-- Using the Sage Mind to Locate [[The Mindrend Crown]]
+- Attempting to use [[People/Precursors/The Sage Mind|The Sage Mind]] - 2 days
 
 [[The Party]]
