@@ -21,7 +21,7 @@ Individuals devoted to research, invention, and brilliance. Formed in [[Hallowcr
 | Role            | Count | CR  |
 | --------------- | ----- | --- |
 | Higher Mind     |       | 12  |
-| Enlightened One |       | 9   |
+| Enlightened One |       | 6-9 |
 | Enhanced        |       | 6   |
 | Artificer       |       | 2   |
 | Brilliant       |       | 1   |
