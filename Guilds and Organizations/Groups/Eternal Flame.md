@@ -1,0 +1,1 @@
+Splinter Cell of [[Ember's Creed]]. Wants to see the power of Dragons and Flame take over, and begins spreading the flame throughout [[Hallowcrest]] and the [[Shamblewood]].
