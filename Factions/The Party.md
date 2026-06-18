@@ -4,7 +4,7 @@ publish: true
 
 ## Party Members
 
-- [[Jackson Brody]]
+- [[Brody Jackson]]
 - [[Kaida Dante]]
 - [[Melagios Vita-Gladius]]
 - [[Felicity Oak]]
