@@ -12,7 +12,9 @@ Alternatively, the party could desire to infiltrate Ne're Darke and take them do
 
 ## Opportunity
 
-The party has two different opportunities to begin this quest. They can deliberately seek [[Ne're Darke]] and look to join them, in which case they can find out that [[Ne're Darke]] agents usually hang out around [[The Silken Mirage]] 
+The party has two different opportunities to begin this quest. They can deliberately seek [[Ne're Darke]] and look to join them, in which case they can find out that [[Ne're Darke]] agents usually hang out around [[The Silken Mirage]].
+
+Alternatively, [[Zalaxor Nezere]] has gotten word of what the party did during [[An Easy Quest]], and believes they very likely hold [[Items/Artifacts/The Sage Mind|The Sage Mind]]. He will want to try and get it from them, but sees that perhaps the 
 
 ## Stages
 

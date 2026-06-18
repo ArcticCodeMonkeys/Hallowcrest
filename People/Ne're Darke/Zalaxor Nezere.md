@@ -10,7 +10,8 @@ Aliases:
 Zalaxor has his aliases intentionally be hinting towards his real identity, mostly because he believes that he is so good at assuming these disguises that he will never be caught, and so he has some fun with it. 
 
 [[Madame Bellatrix]] ("Beautiful Trick")
-[[Zane Alyss]] ("Za Ne" Alias)
+[[Zane Alyss]] ("Z N" Alias)
 [[Jessie Faux]] ("Je Suis Faux")
+[[Max Denbigh]] (Double Agent MI6 Director in James Bond)
 
 
