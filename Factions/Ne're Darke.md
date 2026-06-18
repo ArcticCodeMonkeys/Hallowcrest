@@ -16,15 +16,15 @@ Front Man
 
 #### Hierarchal Structure
 
-| Role       | Count | CR  |
-| ---------- | ----- | --- |
-| Leader     |       | 12  |
-| Right Hand |       | 9   |
-| Enforcer   |       | 6   |
-| Elite      |       | 2   |
-| Assasin    |       | 1   |
-| Pirate     |       | 1/2 |
-| Thug       |       | 1/4 |
+| Role     | Count | CR  |
+| -------- | ----- | --- |
+| Leader   |       | 12  |
+| Double 0 |       | 9   |
+| Elite    |       | 6   |
+| Agent    |       | 2   |
+| Assassin |       | 1   |
+| Pirate   |       | 1/2 |
+| Thug     |       | 1/4 |
 
 
 #### **Hideouts/Guildhouses:**
