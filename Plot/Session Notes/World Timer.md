@@ -3,13 +3,13 @@ Current Date: Selunum 2
 
 
 [[Ne're Darke]]
-- Prepare to sabotage the [[Victory Day]] parade in order to steal [[The Ashen Horn]] from [[Sealed Vault]]. - 4 weeks
+- Prepare to sabotage the [[Victory Day]] parade in order to steal [[The Ashen Horn]] from [[Sealed Vault]]. - 2 weeks
 
 [[Ember's Creed]]
 - Eternal Flame Splinter Cell - 6 weeks
 
 [[Factions/Aurora College|Aurora College]]
-- Entrance Exams - 2 weeks
+- Entrance Exams - 4 weeks
 
 [[Society of Higher Minds]]
 - Partnership Invention of the [[Arcane Cuffs]] - 1 week
