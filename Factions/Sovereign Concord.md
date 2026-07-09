@@ -28,9 +28,9 @@ In Hallowcrest, the Sovereign Concord is the presiding force controlling the cit
 | Lord       |       | 12  |
 | Lieutenant |       | 9   |
 | Sergeant   |       | 6   |
-| Commander  |       | 2   |
-| Commander  |       | 1   |
-| Soldier    |       | 1/2 |
+| Commander  |       | 3   |
+| Soldier    |       | 1   |
+| Trainee    |       | 1/2 |
 | Recruit    |       | 1/4 |
 
 ## Hideouts / Guildhouses
