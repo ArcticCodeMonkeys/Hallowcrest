@@ -12,5 +12,5 @@ Each quest should either give renown, money, or advance the plot.
 
 Currently, [[Family Ties]] has about a 4 day time limit, but that time is unknown so it will be a bit of a time sink. I need a new way to introduce the other factions. [[The Keepers of Oak]] have already introduced themselves and offered a position, but they will likely need a full quest and all that to really get things going. The other factions though seem more pressing, as they have not even really introduced themselves.
 
-I think the best way to introduce these factions is passively, have events happen around the players which show the factions, so thats what we will do in [[Conscription]], [[Come One Come All]], [[Brand New Brandings]], [[License to Kill]] and [[Brand New Brandings]]
+I think the best way to introduce these factions is passively, have events happen around the players which show the factions, so thats what we will do in [[Conscription]], [[Come One Come All]], [[Brand New Brandings]], [[License to Kill]] and [[Futuristic Flea Market]]. 
 
