@@ -26,4 +26,7 @@ Current Date: Selunum 2
 [[The Royale Flush]]
 - Attempting to use [[People/Precursors/The Sage Mind|The Sage Mind]] - 2 days
 
+[[Tropic Tent]]:
+- Magnificent Menagerie Parade - Lathand 29 / 57 days
+
 [[The Party]]
