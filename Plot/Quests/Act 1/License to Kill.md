@@ -25,9 +25,16 @@ The bar is silent as the party are ushered to a table in the middle of the taver
 Challenge: The party must convince [[Max Denbigh]] that they are here to join or for another good reason. If he beleives they will snitch the location, he will simply let them drink their drinks, or otherwise kill them. If not, he'll hand them some antidotes saying that the drinks were poisoned and to come with him into the back room. 
 
 
-Stage two begins as they get into the back room with [[Max Denbigh]]. He will repeat the offer if they havent already accepted, and so long as they do, he will give an explaination of what [[People/Precursors/The Sage Mind|The Sage Mind]] is. If the party wants to join [[Ne're Darke]], he will say that before they can gain full access, they'll need to prove their loyalty and go on a mission for them. He says he will ask his higher ups what needs doing and that a mission will arrive to them within the next few days. If they offer to get [[People/Precursors/The Sage Mind|The Sage Mind]] for them
+Stage two begins as they get into the back room with [[Max Denbigh]]. He will repeat the offer if they havent already accepted, and so long as they do, he will give an explaination of what [[People/Precursors/The Sage Mind|The Sage Mind]] is. If the party wants to join [[Ne're Darke]], he will say that before they can gain full access, they'll need to prove their loyalty and go on a mission for them. He says he will ask his higher ups what needs doing and that a mission will arrive to them within the next few days. If they offer to get [[People/Precursors/The Sage Mind|The Sage Mind]] for them, he'll say "Oh we've heard how that went the first time, we'd rather handle  it ourselves". They would be willing however, to allow the party to investigate and surviell where they belive the Sage Mind is located. This way, they dont risk any of their own men.
+
+
+Stage Three begins a few days later, when they receive their mission. Arriving in a small box, when opened there is a snake inside, which begins speaking. "Your mission, should you choose to accept, which you have to or we'll kill you, is to assassinate two targets. The first target, [[Victor Pembroke]] is a private investigator who is getting a bit too involved in our business. He has an office in the North West corner of [[The Lion's Den]]. The second, a noble named [[Steven Vanderblit]] who is raising our property and guild taxes through the roof, and needs to be replaced. An attempt on his life has already been made but was foiled by a group of mercenaries [[Steven Vanderblit]] hired to protect him. Watch out for them. Bring us the eyes of [[Victor Pembroke]] and the ring finger of [[Steven Vanderblit]], being sure to include his [[Architect's Guild]] signet ring. This snake will self destruct in 10 seconds." The snake then explodes.
+
+
+Stage four and five are done by the party conducting the assassinations or some how faking these two things.
 ## Resolution 
 
+The party returns to Ne're Darke to get a big paycheck ad
 
 ## Continuation
 
