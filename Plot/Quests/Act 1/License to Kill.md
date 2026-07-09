@@ -34,7 +34,8 @@ Stage Three begins a few days later, when they receive their mission. Arriving i
 Stage four and five are done by the party conducting the assassinations or some how faking these two things.
 ## Resolution 
 
-The party returns to Ne're Darke to get a big paycheck ad
+The party returns to Ne're Darke to get a big paycheck (2000 gold) and their snake earrings (earrings of sending where they will get their missions from).
 
 ## Continuation
 
+The party will now be part of Ne're Darke and be able to continue doing mission for them.
