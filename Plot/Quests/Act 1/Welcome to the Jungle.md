@@ -27,10 +27,10 @@ Night 3: Nothing
 They arrive, find the druid, who says she has been hunted by a Naga. 
 
 Morning 1: The Party stumbles upon an Owlbear feasting upon an elk.
-Night 1: Encounter
+Night 1: A heavy thunderstorm rolls in and floods their camp. Unless they can find or create shelter, they gain a level of exhaustion and cannot rest. 
 
 Morning 2: Nothing
-Night 2: Encounter
+Night 2: The Rat King pillages their camp while they sleep, now having amassed two Giant Rats named Jimmy and John.
 
 Morning 3: A loud horn trills out behind them, moments later, a crowd of 9 goblins comes charging in.
 Night 3: Nothing
