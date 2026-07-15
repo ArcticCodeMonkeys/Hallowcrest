@@ -4,7 +4,15 @@ The Druid is named Harley Shepard, a fledgeling herself though she showed promis
 
 The journey should take about 3 days each way, so they will need to camp and set watch, ensuring that they bring enough rations and materials to rest. Prerolled random encounters for every 12 hours:
 
-Morning 1: Dire Bird of Prey, Trades or Attacks
+Morning 1: 
+
+Night 1: The party rests near a living Willow Tree (unbeknownst to them). It slowly wraps its roots around them and begins siphoning their vitality while they rest.
+
+Morning 2: The Party comes across a group of adventurers [[Fucked Up Four]]. Returning from a journey, they offer to rest together and share a meal.
+
+Night 2: Nothing
+
+Morning 3: Dire Bird of Prey, Trades or Attacks
 
 Food: Flaming Frying Pan
 Money: Crown of Superiority
@@ -14,22 +22,17 @@ Ranged Weapon: Archer's Weapon
 Melee Weapon: Tactician's Weapon / Berserker's Weapon
 Utility: Fake Moustache
 
-Night 1: Nothing
-
-Morning 2: Nothing
-
-Night 2: Encounter
-
-Morning 3: A loud horn trills out behind them, moments later, a crowd of 9 goblins comes charging in.
 Night 3: Nothing
+
+They arrive, find the druid, who says she has been hunted by a Naga. 
 
 Morning 1: The Party stumbles upon an Owlbear feasting upon an elk.
 Night 1: Encounter
 
-Morning 2: Encounter
-Night 2: Nothing
+Morning 2: Nothing
+Night 2: Encounter
 
-Morning 3: Nothing
-Night 3: Encounter
+Morning 3: A loud horn trills out behind them, moments later, a crowd of 9 goblins comes charging in.
+Night 3: Nothing
 
 
