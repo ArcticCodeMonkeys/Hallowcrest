@@ -2,19 +2,24 @@
 
 The Druid is named Harley Shepard, a fledgeling herself though she showed promise. The Archdruids sent her on a pilgrimage to retrieve fresh water from a pond deep within the [[Shamblewood]] which has restorative properties. They suspect she got lost or attacked along the way, though trust in her skills enough to still be alive. If she is not alive however, the Archdruids ask that you simply sanctify her burial site and return her to the earth rather than bringing her back to the Shamblewood. 
 
-The journey should take about 3 days each way, so they will need to camp and set watch, ensuring that they bring enough rations and materials to rest. Prerolled random encounters for every 6 hours:
+The journey should take about 3 days each way, so they will need to camp and set watch, ensuring that they bring enough rations and materials to rest. Prerolled random encounters for every 12 hours:
 
-Morning 1:
-Afternoon 1:
-Evening 1:
-Night 1:
+Morning 1: Encounter
+Night 1: Nothing
 
-Morning 1:
-Afternoon 1:
-Evening 1:
-Night 1:
+Morning 2: Nothing
+Night 2: Encounter
 
-Morning 1:
-Afternoon 1:
-Evening 1:
-Night 1:
+Morning 3: Encounter
+Night 3: Nothing
+
+Morning 1: Encounter
+Night 1: Encounter
+
+Morning 2: Encounter
+Night 2: Nothing
+
+Morning 3: Nothing
+Night 3: Encounter
+
+
