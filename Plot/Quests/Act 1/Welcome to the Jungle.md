@@ -4,7 +4,15 @@ The Druid is named Harley Shepard, a fledgeling herself though she showed promis
 
 The journey should take about 3 days each way, so they will need to camp and set watch, ensuring that they bring enough rations and materials to rest. Prerolled random encounters for every 12 hours:
 
-Morning 1: Encounter
+Morning 1: Dire Bird of Prey, Trades or Attacks
+
+Food: Flaming Frying Pan
+Money: Crown of Superiority
+Spellcasting: Staff of Wildsparking
+Equipment: 
+Ranged Weapon: Archer's Weapon
+Melee Weapon: Tactician's Weapon 
+Utility: Fake Moustache
 Night 1: Nothing
 
 Morning 2: Nothing
