@@ -9,19 +9,21 @@ Morning 1: Dire Bird of Prey, Trades or Attacks
 Food: Flaming Frying Pan
 Money: Crown of Superiority
 Spellcasting: Staff of Wildsparking
-Equipment: 
+Equipment: Corvid Mask
 Ranged Weapon: Archer's Weapon
-Melee Weapon: Tactician's Weapon 
+Melee Weapon: Tactician's Weapon / Berserker's Weapon
 Utility: Fake Moustache
+
 Night 1: Nothing
 
 Morning 2: Nothing
+
 Night 2: Encounter
 
-Morning 3: Encounter
+Morning 3: A loud horn trills out behind them, moments later, a crowd of 9 goblins comes charging in.
 Night 3: Nothing
 
-Morning 1: Encounter
+Morning 1: The Party stumbles upon an Owlbear feasting upon an elk.
 Night 1: Encounter
 
 Morning 2: Encounter
