@@ -7,7 +7,7 @@ Stock:
 | 4oz of Tea Leaves            | 1sp    |
 | 1oz of Flower Oils           | 1sp    |
 | 1/2lbs of Spices             | 2sp    |
-| Balsomwood                   | 5gp    |
+| Balsawood                    | 5gp    |
 | Tea                          | 2sp    |
 | Coffee                       | 5sp    |
 | Bottle of Boundless Coffee   | 30gp   |
