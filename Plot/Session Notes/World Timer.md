@@ -1,5 +1,5 @@
 Notes here indicate time remaining on events which pass without player input.
-Current Date: Selunum 2
+Current Date: Selunum 7
 
 
 [[Ne're Darke]]
