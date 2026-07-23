@@ -12,7 +12,7 @@ NICE TO HAVE:
 - Connect more side characters in different ways.
 - Guilds
 - Jeweler
-- 
+- Theatre
 
 
 
