@@ -8,6 +8,18 @@ So we need probably like 3 quests to do this, shouldn't be too bad seeing as we 
 
 Other than that, I'd recommend [[Come One Come All]], advertised either at [[The Auditorium]] when they go to get a builder again or at [[Fellowship of the Frontier]]. Flesh this out a bit more to get more prizes.
 
+Next time they try to get that builder guy, have them need to meet him at [[The Auditorium]] so we can run [[Futuristic Flea Market]]. 
+
+[[Entrance Exam]] is something that i think is going to be skipped. I might just push the deadline to after [[Victory Day]] for reasons we will soon talk about.
 
 
-[[Victory Day]] will be fast approaching, its in 2 weeks which will not be enough time to finish the house, but thats ok. When that happens, we will have [[Brand New Brandings]] occur
+[[Victory Day]] will be fast approaching, its in 2 weeks which will not be enough time to finish the house, but thats ok. When that happens, we will have [[Brand New Brandings]] occur and they'll get a new plot line. We can see what they on [[Victory Day]] to be honest, I'll make a better session notes / quest note for that as there will be alot going on that day, but im actually fine that they miss some or all of it and just hear about it after because there is no way for them to witness everything that happens nor for them to uncover it all right away.
+
+The general idea i have here though is that [[Ne're Darke]] steals [[The Ashen Horn]]
+[[The Menagerie]] steals [[The Sage Mind]]
+[[The Royale Flush]] uncovers [[The Mindrend Crown]] thanks to [[People/Precursors/The Sage Mind|The Sage Mind]]
+[[Ember's Creed]] fractures
+[[The Keepers of Oak]] free the animals from the [[Tropic Tent]]
+[[Dr. Edward Monroe]] captures many of the animals for experimentation.
+
+As act 2 begins, a mandate will be passed by [[Sovereign Concord]] that will force accountability of individuals and factions by outlawing open carrying of weapons by non faction members. Citizens must align themselves with an organization who can be put to blame with a  
