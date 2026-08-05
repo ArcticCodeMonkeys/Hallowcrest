@@ -1,0 +1,3 @@
+*Uncommon, Wonderous Item, (350gp), (Requires Minor Attunement)*
+
+As a bonus action, you can target one creature that can hear you within 30 feet to make a DC 14 Charisma Saving Throw. On a failure, you and the target are forced to improvise for the next minute. You and the target cannot take the Attack or Magic actions. You can end this effect at the start of the target's turns, and the target can repeat the saving throw at the end of each of its turns to end it as well.
