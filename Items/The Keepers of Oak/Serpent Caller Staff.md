@@ -6,5 +6,7 @@ You gain the following benefits.
 
 **Snake Speed Dial.** You can cast Animal Messenger as a ritual.
 
-**Snake Swarm.** Once per long rest you can cast Conjure Animals without expending a spell slot. When you do, the spell stil
+**Serpent Swarm.** Once per long rest you can cast Conjure Animals without expending a spell slot. When you do, the spell still requires concentration, but ends after 3 rounds.
+
+
  
