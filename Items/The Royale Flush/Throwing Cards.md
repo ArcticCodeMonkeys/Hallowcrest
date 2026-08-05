@@ -1,4 +1,4 @@
-*Common, Melee Weapon (45gp).*
+*Common, Melee Weapon (45gp), (Requires Minor Attunement).*
 
 This deck of 52 cards is a set of lethal weapons. You are considered proficient with these cards if have proficiency with darts, daggers, or gambling sets. Once a card is thrown, it becomes non-magical.
 
