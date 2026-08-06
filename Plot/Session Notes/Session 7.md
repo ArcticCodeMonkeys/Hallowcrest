@@ -2,7 +2,7 @@ So we just spent the last few sessions doing basically nothing. I sent them on a
 
 So we need probably like 3 quests to do this, shouldn't be too bad seeing as we have a ton of them.
 
-[[Welcome to the Jungle]] will get posted in the [[Fellowship of the Frontier]] which pays out 400 gp total
+[[Welcome to the Jungle]] will get posted in the [[Fellowship of the Frontier]] which pays out 600 gp total
 
 [[You've Got MOLES]] is a great one as it also knocks out [[License to Kill]] and grants a total pay of 1400  which is plenty enough as i beleive they need 1500 total to repair the house. This will leave them with 500 total, which is only 125 each, kinda low but they can take more quests too.
 
