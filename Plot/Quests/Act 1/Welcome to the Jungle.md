@@ -13,7 +13,7 @@ Morning 2: The Party comes across a group of adventurers [[Fucked Up Four]]. Ret
 Night 2: Nothing
 
 Morning 3: Dire Bird of Prey, Trades or Attacks
-
+You find a huge bird perched in a tree. It has a very large 
 Food: Flaming Frying Pan
 Money: Crown of Superiority
 Spellcasting: Staff of Wildsparking
@@ -24,7 +24,9 @@ Utility: Fake Moustache
 
 Night 3: Nothing
 
-They arrive at the Wellspring, the area shrouded heavily by foliage letting in only the faintest bit of sunlight. Ruins of ancient structures lie in pieces, overtaken by the forest. The smell of wet moss fills the air and find the druid, collecting the water. She says she sensed a great beast in the forest, something foreign and unnatural. She suspected it was stalking her so she took a winding path which got her lost and prolonged her journey. Th
+They arrive at the Wellspring, the area shrouded heavily by foliage letting in only the faintest bit of sunlight. Ruins of ancient structures lie in pieces, overtaken by the forest. The smell of wet moss fills the air and the faint trickle of water can be heard from uphead. Looking to the source of the sound, you see a woman fitting the description of Harley Shepard, the druid you are searching for, collecting the water. 
+
+She says she sensed a great beast in the forest, something foreign and unnatural. She suspected it was stalking her so she took a winding path which got her lost and prolonged her journey. She'll want to collect the water and then return back, and if she does, the Naga will come out as it has taken the Wellspring as its lair.
 
 Morning 1: Nothing
 Night 1: A heavy thunderstorm rolls in and floods their camp. Unless they can find or create shelter, they gain a level of exhaustion and cannot rest. 
