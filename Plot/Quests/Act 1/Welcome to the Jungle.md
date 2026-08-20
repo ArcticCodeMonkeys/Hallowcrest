@@ -13,7 +13,7 @@ Morning 2: The Party comes across a group of adventurers [[Fucked Up Four]]. Ret
 Night 2: Nothing
 
 Morning 3: Dire Bird of Prey, Trades or Attacks
-You find a huge bird perched in a tree. It has a very large 
+You find a huge bird perched in a tree. It has a very large nest with what looks to be an assortment of odd and man made objects within it. It screeches at you to get your attention and looks to you for a response. 
 Food: Flaming Frying Pan
 Money: Crown of Superiority
 Spellcasting: Staff of Wildsparking
