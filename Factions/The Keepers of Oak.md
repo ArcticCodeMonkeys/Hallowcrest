@@ -30,7 +30,7 @@ Some serve as [[Lifeweavers]] and [[Rainwalkers]], and a few are on a [[Mage Tow
 | Shaman    |       | 2   |
 | Ranger    |       | 1   |
 | Channeler |       | 1/2 |
-| Outlander |       | 1/4 |
+| Fledgling |       | 1/4 |
 
 
 ## Hideouts / Guildhouses
