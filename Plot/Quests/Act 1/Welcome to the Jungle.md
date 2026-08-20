@@ -24,15 +24,15 @@ Utility: Fake Moustache
 
 Night 3: Nothing
 
-They arrive, find the druid, who says she has been hunted by a Naga. 
+They arrive at the Wellspring, the area shrouded heavily by foliage letting in only the faintest bit of sunlight. Ruins of ancient structures lie in pieces, overtaken by the forest. The smell of wet moss fills the air and find the druid, collecting the water. She says she sensed a great beast in the forest, something foreign and unnatural. She suspected it was stalking her so she took a winding path which got her lost and prolonged her journey. Th
 
-Morning 1: The Party stumbles upon an Owlbear feasting upon an elk.
+Morning 1: Nothing
 Night 1: A heavy thunderstorm rolls in and floods their camp. Unless they can find or create shelter, they gain a level of exhaustion and cannot rest. 
 
 Morning 2: Nothing
 Night 2: The Rat King pillages their camp while they sleep, now having amassed two Giant Rats named Jimmy and John.
 
-Morning 3: A loud horn trills out behind them, moments later, a crowd of 9 goblins comes charging in.
+Morning 3: Nothing
 Night 3: Nothing
 
 
