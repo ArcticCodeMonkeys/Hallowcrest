@@ -2,4 +2,4 @@
 publish: true
 ---
 ![[Miles Kane.jpg]]
-Son of [[Olivander Kane]]. Sells drugs for 'medicinal purposes'. Is beginning to get involved in shady business, acting as a mule for trades between [[The Royale Flush]] and [[The Menagerie]].
+Son of [[Olivander Kane]]. Sells drugs for 'medicinal purposes'. %%CENSOR%%Is beginning to get involved in shady business, acting as a mule for trades between [[The Royale Flush]] and [[The Menagerie]].%%/CENSOR%%
