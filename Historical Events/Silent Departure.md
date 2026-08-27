@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 The Event marking the start of the Dark Era (DE). It indicates the sudden and unexplained disappearance of the race known as the [[Precursors]]. 
 

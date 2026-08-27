@@ -1,3 +1,6 @@
+---
+publish: true
+---
 The main city guard of [[Hallowcrest]], lead by [[Elowyn Hallowbrand]] and made of soldiers from the [[Sovereign Concord]]. 
 
 Roles:

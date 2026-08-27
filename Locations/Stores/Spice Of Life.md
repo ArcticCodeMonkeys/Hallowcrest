@@ -1,3 +1,6 @@
+---
+publish: true
+---
 A medium sized building decorated with flowers and herbs. A complex and strong aroma emanates from the store, enticing customers to enter. The first floor of the building serves as a shop, selling magical and non-magical herbs, spices, and flowers, while the second serves as living quarters for [[Olivander Kane]], the owner of the store. The back of the shop houses a small garden, used to cultivate the products of the store. Tea and coffee are also available for purchase, as well as a few magical ingredients.
 
 Stock:

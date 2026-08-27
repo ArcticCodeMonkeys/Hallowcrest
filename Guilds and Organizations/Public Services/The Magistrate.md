@@ -1,3 +1,6 @@
+---
+publish: true
+---
 The bureaucratic organization controlling the laws and documentations of the city. Here is where taxes are filed, permits can be acquired, and city jobs can be given. 
 
 The Magistrate also upkeeps the [[Sending Poles]], repairs roads and infrastructure, and set up the lamps throughout the city, which are light by Continual Flames.

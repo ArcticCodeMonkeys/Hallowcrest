@@ -1,3 +1,6 @@
+---
+publish: true
+---
 A group of clerics and druids, funded by [[The Magistrate]] who arrive to provide medical assistance to the city. Citizens of Hallowcrest who register with [[The Magistrate]] can purchase Health Insurance to reduce or negate the cost of the Lifeweavers assistance, to certain degrees.
 
 Services:

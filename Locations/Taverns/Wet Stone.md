@@ -13,7 +13,6 @@ Regulars:
 [[Sovereign Guard]]s in general
 - [[General Howard Goode]]
 - [[Ardwin Hammer]]
-- [[Hannah Baker]]
 
 Events and History:
 

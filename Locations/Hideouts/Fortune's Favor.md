@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 ![[Fortune's Favor.jpg]]
 

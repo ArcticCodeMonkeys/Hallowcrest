@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ![[Jim.jpg]]A mysterious traveler, clearly with magical abilities, but an unclear backstory. He runs [[Jim's Sandwich Shop]], but also travels the roads and sells goods to wandering adventurers. 
 
 Rumors have spread about Jim, with some saying that they met him on the road while others were simultaneously meeting him at his shop. One theory is that he has one or more secret twins, all of whom go by Jim to maintain consistent branding. Another theory is that he has clones or simulacrums which act as Jim and create a large network of salesmen. Some others believe that Jim is an extra-planar or extra-temporal traveler, with many different versions of him from different realities or times. These rumors are further complicated by his uncanny knack of knowing detailed information about his customers.

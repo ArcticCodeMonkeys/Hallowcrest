@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 A guild for magic item merchants
 

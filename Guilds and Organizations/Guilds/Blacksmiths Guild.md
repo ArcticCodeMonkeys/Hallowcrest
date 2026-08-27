@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 A guild for blacksmiths and armorers. 
 

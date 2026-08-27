@@ -1,3 +1,6 @@
+---
+publish: true
+---
 A small office in an alley, owned by [[Victor Pembroke]]. Offering private investigation services.
 
 

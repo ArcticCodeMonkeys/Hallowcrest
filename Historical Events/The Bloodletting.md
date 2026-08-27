@@ -1,3 +1,6 @@
+---
+publish: true
+---
 A large invasion of vampires and thralls which ravaged the [[Golden Plains]] over the course of 6 months in 96 SE. It is unknown where the vampires came from; though some guess the south of the [[Silver Coast]] now that it has been discovered. 
 
 The [[Sovereign Concord]] was slow to react to the invasion and [[The Capital]] was deep under construction, so the casualties were immense. Historians estimate it was anywhere from 20,000 to 100,000 people killed. The vampires raided towns, enthralling the strongest few and killing most of the rest. It was not clear why they needed so much blood, but after a few months and facing conflict with the [[Sovereign Concord]], they simply vanished. 

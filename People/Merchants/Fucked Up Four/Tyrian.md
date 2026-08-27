@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ![[Tyrian.jpg]]
 
 College of Dance Bard, member of the [[Fucked Up Four]], and Co-Owner of [[Unearthed Arcana]]. Tyrian is cheerful, optimistic and uplifting. He is always moving around the shop, singing and dancing and playing his lute. He failed his last semester of bard college, and is finishing at [[Locations/Hideouts/Aurora College|Aurora College]], also allowing him to play [[Mage Tower]] for the [[Prismaris]].
