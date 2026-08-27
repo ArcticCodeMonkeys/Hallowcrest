@@ -4,7 +4,7 @@ So we need probably like 3 quests to do this, shouldn't be too bad seeing as we 
 
 [[Welcome to the Jungle]] will get posted in the [[Fellowship of the Frontier]] which pays out 600 gp total
 
-[[You've Got MOLES]] is a great one as it also knocks out [[License to Kill]] and grants a total pay of 1400  which is plenty enough as i beleive they need 1500 total to repair the house. This will leave them with 500 total, which is only 125 each, kinda low but they can take more quests too.
+[[You've Got MOLES]] is a great one as it also knocks out [[License to Kill]] and grants a total pay of 1400  which is plenty enough as i believe they need 1500 total to repair the house. This will leave them with 500 total, which is only 125 each, kinda low but they can take more quests too.
 
 Other than that, I'd recommend [[Come One Come All]], advertised either at [[The Auditorium]] when they go to get a builder again or at [[Fellowship of the Frontier]]. Flesh this out a bit more to get more prizes.
 
