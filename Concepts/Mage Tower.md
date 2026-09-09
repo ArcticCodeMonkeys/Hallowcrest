@@ -69,7 +69,7 @@ During overtime, play continues until one team scores a point. At the beginning 
 - Wrong Turn: All sanctums rotate clockwise in position at the end of each round. Creatures and mascots within the sanctum move with it.
 - Thunderdomes: Sanctums are surrounded by a wall of magical force as described by the Wall of Force spell. These walls have 14 AC and 50 hit points.
 - Mischievous Mike: A quickling named Mike is released into the arena, it attempts to steal any mascots not within a sanctum.
-- Arcane Sustanance: Arcane Decay is disabled
+- Arcane Sustenance: Arcane Decay is disabled
 - Play of the Game: The next point scored is worth 2
 - Point Stealer: The next team to score a point can remove a point from a team of their choice.
 - Tower Defense: Turrets appear at the top of each tower. On initative 20 they target the closest enemy player and make a ranged spell attack (+7). On a hit, the target is pushed back 30 feet and knocked prone.
@@ -117,9 +117,9 @@ The Planner and Buffer, usually stays far away from the other players and looks 
 - **Focused:** Once per point, whenever you fail a concentration check, you can instead succeed and gain a +1d4 bonus to your next concentration check.
 - **Warding:** Allies under the effects of one of your spells gain 25 temporary hit points at the start of each of their turns instead of 20.
 
-#### Signature Spells:
-
-Each player can choose a signature spell, this spell can be cast once per point without expending a spell slot and can be at most 2nd level. Every creature also gains Counterspell and Dispel Magic as a signature spell.
+	#### Signature Spells:
+	
+	Each player can choose a signature spell, this spell can be cast once per point without expending a spell slot and can be at most 2nd level. Every creature also gains Counterspell and Dispel Magic as a signature spell.
 
 #### Team-Up
 
