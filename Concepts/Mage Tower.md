@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 A popular game among students of Aurora College, the game can be summarized as Capture the Flag but with magic.
 
