@@ -5,7 +5,7 @@ During the [[Victory Day]] parade, [[Ember's Creed]] will be going around town l
 
 If they accept, the party can be asked to perform a task for Searclaw. There are a large group of worshipers who have stolen from Searclaw's hoard. They need to you go reclaim the wealth and return it to Searclaw, all the while striking fear into the hearts of the betrayers with your might and strength.
 
-They don't have much information about these thieves ([[Eternal Flame]]) other than that what they stole. They took 2000 gold pieces, a ruby worth 500 gold, an oil painting worth 450 gold, and a magical sword imbued with Draconic Flame. The painting depicted the Dock Ward as the first ships filled with settlers from [[The Capital]] came in to [[Hallowcrest]].
+They don't have much information about these thieves ([[Eternal Flame]]) other than that what they stole. They took 2000 gold pieces, two rubies worth 250 gold, 3 sapphires worth 150gp, an oil painting worth 450 gold, and a magical sword imbued with Draconic Flame. The painting depicted the Dock Ward as the first ships filled with settlers from [[The Capital]] came in to [[Hallowcrest]].
 
 The party can investigate the sword, wait until they begin setting fires, or use a Locate Object spell. If they find the thieves, they will have to sneak / break into their hideout in the Dock Ward, and convince / fight them for the hoard back. They would rather give it back than fight, but they already sold the ruby and used 400 gold pieces. 
 
