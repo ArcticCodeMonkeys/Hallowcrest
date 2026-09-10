@@ -1,21 +1,21 @@
 Notes here indicate time remaining on events which pass without player input.
-Current Date: Selunum 7
+Current Date: Selunum 11
 
 
 [[Ne're Darke]]
-- Prepare to sabotage the [[Victory Day]] parade in order to steal [[The Ashen Horn]] from [[Sealed Vault]]. - 2 weeks
+- Prepare to sabotage the [[Victory Day]] parade in order to steal [[The Ashen Horn]] from [[Sealed Vault]]. - 2 days
 
 [[Ember's Creed]]
-- Eternal Flame Splinter Cell - 6 weeks
+- Eternal Flame Splinter Cell - 5 weeks
 
 [[Factions/Aurora College|Aurora College]]
-- Entrance Exams - 4 weeks
+- Entrance Exams - 3 weeks
 
 [[Society of Higher Minds]]
 - Partnership Invention of the [[Arcane Cuffs]] - 1 week
 
 [[Sovereign Concord]]
-- Victory Day Parade - 2 weeks.
+- Victory Day Parade - 2 days.
 
 [[The Keepers of Oak]]
 - Initiate the Anti-Conquest act - 2 months
