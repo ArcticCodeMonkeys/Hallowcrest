@@ -17,7 +17,7 @@ Finally, [[Gestalt Hallowbrand]], [[Searclaw]], and [[Aurora Stellaris]] were fl
 
 In the aftermath of the battle, [[Aurora Stellaris]] established and lead a settlement to honour the fallen and protect the region from future threats. Named [[Hallowcrest]], the city grew around the [[Twin Protectors]], a grand statue commemorating [[Gestalt Hallowbrand]] and [[Searclaw]]. Additionally, a large hill within the city was named [[Victory Hill]], where a memorial was established for the fallen soldiers. The city quickly became a beacon of hope and unity, attracting people from all walks of life. 
 
-[[Hallowcrest]] honours the sacrifices of the Battle of Ash and Ember with an annual festival, known as [[Victory Day]], during which [[Searclaw]] flies over the city, his fiery silhouette a symbol of courage, strength, and renewal. The festival brings the city together in a vibrant celebration of its history and resilience.
+[[Hallowcrest]] honours the sacrifices of the Battle of Ash and Ember with an annual festival, known as [[Concepts/Festivals/Victory Day]], during which [[Searclaw]] flies over the city, his fiery silhouette a symbol of courage, strength, and renewal. The festival brings the city together in a vibrant celebration of its history and resilience.
 
 
 

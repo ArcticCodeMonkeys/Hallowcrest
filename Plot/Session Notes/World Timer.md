@@ -3,7 +3,7 @@ Current Date: Selunum 11
 
 
 [[Ne're Darke]]
-- Prepare to sabotage the [[Victory Day]] parade in order to steal [[The Ashen Horn]] from [[Sealed Vault]]. - 2 days
+- Prepare to sabotage the [[Concepts/Festivals/Victory Day]] parade in order to steal [[The Ashen Horn]] from [[Sealed Vault]]. - 2 days
 
 [[Ember's Creed]]
 - Eternal Flame Splinter Cell - 5 weeks
