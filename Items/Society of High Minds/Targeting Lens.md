@@ -1,3 +1,4 @@
+150gp
 
 Goggles (Uncommon) (Requires Minor Attunement)
 
