@@ -1,1 +1,0 @@
-This quest begins by the party accepting a quest on the quest board from the [[Sovereign Concord]]. 
