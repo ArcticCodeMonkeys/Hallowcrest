@@ -9,4 +9,6 @@ Members:
 - [[Rachel Stevens]] - Bard of Glamour
 - [[Rellana Domino]] - Bard of Valor
 - [[Oliver Twain]] - Bard of Lore
+%%CENSOR%%
 - [[Dorian Storm]] - Unofficial member, helps when the party is out adventuring.
+  %%/CENSOR%%

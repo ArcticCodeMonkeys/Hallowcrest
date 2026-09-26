@@ -1,6 +1,9 @@
+---
+publish: true
+---
 ![[Visi Parks.jpg]]
 Twin sister of [[Roger Parks]]. Member of [[The Royale Flush]] and [[Ember's Creed]].
-
+%%CENSOR%%
 Visi and [[Roger Parks]] were born in [[Hallowcrest]] of the Parks noble family, the children of [[Jessica Parks]] and [[Orvold Parks]]. As kids, they both grew tired of their cushy noble lives, and longed to play in the streets with the other children. Their parents would not let them, as they were worried that it would negatively influence them and get them in trouble or hurt. Unfortunately for them, this only drove Roger and Visi even harder to spend time with the people of [[Silverside]] and [[The Docks]], leading them to join [[The Royale Flush]]. Visi spent her time at [[Black and Blue]] with her brother and [[People/The Royale Flush/Quinn Hammer]], also joining [[Ember's Creed]] to learn the ways of the Ascendant Dragon.
 
-Roger and Visi are mostly happy with the life they've made for themselves, glad they avoided the plain and mundane life of a noble, but in both of them, there is an inkling of good. They try to hide it with sarcasm and humor, but they both secretly wish they were contributing to society in a more meaningful way, like heroes. Unfortunately, their parents (and partially themselves) have already tarnished their reputation too much, and they are now stuck with [[The Royale Flush]].
+Roger and Visi are mostly happy with the life they've made for themselves, glad they avoided the plain and mundane life of a noble, but in both of them, there is an inkling of good. They try to hide it with sarcasm and humor, but they both secretly wish they were contributing to society in a more meaningful way, like heroes. Unfortunately, their parents (and partially themselves) have already tarnished their reputation too much, and they are now stuck with [[The Royale Flush]].%%/CENSOR%%

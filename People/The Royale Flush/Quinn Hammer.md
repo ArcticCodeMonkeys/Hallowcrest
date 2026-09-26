@@ -2,9 +2,10 @@
 publish: true
 ---
 ![[Quinn Hammer.jpg]]
-%%CENSOR%%
-Bartender, bruiser, enforcer, and body guard for [[The Royale Flush]]. Member of [[The Menagerie]] Hates [[Jack Rivers]] but has to work with him anyways. Calm and non-chalant. Sometimes appears at [[Black and Blue]] to spar with [[Roger Parks]], [[Visi Parks]], and other patrons. Brother of [[Ardwin Hammer]].
 
+Bartender, bruiser, enforcer, and body guard for [[The Royale Flush]]. Member of [[The Menagerie]] %%CENSOR%%Hates [[Jack Rivers]] but has to work with him anyways.%%/CENSOR%% Calm and non-chalant. Sometimes appears at [[Black and Blue]] to spar with [[Roger Parks]], [[Visi Parks]], and other patrons. Brother of [[Ardwin Hammer]].
+
+%%CENSOR%%
 Quinn Hammer lived in the capital until he was 18 with his brother [[Ardwin Hammer]], after which Quinn left to [[Hallowcrest]] to seek a better life. In [[The Capital]], he was constantly slandered for being a half-orc, but more personally he was compared to his brother, who was more successful in almost every aspect than him. In [[Hallowcrest]], Quinn found [[The Menagerie]], who welcomed him with open arms. With [[The Menagerie]], Quinn felt a sense of family that he never had with his own, and vowed to leave his real family behind for this one. 
 
-It would not be that easy however, as [[Ardwin Hammer]], now a Lieutenant for the [[Sovereign Guard]], took a position in [[Hallowcrest]] after hearing that Quinn had gotten involved in a criminal organization. Quinn is very upset about his brother's presence in [[Hallowcrest]], wishing he would leave him alone in his new life. Most of the reason besides money that Quinn also works with [[The Royale Flush]] is that the [[Sovereign Guard]] are instructed to not patrol near [[Fortune's Favor]], so it is the one place in town where he can be sure to be free from his brother.%%/CENSOR%%
+It would not be that easy however, as [[Ardwin Hammer]], now a Lieutenant for the [[Sovereign Guard]], took a position in [[Hallowcrest]] after hearing that Quinn had gotten involved in a criminal organization. %%/CENSOR%% Quinn is quite upset about his brother's presence in [[Hallowcrest]], wishing he would leave him alone in his new life. Most of the reason besides money that Quinn also works with [[The Royale Flush]] is that the [[Sovereign Guard]] are instructed to not patrol near [[Fortune's Favor]], so it is the one place in town where he can be sure to be free from his brother.
