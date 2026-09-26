@@ -5,17 +5,21 @@ publish: true
 
 ## Basic Description
 
-Individuals devoted to research, invention, and brilliance. Formed in [[Hallowcrest]] upon its creation, it hasn't gained much momentum until recently, when  Panel of "Leaders" called Enlightened Ones
-%%CENSOR%%
+Individuals devoted to research, invention, and brilliance. Formed in [[Hallowcrest]] upon its creation, it hasn't gained much momentum until recently, when a panel of "Leaders" called Enlightened Ones banded together and poured a lot of funding into products for the city. The society now gets most of its funding from [[The Magistrate]] and [[Sovereign Concord]], with a few outside investments.
 ## Important Members
 
 - [[Dr. Edward Monroe]] - Enlightened One
 - [[Elzar the Magnificent]] - Enlightened One
-- [[Professor Thimblebang]] - Enlightened One
 - [[Marcus Stellaris]] - Enlightened One
-- [[Panambre Stark]] - Enlightened One
 - [[Spark Pritchet]] - Kobold Inventor
+  
+%%CENSOR%%
+- [[Panambre Stark]] - Enlightened One
+- [[Professor Thimblebang]] - Enlightened One
 - [[Breelyn Brew]] - Alchemist
+%%/CENSOR%%
+
+%%CENSOR%%
 #### Hierarchal Structure
 
 | Role            | Count | CR  |
@@ -27,10 +31,10 @@ Individuals devoted to research, invention, and brilliance. Formed in [[Hallowcr
 | Brilliant       |       | 1   |
 | Apprentice      |       | 1/2 |
 | Initate         |       | 1/4 |
-
+%%/CENSOR%%
 ## Hideouts / Guild Houses
 
-- [[The Auditorium]]%%/CENSOR%%
+- [[The Auditorium]]
 ## Symbols and Attire
 
 ![[Society of Higher Minds Symbol.jpg]]
@@ -57,7 +61,7 @@ Likes
 
 Allied
 
-
+%%/CENSOR%%
 ## Renown
 
 
@@ -70,8 +74,4 @@ Allied
 
 
 
-
-
 ## Quests
-
-%%/CENSOR%%

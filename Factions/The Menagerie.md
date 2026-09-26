@@ -6,6 +6,7 @@ publish: true
 ## Basic Description
 
 An outcast criminal group filled with odd people. They look to make a name for themselves in the city without being too morally dubious. Avoids violent crimes and attempts to steal from the wealthy and other criminals.
+
 %%CENSOR%%
 ## Important Members
 
@@ -29,6 +30,7 @@ An outcast criminal group filled with odd people. They look to make a name for t
 | Outcast   |               | 1/4 |
 
 %%/CENSOR%%
+
 %%CENSOR%%
 ## Hideouts / Guildhouses
 
@@ -42,6 +44,7 @@ An outcast criminal group filled with odd people. They look to make a name for t
 ## Attitude
 
 
+%%/CENSOR%%
 ## Renown
 
 
@@ -53,8 +56,9 @@ An outcast criminal group filled with odd people. They look to make a name for t
 | 20     | Comeback Story. Whenever you are reduced to 0 hit points, make a Death Saving Throw. On a success, you remain on 1 hit point and have advantage on all d20 tests until the end of your next turn. On a failure, you still remain on 1 hit point, but gain a level of Injured and lose the use of this feature until you complete a long rest. |
 
 
-
+%%CENSOR%%
 
 
 ## Quests
+
 %%/CENSOR%%

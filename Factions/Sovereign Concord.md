@@ -12,16 +12,21 @@ Upon the establishment of Hallowcrest in 1246 SE, the [[Sovereign Concord]] sent
 ## Basic Description
 
 In Hallowcrest, the Sovereign Concord is the presiding force controlling the city, creating laws, and enforcing justice. Lead by the lord of Hallowcrest, [[Elowyn Hallowbrand]], the Sovereign Concord has a large group of trained city guards, called the [[Sovereign Guard]].
-%%CENSOR%%
+
 ## Important Members:
 
 - [[Gestalt Hallowbrand]] - Original Lord and Founder of Hallowcrest, 5th Commander of the Sovereign Concord
 - [[Elowyn Hallowbrand]] -  Current Lord of Hallowcrest, 6th Commander of the Sovereign Concord
-- [[Hannah Baker]] - Captain of the [[Sovereign Guard]]
-- [[Jessie Faux]] - Captain of the [[Sovereign Guard]]
-- [[Ardwin Hammer]]
+- [[Ardwin Hammer]] - Captain of the [[Sovereign Guard]]
 - [[General Howard Goode]] - Retired Captain of the [[Sovereign Guard]]
 
+%%CENSOR%%
+- [[Hannah Baker]] - Captain of the [[Sovereign Guard]]
+- [[Jessie Faux]] - Captain of the [[Sovereign Guard]]
+
+ %%/CENSOR%%
+
+%%CENSOR%%
 #### Hierarchal Structure
 
 | Role       | Count | CR  |
@@ -33,12 +38,12 @@ In Hallowcrest, the Sovereign Concord is the presiding force controlling the cit
 | Soldier    |       | 1   |
 | Trainee    |       | 1/2 |
 | Recruit    |       | 1/4 |
-
+%%/CENSOR%%
 ## Hideouts / Guildhouses
 
 - [[Smokepowder Keep]] - The Main Castle of [[Hallowcrest]], home of [[Elowyn Hallowbrand]] and main operations center for the [[Sovereign Guard]]
 - [[Ironwrought Prison]] - The highest security prison in [[Hallowcrest]], made for the most famous and dangerous criminals
-- [[Sealed Vault]], a large vault containing [[The Ashen Horn]] and the sovereign wealth.%%/CENSOR%%
+- [[Sealed Vault]], a large vault containing [[The Ashen Horn]] and the sovereign wealth.
 ## Symbols and Attire
 
 ![[Sovereign Concord Crest.jpg]]
@@ -68,7 +73,7 @@ Allied
 - [[Factions/Aurora College|Aurora College]]
 - [[The Keepers of Oak]]
 
-
+%%/CENSOR%%
 ## Renown
 
 | Renown | Rewards                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -76,11 +81,7 @@ Allied
 | 3      | Basic Training. By spending at least 16 hours over the course of a Tenday training with the [[Sovereign Guard]], you gain the following benefits for a Tenday. <br><br>You gain proficiency in martial weapons or gain the Lightly Armored Feat.<br>If you are already proficient in Light Armor, you instead gain the Moderately Armored feat.<br>If you are already proficient in Medium Armor, you instead gain the Medium Armor Master feat.<br>The feats granted by this feature do not provide their ability score bonuses. |
 | 7      | Armory. Once per long rest, you can visit the [[Sovereign Guard]] armory, and spend 1 hour there to hone one weapon, shield, or piece of armor. When you do, that item gains a +1 bonus to hit and damage rolls, or a +1 bonus to AC for the next 24 hours. Additionally, you are allowed to drink at [[Wet Stone]].                                                                                                                                                                                                              |
 | 12     | Legionnaire. Once per Tenday you can blow a special horn to call nearby [[Sovereign Guard]] to aid you in battle. How many guards, who they are, and how quickly they get there is determined by the DM.                                                                                                                                                                                                                                                                                                                          |
-| 20     | Protector. Once per long rest, you can become a paragon of protection. For the next minute, all creatures within 15 feet of you have a bonus to their AC equal to your Wisdom or Charisma modifier.                                                                                                                                                                                                                                                                                                                               |
-
-
-
+| 20     | Protector. Once per long rest, you can become a paragon of protection. For the next minute, all creatures within 15 feet of you have a bonus to their AC equal to your Wisdom or Charisma modifier. This effect ends early if you are incapacitated.                                                                                                                                                                                                                                                                              |
 
 
 ## Quests
-%%/CENSOR%%

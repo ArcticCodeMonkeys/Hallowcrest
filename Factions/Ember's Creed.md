@@ -86,5 +86,3 @@ Allied
 ## Other
 
 Ember's Creed has a Mage Tower team called [[The Firestokers]]
-
-%%/CENSOR%%

@@ -42,7 +42,8 @@ A bustling tavern of criminals, not entirely restricted to Ne’re Darke members
 %%/CENSOR%%
 #### **Symbols and Attire:**
 
-%%CENSOR%%Ne’re Darke is associated with two main symbols. The first is the logo for the Silken Mirage, and the second is the one they place upon their wax letter seals.
+%%CENSOR%%
+Ne’re Darke is associated with two main symbols. The first is the logo for the Silken Mirage, and the second is the one they place upon their wax letter seals.
 %%/CENSOR%%
 ![[Ne're Darke Symbol A.jpg]]
 
@@ -68,7 +69,7 @@ Neutral
 
 Likes
 - [[Society of Higher Minds]]
-
+%%/CENSOR%%
 
 ## Renown
 
@@ -82,7 +83,7 @@ Likes
 
 
 
-
+%%CENSOR%%
 ## Other
 
 Ne're Darke has a Mage Tower team (though they are not officially tied to them); [[The Duskbloods]]

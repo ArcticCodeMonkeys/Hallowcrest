@@ -8,7 +8,8 @@ In 1280 SE, [[The Maestro]] moved to [[Hallowcrest]] from [[The Capital]] to eva
 %%/CENSOR%%
 ## Basic Description
 
-A mafia like organization which runs [[Fortune's Favor]], run by [[Lady Luck]] and [[The Maestro]]. Themed around poker, casinos, and jazz. The organization benefits heavily from its 'donations' to the [[Sovereign Concord]], which allows the [[Fortune's Favor]] to be unpoliced by [[Sovereign Guard]].
+A mafia like organization which runs [[Fortune's Favor]], run by%%CENSOR%% [[Lady Luck]] and [[The Maestro]]%%/CENSOR%%. Themed around poker, casinos, and jazz. The organization benefits heavily from its 'donations' to the [[Sovereign Concord]], which allows the [[Fortune's Favor]] to be unpoliced by [[Sovereign Guard]].
+
 %%CENSOR%%
 ## Important Members
 
@@ -31,15 +32,18 @@ A mafia like organization which runs [[Fortune's Favor]], run by [[Lady Luck]] a
 | Grunt      |       | 1   |
 | Card Shark |       | 1/2 |
 | Jester     |       | 1/4 |
-
+  %%/CENSOR%%
 ## Hideouts / Guildhouses
 
-- [[Fortune's Favor]] - The Largest Casino in the Plane, prime tourist destination, and hideout for [[The Royale Flush]].%%/CENSOR%%
+- [[Fortune's Favor]] - The Largest Casino in the [[Astell]], prime tourist destination, and hideout for [[The Royale Flush]].
+
 ## Symbols and Attire
 
 ![[Royal Flush Symbol.jpg]]
 
 %%CENSOR%%Royale Flush Members are seen wearing either professional attire, such as suits, gowns, blouses, and dress shirts, or in jester costumes. [[The Maestro]] is capable of creating magical constructs called Jesters, who are not very smart but can understand basic commands and are good body guards.%%/CENSOR%%
+
+
 %%CENSOR%%
 ## Attitude
 
@@ -61,7 +65,7 @@ Likes
 Allied
 - [[Society of Higher Minds]]
 
-
+%%/CENSOR%%
 ## Renown
 
 
@@ -74,4 +78,3 @@ Allied
 
 
 ## Quests
-%%/CENSOR%%

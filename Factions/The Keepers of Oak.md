@@ -6,7 +6,7 @@ publish: true
 ## Basic Description
 
 Druidic order with a base just outside of the city. Mostly druids, some rangers, nature clerics, and Nature Wizards.
-%%CENSOR%%
+
 Some serve as [[Lifeweavers]] and [[Rainwalkers]], and a few are on a [[Mage Tower]] team called [[The Picksies]]. 
 
 
@@ -16,10 +16,13 @@ Some serve as [[Lifeweavers]] and [[Rainwalkers]], and a few are on a [[Mage Tow
 - [[Andrew Bramblenest]] - Diplomat and Quest Giver
 - [[Rebecca Fletcher]] - Hunter and Woodworker
 - [[Trixie Featherington]] - Member and general trickster, one of the [[Lifeweavers]]
-- [[Andressa Fern]] - Member and one of the [[Lifeweavers]]
-- [[Dorian Storm]] - Member and one of the [[Rainwalkers]]
+- [[Andressa Fern]] - Member and one of the [[Lifeweavers]] and [[Rainwalkers]]
 - [[Oriana Vinland]] - Bartender at [[The Treetop Tavern]]
+%%CENSOR%%
+  - [[Dorian Storm]] - Member and one of the [[Rainwalkers]]
+%%/CENSOR%%
 
+%%CENSOR%%
 #### Hierarchal Structure
 
 | Role      | Count | CR  |
@@ -32,11 +35,11 @@ Some serve as [[Lifeweavers]] and [[Rainwalkers]], and a few are on a [[Mage Tow
 | Channeler |       | 1/2 |
 | Fledgling |       | 1/4 |
 
-
+%%/CENSOR%%
 ## Hideouts / Guildhouses
 
 - [[The Tree of Life]] - Main hub of [[The Keepers of Oak]]
-- [[The Treetop Tavern]] - A large outdoor tavern atop a large tree%%/CENSOR%%
+- [[The Treetop Tavern]] - A large outdoor tavern atop a large tree
 ## Symbols and Attire
 
 ![[Keepers of Oak Crest.jpg]]
@@ -65,7 +68,7 @@ Allied
 - [[Sovereign Concord]]
 
 ## Quests
-
+%%/CENSOR%%
 
 ## Renown
 
@@ -83,5 +86,6 @@ Allied
 
 The Keepers of Oak have a [[Mage Tower]] team, called [[The Picksies]]
 
+%%CENSOR%%
 Motif: https://www.youtube.com/watch?v=YR_wIb_n4ZU
 %%/CENSOR%%
