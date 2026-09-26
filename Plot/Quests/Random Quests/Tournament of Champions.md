@@ -1,5 +1,5 @@
 
-[[Fellowship of the Frontier]] is hosting its annual tournament, booking out grand plaza for the weekend for the event. A party must contain exactly 4 members, and has an entrance fee of 200 gold.
+[[Fellowship of the Frontier]] is hosting its annual tournament for adventurers to draw in more of a crowd and get more memberships. A party must contain exactly 4 members, and has an entrance fee of 200 gold (total).
 
 
 Parties:
@@ -38,11 +38,11 @@ Mage Tower (Winner gets 5 points, everyone else gets 4 - # of times their mascot
 
 Play through a game of mage tower
 
-
 Scavenger Hunt (Rank based on placement)
 Finley has made an elaborate amazing race style scavenger hunt for a sword
 
 Group Combat (Winner gets 5 points, everyone else gets 1 + 1 for each team that wipes before them)
+All teams are placed into [[Crackrock Quarry]] and are allowed to fight 
 
 
 After all 4 challenges are complete, the prizes are:
@@ -51,8 +51,10 @@ After all 4 challenges are complete, the prizes are:
 
 1st Place: Trophy Room + Roomy Room (Free!)
 2nd Place: Treasure Map (Leading to Great Riches!)
-3rd Place: 
-4th plac
+3rd Place: Free Adventure Permits + Adventurer Level Health Plan for Life
+4th Place: Bag of Holding
+
+
 
 
 

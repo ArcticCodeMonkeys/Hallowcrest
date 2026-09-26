@@ -15,5 +15,4 @@ This sets off a large explosion of Antimagic, disabling all magical effects in t
 [[Aurora Stellaris]] uses divination to detect the origin of the blast, and gets the help of the [[The Magistrate]] to begin a raid on [[The Royale Flush]].
 
 10AM:
-The parade begins, [[Ne're Darke]] is planning a heist for the 
-
+The parade begins, [[Ne're Darke]] is planning a heist for [[The Ashen Horn]]. 
