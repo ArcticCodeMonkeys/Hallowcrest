@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Potion store run by a genie named [[Kababel]]
 
 

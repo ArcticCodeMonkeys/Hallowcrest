@@ -18,11 +18,11 @@ In Hallowcrest, the Sovereign Concord is the presiding force controlling the cit
 - [[Gestalt Hallowbrand]] - Original Lord and Founder of Hallowcrest, 5th Commander of the Sovereign Concord
 - [[Elowyn Hallowbrand]] -  Current Lord of Hallowcrest, 6th Commander of the Sovereign Concord
 - [[Ardwin Hammer]] - Captain of the [[Sovereign Guard]]
-- [[General Howard Goode]] - Retired Captain of the [[Sovereign Guard]]
+- [[General Howard Goode]] - Retired Sergeant of the [[Sovereign Guard]]
 
 %%CENSOR%%
 - [[Hannah Baker]] - Captain of the [[Sovereign Guard]]
-- [[Jessie Faux]] - Captain of the [[Sovereign Guard]]
+- [[Jessie Faux]] - Sergeant of the [[Sovereign Guard]]
 
  %%/CENSOR%%
 

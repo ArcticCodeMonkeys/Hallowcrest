@@ -28,6 +28,7 @@ A Tattoo parlor specializing in Spellwrought Tattoos and other magical tattoos. 
 | 8th     | 18750      |
 | 9th     | 31250      |
 
-Tattoo Rules: 
+Tattoo Rules:
+
 
 District: [[Grand Plaza]]
