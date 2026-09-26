@@ -28,7 +28,13 @@ Parties:
 
 The challenges are as follows:
 
-Mage Tower (Winner gets 5 points, everyone except )
+Great Hunt (Winner gets 3 points):
 
-Group Combat
+[[Sir Finley Steinhart]] has encountered great beast in the forest while on his most recent escapade. He describes it as a 
+
+Mage Tower (Winner gets 5 points, everyone else gets 4 - # of times their mascot was stolen )
+
+Group Combat (Winner gets 5 points, everyone else gets 1 + 1 for each team that wipes before them)
+
+
 
