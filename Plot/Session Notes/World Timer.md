@@ -25,8 +25,14 @@ Current Date: Selunum 11
 
 [[The Royale Flush]]
 - Attempting to use [[People/Precursors/The Sage Mind|The Sage Mind]] - 2 days
+-
 
 [[Tropic Tent]]:
 - Magnificent Menagerie Parade - Lathand 29 / 57 days
 
 [[The Party]]
+
+[[Job Hunt]]
+- [[The Menagerie]] recruits [[Miles Kane]] (4 days)
+- [[The Royale Flush]] recruits [[Miles Kane]] (6 days)
+ 
