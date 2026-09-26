@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 Magical Candy Store In The Docks, popular amongst local children owned by [[William Winkerton]].
 

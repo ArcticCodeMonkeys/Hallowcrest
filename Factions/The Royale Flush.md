@@ -56,7 +56,7 @@ Neutral
 
 Likes
 -  [[Sovereign Concord]]
-- [[Locations/Hideouts/Aurora College|Aurora College]]
+- [[Factions/Aurora College|Aurora College]]
 
 Allied
 - [[Society of Higher Minds]]

@@ -10,7 +10,7 @@ A monastic group dedicated to worshiping Dragons and specifically [[Searclaw]]. 
 Ember's Creed believes that dragons should not be feared, and instead they should be welcomed as our protectors. We can live in symbiosis with them, as they protect us we can give them our worship and offerings. We can learn from their ancient wisdom we should strive to be as close to them as possible. 
 %%CENSOR%%
 Ember's Creed is heavily involved in the search for [[The Mindrend Crown]], fearing it will be used on [[Searclaw]] if [[Ne're Darke]] finds it. If they find it, the will attempt to destroy it.
-
+%%/CENSOR%%
 ## Important Members
 
 
@@ -18,8 +18,9 @@ Ember's Creed is heavily involved in the search for [[The Mindrend Crown]], fear
 - [[Prometheus Wick]] - Blessed by [[Searclaw]], Draconic Sorcerer
 - [[Molly Crackstone]] - Head Cleric
 - [[Ashley Hart]] - Assistant Cleric
+%%CENSOR%%
 - [[Jessie Faux]] - Assistant Cleric (Reserve)
-
+%%/CENSOR%%
 
 #### Hierarchal Structure
 
@@ -34,17 +35,16 @@ Ember's Creed is heavily involved in the search for [[The Mindrend Crown]], fear
 | Worshiper  |       | 1/4 |
 
 
-%%/CENSOR%%
-%%CENSOR%%
+
+
 ## Hideouts / Guildhouses
 
 - [[Hearthstone]] - Large church dedicated to [[Searclaw]], inclusive of other religions.
 - [[Scorched Peak]] - A monastery outpost very close to [[Searclaw]]'s resting place atop [[Searclaw's Rest]]
-%%/CENSOR%%
+
 ## Symbols and Attire
 
 ![[Ember's Creed Symbol.jpg]]
-
 
 %%CENSOR%%
 ## Attitudes
@@ -71,7 +71,7 @@ Allied
 
 ## Quests
 
-
+%%/CENSOR%%
 ## Renown
 
 
