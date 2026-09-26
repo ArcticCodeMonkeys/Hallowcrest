@@ -8,11 +8,14 @@ See also [[Factions/Aurora College|Aurora College]] (Faction)
 Key Figures:
 - [[Aurora Stellaris]] - Founder
 - [[Marcus Stellaris]] - Dean
-%%CENSOR%%- [[Octavius Aurelius]] - Professor, School of Divination
-- [[Professor Thimblebang]] - Professor, School of Evocation, Head of Research%%/CENSOR%%
+%%CENSOR%%
+- [[Octavius Aurelius]] - Professor, School of Divination
+- [[Professor Thimblebang]] - Professor, School of Evocation, Head of Research
+  %%/CENSOR%%
 
 
-%%CENSOR%%Aurora College has a house system, with 4 key houses
+%%CENSOR%%
+Aurora College has a house system, with 4 key houses
 
 [[Chroma]]:
 - Mascot: Modron

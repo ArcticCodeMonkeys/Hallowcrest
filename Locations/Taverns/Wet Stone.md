@@ -1,3 +1,6 @@
+---
+publish: true
+---
 A [[Sovereign Guard]]'s bar owned by the [[Sovereign Concord]] located close to [[Smokepowder Keep]] in [[High Grounds]].
 
 Signature Meal:

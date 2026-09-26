@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 A quaint but large tavern atop the giant trees of the [[Shamblewood]], serving mostly members of [[The Keepers of Oak]].
 
@@ -11,6 +14,8 @@ Staff:
 Unique Decorations:
 
 Regulars:
+- [[Trixie Featherington]]
+- [[Harley Shepard]]
 
 Events and History:
 

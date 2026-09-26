@@ -18,6 +18,7 @@ Some serve as [[Lifeweavers]] and [[Rainwalkers]], and a few are on a [[Mage Tow
 - [[Trixie Featherington]] - Member and general trickster, one of the [[Lifeweavers]]
 - [[Andressa Fern]] - Member and one of the [[Lifeweavers]] and [[Rainwalkers]]
 - [[Oriana Vinland]] - Bartender at [[The Treetop Tavern]]
+- [[Harley Shepard]] - Fledgling
 %%CENSOR%%
   - [[Dorian Storm]] - Member and one of the [[Rainwalkers]]
 %%/CENSOR%%
