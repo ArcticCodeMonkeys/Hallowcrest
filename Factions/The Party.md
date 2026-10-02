@@ -35,7 +35,7 @@ Renown is a system which determines how well liked you are by different factions
 | [[Ne're Darke]]                             | -2           | Neutral        |
 | [[Society of Higher Minds]]                 | 0            | Neutral        |
 | [[Ember's Creed]]                           | 2            | Neutral        |
-| [[The Menagerie]]                           | 0            | Neutral        |
+| [[The Menagerie]]                           | 3            | Liked          |
 | [[The Keepers of Oak]]                      | 3            | Liked          |
 | [[The Royale Flush]]                        | 3            | Liked          |
 | [[Factions/Aurora College\|Aurora College]] | -1           | Neutral        |

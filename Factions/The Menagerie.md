@@ -7,17 +7,19 @@ publish: true
 
 An outcast criminal group filled with odd people. They look to make a name for themselves in the city without being too morally dubious. Avoids violent crimes and attempts to steal from the wealthy and other criminals.
 
-%%CENSOR%%
 ## Important Members
 
 - [[Roach]] - Leader, Founder, and Planner
 - [[Pyro]] - Hot Headed Bruiser
-- [[Jynx]] - Mercenary
+- [[Jynx]] - Saboteur
 - [[Chedda]] - Bartender at [[The Other Bar]], Spy
 - [[Cassandro Blanc]] - Mercenary
 - [[Enya]] - Oracle and Witch
+%%CENSOR%%
 - [[Chang Ling]] - Spy
+%%CENSOR%%
 
+%%CENSOR%%
 #### Hierarchal Structure
 
 | Role      | Count         | CR  |
@@ -31,11 +33,11 @@ An outcast criminal group filled with odd people. They look to make a name for t
 
 %%/CENSOR%%
 
-%%CENSOR%%
+
 ## Hideouts / Guildhouses
 
 - [[The Other Bar]] - Tavern and General Hideout.
-%%/CENSOR%%
+
 ## Symbols and Attire
 
 ![[Menagerie Symbol.jpg]]
@@ -50,14 +52,13 @@ An outcast criminal group filled with odd people. They look to make a name for t
 
 | Renown | Rewards                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3      | Quirks. By paying your Dues of 5gp per Tenday and spending at least 4 hours with a member of the Menagerie, you gain one Origin feat of your choosing for the next Tenday.                                                                                                                                                                                                                                     |
+| 3      | Quirks. By paying your Dues of 5gp per Tenday and spending at least 16 hours with a member of the Menagerie, you gain one Origin feat of your choosing for the next Tenday.                                                                                                                                                                                                                                    |
 | 7      | Creativity. You can take the Utilize, Study, Influence, and Help actions as a bonus action.                                                                                                                                                                                                                                                                                                                    |
 | 12     | Adaptive. You gain resistance to one damage type (excluding physical), proficiency in one skill, and one save of your choosing.<br>                                                                                                                                                                                                                                                                            |
 | 20     | Comeback Story. Whenever you are reduced to 0 hit points, make a Death Saving Throw. On a success, you remain on 1 hit point, and you and all allies within 30 feet gain a Heroic Inspiration. If an ally already has Heroic Inspiration, they gain advantage on all d20 tests until the end of their next turn instead. On a failure, you remain on 1 hit point. You can use this feature once per long rest. |
 
 
 %%CENSOR%%
-
 
 ## Quests
 
