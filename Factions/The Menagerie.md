@@ -5,7 +5,7 @@ publish: true
 
 ## Basic Description
 
-An outcast criminal group filled with odd people. They look to make a name for themselves in the city without being too morally dubious. Avoids violent crimes and attempts to steal from the wealthy and other criminals.
+An outcast criminal group filled with odd people. They look to make a name for themselves in the city without being too morally dubious. Avoids violent crimes and attempts to steal from the wealthy and other criminals. 
 
 ## Important Members
 
@@ -42,11 +42,12 @@ An outcast criminal group filled with odd people. They look to make a name for t
 
 ![[Menagerie Symbol.jpg]]
 
-%%CENSOR%%
 ## Attitude
 
+- [[Ne're Darke]] (Hostile)
+- [[The Royale Flush]] (Dislikes)
+- [[Sovereign Concord]] (Neutral)
 
-%%/CENSOR%%
 ## Renown
 
 
@@ -58,8 +59,8 @@ An outcast criminal group filled with odd people. They look to make a name for t
 | 20     | Comeback Story. Whenever you are reduced to 0 hit points, make a Death Saving Throw. On a success, you remain on 1 hit point, and you and all allies within 30 feet gain a Heroic Inspiration. If an ally already has Heroic Inspiration, they gain advantage on all d20 tests until the end of their next turn instead. On a failure, you remain on 1 hit point. You can use this feature once per long rest. |
 
 
-%%CENSOR%%
+
 
 ## Quests
 
-%%/CENSOR%%
+- Find the [[Ne're Darke]] spy in their midst
