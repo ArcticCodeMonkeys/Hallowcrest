@@ -56,3 +56,7 @@ Wants the festivities to go well. Is behind on the information, but [[Dr. Edward
 [[Ne're Darke]]:
 
 Wants [[The Ashen Horn]], learns of [[The Mindrend Crown]] heist but is directed by [[Zalaxor Nezere]] to continue on the 
+
+
+Who should end up with the Artifacts?
+
