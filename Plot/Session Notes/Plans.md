@@ -37,4 +37,22 @@ Wants [[People/Precursors/The Sage Mind|The Sage Mind]]. Plans and executes a he
 
 [[The Royale Flush]]:
 
-Wants to uncover the secrets of [[Items/Artifacts/The Sage Mind|The Sage Mind]]. [[The Maestro]]
+Wants to uncover the secrets of [[Items/Artifacts/The Sage Mind|The Sage Mind]]. [[The Maestro]] uses [[Items/Artifacts/The Sage Mind|The Sage Mind]], triggers an anti-magic surge, and gets a glimpse into the future. He sees the upcoming heist and raids and plans accordingly.
+
+[[Ember's Creed]]:
+
+Wants the festivities to go well. [[Eternal Flame]] wants to steal the [[The Ashen Horn]].
+
+[[The Keepers of Oak]]:
+
+Wants the festivities to go well, wants to ensure [[The Mindrend Crown]] is placed into [[Sealed Vault]].
+
+
+[[Society of Higher Minds]]:
+
+Wants the festivities to go well. Is behind on the information, but [[Dr. Edward Monroe]] will be one of the earlier investigators and is going to try to piece together the story of events, figure out who ended up with what, etc.
+
+
+[[Ne're Darke]]:
+
+Wants [[The Ashen Horn]], learns of [[The Mindrend Crown]] heist but is directed by [[Zalaxor Nezere]] to continue on the 
