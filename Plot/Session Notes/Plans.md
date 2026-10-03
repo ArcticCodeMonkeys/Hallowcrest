@@ -107,4 +107,19 @@ Ne're Darke gets word of the transfer of the mind rend crown between Sovereign C
 
 Embers Creed, not intentionally, but capitlizes on the chaos and steals the Ashen Horn from the Sealed Vault via a large explosion.
 
-The Royal Flush uses the S
+The Royal Flush uses the Sage Mind to fend off a heist from The Menagerie and Aurora College.
+
+So this leaves us with the following options for V1:
+
+V1 Options:
+
+Sovereign Concord, holders of The Mindrend Crown
+Ember's Creed, holders of the Ashen Horn
+Royal Flush, holders of the Sage Mind
+
+So, depending on which one of these they choose for V1, We will have either S1, E1, or R1
+
+V2 Options (R1):
+
+Ne're Darke, Holders of The Mindrend Crown
+Society of Higher Mind, h
