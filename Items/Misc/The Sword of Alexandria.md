@@ -7,10 +7,7 @@ The Sword of Alexandria is treated as both a Spellcasting Focus and a Greatsword
 
 **Heavenly Strikes.** The Sword gains a +1 bonus to attack and damage rolls. You are considered proficient with the sword and ignore the Heavy property. You can use Wisdom in place of Strength for attack and damage rolls made with the sword.
 
-**Unyielding Faith.** The Sword gains a +1 bonus to Spell Save DC and Spell Attack Rolls. Whenever you cast Spiritual Weapon using The Sword of Alexandria as your spellcasting focus, the distance it can move increases to 40 feet.
-
-
-
+**Unyielding Faith.** The Sword gains a +1 bonus to Spell Save DC and Spell Attack Rolls. Whenever you cast Spiritual Weapon using The Sword of Alexandria as your spellcasting focus, the distance it can move increases by 10 feet times the level of the spell slot expended.
 
 *(Requires: Score a critical hit with a Spiritual Weapon against a creature of significant threat; conduct a ritual expending 2500 gold worth of holy water)*
 Ignore the Two Handed Property
@@ -32,4 +29,4 @@ The Sword of Alexandria bonds with you further, increasing its bonus in Heavenly
 
 **Mastered Blade.** The Sword of Alexandria has both Heavenly Strikes and Unyielding Faith at all times. Whenever you take the Attack action, you can make one additional attack with The Sword of Alexandria as a part of that action.
 
-**Effortless Flight.** Once per half rest c
+**Effortless Flight.** Once per half rest cast Spirtual Weapon at your highest level without expending a slot.
