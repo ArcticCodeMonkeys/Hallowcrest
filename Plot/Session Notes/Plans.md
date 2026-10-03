@@ -81,7 +81,6 @@ Eternal Flame has the Ashen Horn
 
 Second Worse Case (W2):
 
-The Society of Higher Minds has the Ashen Horn
 The Sovereign Concord has the Mindrend Crown
 
 I think this is pretty interesting. If they go for the Mindrend crown first, they place themselves as criminals and are stealing from the Sovereign Concord, who becomes V1. The Ashen Horn then ends up in the hand of the Eternal Flame, and then they'd be V2. Then finally The Royal Flush is V3. (Though i suppose it would be fine to swap those)
@@ -100,4 +99,12 @@ So we want this to cascade around the city, the events occur very close to each 
 
 So, i think the best option is Ne're Darke goes after the Mindrend Crown, perhaps inside job as [[Jessie Faux]] is sent to bring it to the [[Sealed Vault]]. They leave a massive explosion as proof. The hand off is between the Sovereign Concord, Keepers of Oak, and Ne're Darke is there but their plan is foiled. At least though, they will get info that it still exists and they know that the Sovereign Concord has it.
 The Royal Flush, Menagerie, and Aurora College are all tangled up with the Sage Mind
-So that leaves the society of higher minds and ember's creed to be going for the Ashen Horn, which makes sense. Perhaps, Ember's Creed plans an assault on the [[Sealed Vault]], succeeds, but the Dr. Edward Monroe is there to captilize on it. 
+So that leaves the society of higher minds and ember's creed to be going for the Ashen Horn, which makes sense. Perhaps, Ember's Creed plans an assault on the [[Sealed Vault]], succeeds.
+
+Ok so i think the idea that i've settled on:
+
+Ne're Darke gets word of the transfer of the mind rend crown between Sovereign Concord and Keepers of Oak. Tries to foil the plan, fails.
+
+Embers Creed, not intentionally, but capitlizes on the chaos and steals the Ashen Horn from the Sealed Vault via a large explosion.
+
+The Royal Flush uses the S
