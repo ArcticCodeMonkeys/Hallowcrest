@@ -74,15 +74,22 @@ Probably more interesting if they dont really care about the other artifacts. To
 
 So, that leaves the other two artifacts. Lets say it should begin in possession of someone who its not great to have, and then shift to someone who its really bad to have:
 
-Worst Case:
+Worst Case (W1):
 
 Ne're Darke has the Mindrend Crown
 Eternal Flame has the Ashen Horn
 
-Second Worse Case:
+Second Worse Case (W2):
 
 The Society of Higher Minds has the Ashen Horn
 The Sovereign Concord has the Mindrend Crown
 
 I think this is pretty interesting. If they go for the Mindrend crown first, they place themselves as criminals and are stealing from the Sovereign Concord, who becomes V1. The Ashen Horn then ends up in the hand of the Eternal Flame, and then they'd be V2. Then finally The Royal Flush is V3. (Though i suppose it would be fine to swap those)
 
+If they go for the Ashen Horn, they get to do the cool murder mystery and stuff investigation and The Society of Higher Minds becomes V1. Then we can get a sick Ne're Darke heist from Sovereign Concord and they then become V2 (and the party may group up with the Sovereign Concord) And then Royal flush is V3.
+
+In both scenarios, while not advisable, they may see The Royal Flush as a greater threat. They can make The Royal Flush V1, in which case both W2 have their plans foiled by W1, and they become the new V2, V3. If they make The Royal Flush V2, then then V3 (W2) has their plans foiled by W1 and they become V3 (W1).
+
+So then, that means we need the following people to end up with the artifacts:
+
+Sovereign Concord gets the Mindrend C
