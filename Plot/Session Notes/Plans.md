@@ -13,6 +13,9 @@ This sets off a large explosion of Antimagic, disabling all magical effects in t
 
 9AM:
 [[Aurora Stellaris]] uses divination to detect the origin of the blast, and gets the help of the [[The Magistrate]] to begin a raid on [[The Royale Flush]].
+[[The Menagerie]] 
 
 10AM:
 The parade begins, [[Ne're Darke]] is planning a heist for [[The Ashen Horn]]. 
+
+11A
