@@ -70,4 +70,19 @@ If they go for the Ashen Horn, the Mind Rend crown will change possession.
 
 Now i'm not too sure if I'd like Royal Flush to gain two, or to have two separate heists.
 
-Probably more int
+Probably more interesting if they dont really care about the other artifacts. To be honest The Maestro and Lady Luck only really care about being rich and being left unchecked, so they can just use the Sage Mind to gain a stronger hold over the city, ins with the Sovereign Concord, and then basically economize the entire city and become basically a mega corp for the silver coast.
+
+So, that leaves the other two artifacts. Lets say it should begin in possession of someone who its not great to have, and then shift to someone who its really bad to have:
+
+Worst Case:
+
+Ne're Darke has the Mindrend Crown
+Eternal Flame has the Ashen Horn
+
+Second Worse Case:
+
+The Society of Higher Minds has the Ashen Horn
+The Sovereign Concord has the Mindrend Crown
+
+I think this is pretty interesting. If they go for the Mindrend crown first, they place themselves as criminals and are stealing from the Sovereign Concord, who becomes V1. The Ashen Horn then ends up in the hand of the Eternal Flame, and then they'd be V2. Then finally The Royal Flush is V3. (Though i suppose it would be fine to swap those)
+
