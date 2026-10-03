@@ -60,3 +60,14 @@ Wants [[The Ashen Horn]], learns of [[The Mindrend Crown]] heist but is directed
 
 Who should end up with the Artifacts?
 
+I think its best if whomever we want to heist from ends up with it, so i don't really need to deal with sub heists. I want 2 sub heists, such that the final artifact ends in a different person's possession. I also think whoever ends up with The Sage Mind should keep it for the rest of the campaign and be a great threat. I basically am sure I want this to be Royal Flush. I think Ne're Darke should end up with the Mind Rend Crown, but maybe not right away. I guess we need to leave it open which artifact they go for. Lets go case by case:
+
+If they go for the Sage Mind, they'll likely fail and have to fight for it. The other two will change possession (i guess to the "Worse" holders)
+
+If they go for the Mind Rend crown, the Ashen Horn will change possession
+
+If they go for the Ashen Horn, the Mind Rend crown will change possession.
+
+Now i'm not too sure if I'd like Royal Flush to gain two, or to have two separate heists.
+
+Probably more int
