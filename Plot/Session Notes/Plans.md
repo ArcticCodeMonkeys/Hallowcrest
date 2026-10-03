@@ -92,4 +92,12 @@ In both scenarios, while not advisable, they may see The Royal Flush as a greate
 
 So then, that means we need the following people to end up with the artifacts:
 
-Sovereign Concord gets the Mindrend C
+Sovereign Concord gets the Mindrend Crown -> Fights off someone successfully to obtain it.
+The Society of Higher Minds gets the Ashen Horn -> How?
+The Royal Flush keeps the Sage Mind.
+
+So we want this to cascade around the city, the events occur very close to each other and chaos ensues. It should not be possible to witness all of the events at the same time, but there should be enough of a scuffle to leave evidence of it happening. 
+
+So, i think the best option is Ne're Darke goes after the Mindrend Crown, perhaps inside job as [[Jessie Faux]] is sent to bring it to the [[Sealed Vault]]. They leave a massive explosion as proof. The hand off is between the Sovereign Concord, Keepers of Oak, and Ne're Darke is there but their plan is foiled. At least though, they will get info that it still exists and they know that the Sovereign Concord has it.
+The Royal Flush, Menagerie, and Aurora College are all tangled up with the Sage Mind
+So that leaves the society of higher minds and ember's creed to be going for the Ashen Horn, which makes sense. Perhaps, Ember's Creed plans an assault on the [[Sealed Vault]], succeeds, but the Dr. Edward Monroe is there to captilize on it. 
