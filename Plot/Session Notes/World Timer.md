@@ -12,7 +12,7 @@ Current Date: Selunum 11
 - Entrance Exams - 3 weeks
 
 [[Society of Higher Minds]]
-- Partnership Invention of the [[Arcane Cuffs]] - 1 week
+- Release the first Patchwork upon the city - 4 Days
 
 [[Sovereign Concord]]
 - Victory Day Parade - 2 days.
@@ -21,11 +21,10 @@ Current Date: Selunum 11
 - Initiate the Anti-Conquest act - 2 months
 
 [[The Menagerie]]
-- Heist for [[Items/Artifacts/The Sage Mind|The Sage Mind]] - 4 weeks
+- Heist for [[Items/Artifacts/The Sage Mind|The Sage Mind]] - 2 weeks
 
 [[The Royale Flush]]
 - Attempting to use [[People/Precursors/The Sage Mind|The Sage Mind]] - 2 days
--
 
 [[Tropic Tent]]:
 - Magnificent Menagerie Parade - Lathand 29 / 57 days
