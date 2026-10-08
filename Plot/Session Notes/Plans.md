@@ -122,4 +122,10 @@ So, depending on which one of these they choose for V1, We will have either S1, 
 V2 Options (R1):
 
 Ne're Darke, Holders of The Mindrend Crown
-Society of Higher Mind, h
+Society of Higher Mind, Holders of the Ashen Horn
+Aurora College, holders of the Sage Mind (Could just leave it as Royal Flush too)
+
+
+Ok so now thats all done and dusted, we hjust ned to plan out the victory day, its mostly done already, its pretty simple too.
+
+The Sovereign Concord plan on picking up the Mindrend Crown, which has been found by The Keepers of Oak. The Keepers of Oak found 
