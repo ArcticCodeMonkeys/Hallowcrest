@@ -20,5 +20,5 @@ While attuned to the Sage Mind, you must share your thoughts and vision with the
 
 **All Knowing.** Any roll below a 15 on an Intelligence based skill check is treated as a 15.
 
-**Spellcasting.** The Sage Mind has 20 charges which can be used to cast its spells. While holding the Sage Mind, you can take the Magic Action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: Scrying (at will), Detect Magic (at will) Sending (at will), Divination (4 charges), Circle of Power (5 charges), Locate Object (2 charges), Locate Creature (4 charges), Dispel Magic (3 charges)Fractured Awareness (9 charges) or Foresight (16 charges).
+**Spellcasting.** The Sage Mind has 20 charges which can be used to cast its spells. While holding the Sage Mind, you can take the Magic Action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: Scrying (at will), Detect Magic (at will) Sending (at will), Mind Spike (2 charges), Divination (4 charges), Circle of Power (5 charges), Locate Object (2 charges), Locate Creature (4 charges), Dispel Magic (3 charges), Fractured Awareness (10 charges) or Foresight (15 charges).
 %%/CENSOR%%
