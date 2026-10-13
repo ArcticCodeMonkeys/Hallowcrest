@@ -14,15 +14,11 @@ Ignore the Two Handed Property
 
 **Guided Blade.** Whenever you cast Spiritual Weapon through the Sword, it does not require concentration. When you do, the sword floats out of your hand and becomes the Spiritual Weapon. For the duration, you can cast spells through The Sword of Alexandria as if you were in its space. Whenever the spell ends, The Sword of Alexandria returns to your hands, or to your feet if your hands are full.
 
-
-
 *(Requires: Score a critical hit with the Sword of Alexandria using the Attack action and as a Spiritual Weapon against a creature of significant threat; conduct a ritual expending a ruby worth 5000 gold)*
 
 The Sword of Alexandria bonds with you further, increasing its bonus in Heavenly Strikes and Unyielding Faith to +2. +1d6 radiant Heavenly Strikes.
 
 **Guardian Angel.** All allied creatures within 5 feet of a Spiritual Weapon you conjure gain a +2 bonus to AC.
-
-
 
 
 *(Requires: Score a critical hit with the Sword of Alexandria (in any manner) against a creature of significant threat and end the Dying condition on an ally on the same turn; conduct a ritual expending a diamond worth 10,000 gold)*
