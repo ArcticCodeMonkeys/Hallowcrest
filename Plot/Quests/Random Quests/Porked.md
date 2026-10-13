@@ -10,7 +10,7 @@ DC 13: You see the horns of a goat glisten in the moonlight.
 DC 16: You can hear the low yet powerful growl of a lion and make out its flourishing mane
 DC 20: You smell the distinct scent of sulfur and spot the faintest glimmer of flame in the eye of a dragon.
 
-The creature stalks forward, if it sees any movement it pounces. If the party lets it get closer, they will see 6 Chimera Cubs follow up behind it in the hunt. If they act later, they arrive on the second round. 
+The creature stalks forward, if it sees any movement it pounces. If the party lets it get closer, they will see 3 Chimera Cubs follow up behind it in the hunt. If they act later, they arrive on the second round. 
 
 The Chimera lives in the forest nearby with its cubs and was eating the pigs for survival.
 
