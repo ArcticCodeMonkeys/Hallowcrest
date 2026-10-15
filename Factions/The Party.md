@@ -31,7 +31,7 @@ Renown is a system which determines how well liked you are by different factions
 
 | Faction                                     | Renown Score | Attitude Level |
 | ------------------------------------------- | ------------ | -------------- |
-| [[Sovereign Concord]]                       | 7            | Allied         |
+| [[Sovereign Concord]]                       | 4            | Liked          |
 | [[Ne're Darke]]                             | -2           | Neutral        |
 | [[Society of Higher Minds]]                 | 3            | Liked          |
 | [[Ember's Creed]]                           | 3            | Liked          |
