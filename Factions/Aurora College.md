@@ -86,7 +86,6 @@ Mastering a Spell, Trasmuting, etc.
 | 20     | **Spell Mastery.** Choose one spell you know of 1st level. When you cast that spell, you can change its damage type and add one additional effect from the following list.<br>- Potent. The spell deals one additional die worth of damage (minimum 1d6)<br>- Warding. When you cast the spell, you gain resistance to one damage type which the spell deals.<br>- Seeking. Spell attack rolls with the spell have advantage and ignore half and three quarter<br>- Invigorating. When you cast the spell, regain hit points equal to one roll of your hit die. It is not expended.<br>Additionally, you can cast it without expending a spell slot once per short rest, |
 
 
-
 ## Other
 
 Aurora College has 4 college level [[Mage Tower]] teams, the [[Angels]], [[Chromodrons]], [[Prismaris]], and [[Quandrix]]. It also has a national level team, [[The Stellar Bodies]].
