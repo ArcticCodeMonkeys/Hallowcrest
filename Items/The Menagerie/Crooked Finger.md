@@ -8,4 +8,4 @@ This crooked finger comes from a hag and must replace an existing finger as a pa
 
 **Croak**. You can cast Polymorph without expending a spell slot by expending 5 charges. When you do, you must choose a Frog as the targets new form.
 
-**A Deadly Bargain.** You can cast Finger of Death without expending a spell slot by expending 9 charges. When you do, the spell also targets you.
+**A Deadly Bargain.** You can cast Finger of Death without expending a spell slot by expending 9 charges. When you do, the spell also targets you, but you resist its damage.
