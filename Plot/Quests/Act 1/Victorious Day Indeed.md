@@ -28,4 +28,18 @@ As the moment of silence sits, a large explosion is heard in the background and 
 
 The silence lingers for a few moments, people staring in fear, a sinking feeling covering the crowd. A few murmurs break out and then suddenly the entire crowd is discussing what has happened.
 
-[[Elowyn Hallowbrand]] looks a bit unsure and worried, looking to the Sovereign Guard to his sides, a few of them 
+[[Elowyn Hallowbrand]] looks a bit unsure and worried, looking to the Sovereign Guard to his sides. Most of them rush off, led by [[Hannah Baker]].
+
+"Uhm... Do not worry. We have the situation under control. My apologies."
+
+The murmurs quiet slightly but do not die. Searclaw pivots course overhead to investigate the explosion.
+
+"See, even Searclaw is on the case. There is no need to panic. Where was I? Oh yes. A great respect to those who fought in the Battle of Ash and Ember"
+
+The murmurs finally settle
+
+"I encourage all of you to go to Victory Hill at some point today to pay your respects to the fallen. Unfortunately as many of you know, we have been having some safety issues within the Crypts, so the Tomb of the Fallen Soldiers walking tour is cancelled this year. But, we will still have plenty of events as the day goes on. The parade will be starting momentarily, and tonight we have the releasing of the Floating Lanterns and the Sunset atop Searclaw's Rest. [[Ember's Creed]] will be hosting a Duskfall ceremony at 8pm at their Monastary. All are welcome. And [[Society of Higher Minds]] has created a new invention for us, the Drakewing they call it. A form of gliding wings which you can place upon your back to glide from the top of Searclaw's Rest back down into the city. We ask that you return these Gliders to [[The Auditorium]] or the nearest Sovereign Guard Post or Magistrate to you when you are finished. That being said, I won't bore you anymore. Let the parade begin."
+
+
+
+So the parade begins, a bit of a shaky start as everyone's nerves are still high, but the festivities and music soon take over and clear up any tension. The Parade path heads east along the docks heading north, then turns back to the west to pass through Grand Plaza, it loops a
