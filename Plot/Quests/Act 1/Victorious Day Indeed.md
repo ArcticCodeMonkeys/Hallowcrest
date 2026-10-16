@@ -42,4 +42,11 @@ The murmurs finally settle
 
 
 
-So the parade begins, a bit of a shaky start as everyone's nerves are still high, but the festivities and music soon take over and clear up any tension. The Parade path heads east along the docks heading north, then turns back to the west to pass through Grand Plaza, it loops a
+So the parade begins, a bit of a shaky start as everyone's nerves are still high, but the festivities and music soon take over and clear up any tension. The Parade path heads east along the docks heading north, then turns back to the west to pass through Grand Plaza, it crosses over the Twin Protectors and loops around the northern part of Silverside to pass by Aurora College. The Parade pauses at Victory Hill, where the floats and dancers solemnly walk by with quiet and somber music playing, and only upon turning back upon the main streets does the music pick back up and the parade along with it. It follows [[The Vive]] as Gondalas join in on the parade. The parade ends at Smokepowder Keep, but has to end abruptly as the entire area is coordained off by Sovereign Guards. Keen eyes can see a massive hole blown into the ground around the entrance to [[Ironwrought Prison]]. The ground is scorched and dirt and rock is flung everywhere. 
+
+
+### What Happened?
+
+So, technically 3 things happened all at once.
+
+First off, around 11am, the Sovereign Guard, lead by [[Jessie Faux]] and [[Ardwin Hammer]] went to meet with [[The Keepers of Oak]] to collect [[The Mindrend Crown]]. [[The Keepers of Oak]] hate [[The Mindrend Crown]] and had been keeping it this entire time within [[The Tree of Life]]. They didn't trust anyone, not even the [[Sovereign Concord]] to keep it safe. However, after the recent attack by [[Ember's Creed]], they no longer felt that they were equipped to keep it safe. So, they chose the faction whom they trusted the most to keep it safe, and arranged a pickup by the [[Sovereign Guard]] to collect [[The Mindrend Crown]] and place it in [[Sealed Vault]]. This however, was leaked (by [[Jessie Faux]]) to [[Ne're Darke]] as they sent a massive squadron to attack the patrol. This battle took place near the Southern wall of
