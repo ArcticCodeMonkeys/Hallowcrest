@@ -1,0 +1,3 @@
+Common, Wonderous Item (50 gp)
+
+**Utilize.** You affix the Ball and Chain to a Restrained or Grappled creature. It has no effect on creatures that are formless, or creatures that are Huge or larger. While affixed, the creature's movement speed is reduced to 5, and it loses any swimming or flying speeds it had. A creature can use its action to make a DC 15 Strength (Athletics) or Dexterity (Sleight of Hand) check to attempt to remove the Ball and Chain. The Ball and Chain can also be destroyed, with 15 AC and 15 hit points.
