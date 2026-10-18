@@ -1,4 +1,4 @@
-Common, Wonderous Item (35 gp)
+Common, Martial Ranged Weapon (35 gp)
 
 | Damage          | Weight | Properties                    |
 | --------------- | ------ | ----------------------------- |
