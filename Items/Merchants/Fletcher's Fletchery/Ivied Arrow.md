@@ -1,0 +1,3 @@
+*Uncommon, Ammunition (35 gp)*
+
+On a hit with this ammunition, the target is succeed on a DC 13 Strength saving throw or be restrained by the magical vines until the spell ends. A Large or larger creature has advantage on this saving throw. If the target succeeds on the save, the vines shrivel away. While restrained the target takes 1d6 poison damage at the start of each of its turns. A creature restrained by the vines or one that can touch the creature can use its action to make a DC 13 Strength check. On a success, the target is freed. Once this arrow is fired, it becomes non-magical.

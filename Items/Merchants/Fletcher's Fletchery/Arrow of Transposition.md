@@ -1,0 +1,3 @@
+*Rare, Ammunition (200 gp)*
+
+You can teleport to an unoccupied space within 5 feet of the arrow once it hits the target or the ground, provided that space is within 120 feet. Alternatively, you can force the target to make a DC 15 Charisma Saving Throw (the target can choose to fail), or the target is teleported to an unoccupied space of your choice that you can see within range. The chosen space must be on a surface or in a liquid that can support the target without the target having to squeeze. Once this arrow is fired, it becomes non-magical.
