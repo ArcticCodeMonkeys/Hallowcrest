@@ -1,0 +1,2 @@
+
+The Rat King is back with a vengeance. He went looking for a land of cheese and found nothing but rats. Amassing a large army of different rats, The Rat King has returned to [[Hallowcrest]] in search for all its cheese and wine.  
