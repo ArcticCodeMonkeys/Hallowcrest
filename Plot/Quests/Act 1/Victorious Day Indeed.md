@@ -58,3 +58,8 @@ Also meanwhile, though technically a bit earlier, [[Factions/Aurora College|Auro
 Unfortunately for them, [[The Maestro]] has already activated [[The Sage Mind]], and had seen this whole plan coming. He and [[Lady Luck]] sit patiently in his office, and as [[Chang Ling]] walks in, he is captured and fed to the [[Card Shark]]s. Hearing no word from him, [[The Menagerie]] assumes the worst and retreats. [[Factions/Aurora College|Aurora College]] brought plenty of reinforcements, but unfortunately for them, so did [[The Maestro]]. With a loud boom, entirety of [[Fortune's Favor]] is upended, tables flip, cards sent flying, and glasses shattering everywhere. The surviving wizards describe "An ominous chord ringing through their ears, even still." Aurora College is forced to retreat and [[Visi Parks]] is greatly injured.
 
 Through this whole ordeal, [[Society of Higher Minds]] learns about the trading of these artifacts, and becomes particularly interested in [[The Sage Mind]] (and to a lesser extent [[The Ashen Horn]]).
+
+- Mel cares about Prometheus, have Molly ask her to take him along for the festivities (she's busy with Hearthstone)
+- Brody hears about band performances, will find the remains of a scuffle at Stage 1. Witnesses describe a goliath getting into a conflict with a drow, both were taken to jail.
+- Kaida sees a few people dressed in suits, she feels like they are staring at her (members of the Royal Flush, trying to scout her and take her in for questioning).
+- Zombie attack in the evening. 
