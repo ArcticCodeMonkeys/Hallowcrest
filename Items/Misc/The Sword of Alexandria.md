@@ -1,7 +1,7 @@
 
 Spellcasting Focus (Greatsword), Legendary (Requires Attunement)
 
-*(Requires: Score a critical hit with a Spiritual Weapon against a creature of significant threat; conduct a ritual expending 500 gold worth of holy water)*
+*(Requires: Level 5, Conduct a ritual expending 500 gold worth of holy water)*
 
 The Sword of Alexandria is treated as both a Spellcasting Focus and a Greatsword. While holding and attuned to the Sword of Alexandria, you can channel its magic in different ways. At the start of each of your turns, choose an art below to gain its benefits.
 
@@ -19,7 +19,6 @@ Ignore the Two Handed Property
 The Sword of Alexandria bonds with you further, increasing its bonus in Heavenly Strikes and Unyielding Faith to +2. +1d6 radiant Heavenly Strikes.
 
 **Guardian Angel.** All allied creatures within 5 feet of a Spiritual Weapon you conjure gain a +2 bonus to AC.
-
 
 *(Requires: Score a critical hit with the Sword of Alexandria (in any manner) against a creature of significant threat and end the Dying condition on an ally on the same turn; conduct a ritual expending a diamond worth 10,000 gold)*
 
