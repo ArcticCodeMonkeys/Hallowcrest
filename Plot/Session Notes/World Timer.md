@@ -23,4 +23,4 @@ Current Date: Selunum 11
 
 [[The Party]]
 - The Tavern is habitable - Lathand 30
-- The Tav
+- The Tavern is finished - Mystril 30
