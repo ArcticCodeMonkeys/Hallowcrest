@@ -1,1 +1,1 @@
-Invesigate the odd influx of m
+Invesigate the odd influx of monstrosities attacking the city.
