@@ -1,0 +1,1 @@
+1.Jackson Brody is on the search for his bandmates. Apparently Ohm got in an altercation with a drow woman and was arrested. The other two members are still missing without a trace.
