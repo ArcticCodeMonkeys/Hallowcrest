@@ -1,0 +1,1 @@
+[[The Sculptor]] has sent a brand new creation after the party to test their and his own skills. He does not necessarily want them dead yet as they keep bringing him interesting creatures, but if they are killed at least they are exquisite specimens. 
