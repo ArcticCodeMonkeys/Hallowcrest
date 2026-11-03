@@ -1,0 +1,29 @@
+
+This is the brawling tournament in [[Black and Blue]].
+
+I'm thinking a card game style mini game.
+
+Each fighter builds a deck, which must contain:
+
+6 x Jab (Deal Damage = STR Score)
+2 x Block (Reduce Damage = CON Mod)
+2 x Dodge (Reduce Damage = DEX mod)
+2 x Deep Breath (Draw 3)
+
+And 6 more of Jab, Block, or Dodge in any Combination.
+Finally, each fighter gets custom cards based of their Base Class which can help them out.
+
+Play is simple, roll intimadation, initative, or performance to determine who goes first.
+Everyone starts with 3 cards.
+
+On your turn, you can either play an Action card or draw a card.
+
+In response to an Action card, a player can play a Reaction card, often to reduce damage.
+
+At the end of every 2 Rounds, the audience gets to play:
+"Encourage" (One fighter gets +CHA mod to next attack)
+"Insult" (One fighter loses the ability to play Reaction cards for the next round) 
+"Cheer" (Both fighers gain a "Climatic Blow" in their draw pile)
+
+Climactic Blow (Deal Damage = 2 x Strength Score, play as Reaction to Climactic Blow to reduce damage to 0)
+
