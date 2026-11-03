@@ -54,17 +54,22 @@ Insult" (Target cannot react for 1 round)  [Audience]
 
 *Certain audience members have special cards they can play:*
 
-Bless (+1d4 to a fighter's STR, CON, or DEX score) [Audience]
-Spot Weakness (Target discards 2 cards of their choice)
+Bless (+1d4 to a fighter's STR, CON, or DEX score) [Audience] [Power]
+Spot Weakness (Target discards 2 cards of their choice) [Audience] [Action]
+Cheer on Underdog (Target deals double damage for next attack if they have less hit points remaining than their opponent) [Audience]
 
 
 ## Special Cards:
 
+Add 2 to your deck for R1, repeat after each round. You can also choose to steal a card from a defeated opponent in place of one of your own.
+
 **Felicity:**
-Flurry of Blows (Deal Damage = STR Mod three times) [Action]
+Flurry of Blows (Deal STR Score damage, play all other Flurry of Blows in hand) [Action]
 Powerful Punches (Whenever your attack is not blocked, deal additional damage equal to your STR Mod) [Action]
 Critical Strike (Whenever you deal damage, roll a d6. On a d6, the damage is doubled) [Power]
 Rage (Whenever you take damage, reduce it by half CON mod) [Power]
+Festering Hunger (Deal STR Score + STR Mod damage, take 3. Shuffle a copy) [Action] 
+Yeenoghu's Might (Block CON score, play an Action from your hand)  [Reaction]
 
 [[Visi Parks]]:
 R1: Inky Escape (Block all damage. Target and you shuffle Inky)  [Reaction]
@@ -77,7 +82,7 @@ R2: Dazing Blow (Deal STR Score damage, target shuffles 3 Dazed) [Action]
 R3: TKO (If the target has less than 3 x STR Score HP remaining, knock them out) [Action]
 
 [[Roger Parks]]
-R1: Overconfidence (Next attack deals double damage)
+R1: Overconfidence (Next attack deals double damage) [Action]
 R2: Park 'Em (Deal 2 X STR Score damage, target cannot react for 1 round) [Action]
 R3: Goading Strike (Deal STR Mod damage. Target must play a special card on its turn, if in hand. Block CON Score if its played) [Action]
 
@@ -99,7 +104,7 @@ R3: Beguile (DC 15 Wisdom save, target deals half damage and cannot Block. Repea
 [[Spence]]
 R1: Acidic Spittle (Deal DEX score damage, cannot be reduced, and the target discards 2 cards of their choice) [Action]
 R2: Draconic Cry (DC 15 Wisdom Save, target cannot play Actions for 3 turns) [Action]
-R3: Legendary Resistance (Block all damage, shuffle a Acidic Spittle)
+R3: Legendary Resistance (Block all damage, shuffle a Acidic Spittle) [Reaction]
 
 
 
