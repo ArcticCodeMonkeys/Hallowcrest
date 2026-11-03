@@ -1,5 +1,31 @@
 
-This is the brawling tournament in [[Black and Blue]].
+[[Black and Blue]] is hosting a fighting tournament, 50 gold entrance fee, Selunum 15.
+
+Particpants:
+[[Quinn Hammer]]
+[[Visi Parks]]
+[[Roger Parks]]
+[[Ardwin Hammer]]
+[[Pyro]]
+[[Aleksi]]
+[[Spence]]
++ (A party member presumably)
+
+Bracket style knockout tournament using 1-8 seeding, so
+
+[[Quinn Hammer]] - [[Roger Parks]]
+[[Aleksi]] - [[Ardwin Hammer]]
+[[Pyro]] - [[Visi Parks]]
+[[Spence]] - [[The Party]]
+
+
+Semi Finals lead to the Finals on a Win, or Loser's Match on a loss
+
+1st. +2 Wraps of the Brawler
+2nd. +1 Champ's Cloak
+3rd. Potion of Pugilism
+4th: 100gp
+
 
 I'm thinking a card game style mini game.
 
@@ -33,16 +59,38 @@ Spot Weakness (Target discards 2 cards of their choice)
 
 
 ## Special Cards:
+
+**Felicity:**
 Flurry of Blows (Deal Damage = STR Mod three times) [Action]
-Powerful Punches (Whenever you deal unblocked damage, deal additional damage equal to your STR Mod) [Action]
+Powerful Punches (Whenever your attack is not blocked, deal additional damage equal to your STR Mod) [Action]
 Critical Strike (Whenever you deal damage, roll a d6. On a d6, the damage is doubled) [Power]
-Inky Escape (Reduce all damage. Next attack has +DEX mod and reduce DEX mod from next attack taken)  [Reaction]
 Rage (Whenever you take damage, reduce it by half CON mod) [Power]
+
+[[Visi Parks]]:
+R1: Inky Escape (Reduce all damage. Next attack has +DEX mod and reduce DEX mod from next attack taken)  [Reaction]
+R2: Park 'Em (Deal 2 X STR Score damage, target cannot react for 1 round) [Action]
+R3: Dazing Blow (Deal STR Score damage, target shuffles 3 Dazed) [Action]
+
+[[Quinn Hammer]]
+R1: Brass Beatdown (Deal STR Mod damage. Repeat at start of turn) [Power]
+R2: Dazing Blow (Deal STR Score damage, target shuffles 3 Dazed) [Action]
+R3: TKO (If the target has less than 3 x STR Score HP remaining, knock them out) [Action]
+
+[[Roger Parks]]
+R1: Overconfidence (Next attack deals double damage)
+R2: Park 'Em (Deal 2 X STR Score damage, target cannot react for 1 round) [Action]
+R3: Goading Strike (Deal STR Mod damage. Target must play a special card on its turn, if in hand. Block CON Score if its played)
+
+[[Ardwin Hammer]]
+R1: Sure Strike (Deal STR Score damage, cannot be blocked)
+R2: Commander's Intimidation (Deal STR Score damage, DC 16 Wisdom Save or skip the target's turn)
+R3: A
 Vampiric Hunger (Deal CON Score damage, regain HP equal to unblocked damage) [Action]
-Dazing Blow (Deal STR Score damage, target shuffles 3 Dazed)
-Acidic Spittle (Deal DEX score damage, cannot be reduced, and the target discards 2 cards of their choice) [[Action]]
+Acidic Spittle (Deal DEX score damage, cannot be reduced, and the target discards 2 cards of their choice) [Action]
 Flaming Hook (Deal STR Score damage, target makes DC 16 Con Save at the start of each of their turns or takes STR mod damage and shuffles a Burn. Success ends the condition) [Action]
-Park 'Em (Deal 2 X STR Score damage, target cannot react for 1 round)
-Sparkling Strike (Deal STR score da)
+
+Sparking Strike (Deal STR score damage, target cannot Jab for 2 rounds) [Action]
+
+
 
 
