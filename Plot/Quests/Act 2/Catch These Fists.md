@@ -7,16 +7,16 @@ Particpants:
 [[Roger Parks]]
 [[Ardwin Hammer]]
 [[Pyro]]
-[[Aleksi]]
 [[Spence]]
+[[Cassandro Blanc]]
 + (A party member presumably)
 
 Bracket style knockout tournament using 1-8 seeding, so
 
 [[Quinn Hammer]] - [[Roger Parks]]
-[[Aleksi]] - [[Ardwin Hammer]]
+[[Spence]]- [[Ardwin Hammer]]
 [[Pyro]] - [[Visi Parks]]
-[[Spence]] - [[The Party]]
+[[Cassandro Blanc]] - [[The Party]]
 
 
 Semi Finals lead to the Finals on a Win, or Loser's Match on a loss
@@ -67,7 +67,7 @@ Critical Strike (Whenever you deal damage, roll a d6. On a d6, the damage is dou
 Rage (Whenever you take damage, reduce it by half CON mod) [Power]
 
 [[Visi Parks]]:
-R1: Inky Escape (Reduce all damage. Next attack has +DEX mod and reduce DEX mod from next attack taken)  [Reaction]
+R1: Inky Escape (Block all damage. Target and you shuffle Inky)  [Reaction]
 R2: Park 'Em (Deal 2 X STR Score damage, target cannot react for 1 round) [Action]
 R3: Dazing Blow (Deal STR Score damage, target shuffles 3 Dazed) [Action]
 
@@ -79,17 +79,28 @@ R3: TKO (If the target has less than 3 x STR Score HP remaining, knock them out)
 [[Roger Parks]]
 R1: Overconfidence (Next attack deals double damage)
 R2: Park 'Em (Deal 2 X STR Score damage, target cannot react for 1 round) [Action]
-R3: Goading Strike (Deal STR Mod damage. Target must play a special card on its turn, if in hand. Block CON Score if its played)
+R3: Goading Strike (Deal STR Mod damage. Target must play a special card on its turn, if in hand. Block CON Score if its played) [Action]
 
 [[Ardwin Hammer]]
-R1: Sure Strike (Deal STR Score damage, cannot be blocked)
-R2: Commander's Intimidation (Deal STR Score damage, DC 16 Wisdom Save or skip the target's turn)
-R3: A
-Vampiric Hunger (Deal CON Score damage, regain HP equal to unblocked damage) [Action]
-Acidic Spittle (Deal DEX score damage, cannot be reduced, and the target discards 2 cards of their choice) [Action]
-Flaming Hook (Deal STR Score damage, target makes DC 16 Con Save at the start of each of their turns or takes STR mod damage and shuffles a Burn. Success ends the condition) [Action]
+R1: Sure Strike (Deal STR Score damage, cannot be blocked) [Action]
+R2: Commander's Intimidation (Deal STR Score damage, DC 15 Wisdom Save or skip the target's turn) [Action]
+R3: Sovereign's Might (Deal 4 x STR Score Damage, skip your next turn) [Action]
 
-Sparking Strike (Deal STR score damage, target cannot Jab for 2 rounds) [Action]
+[[Pyro]]
+R1: Flaming Hook (Deal STR Score damage, target makes DC 15 Con Save at the start of each of their turns or takes STR mod damage and shuffles a Burn. Success ends the condition) [Action]
+R2: Heating Up (You deal +1 Damage (increases at start of turn)) [Power]
+R3: Fiery Finale (Deal STR Score damage + STR Mod damage per Burn in the target's deck) [Action]
+
+[[Cassandro Blanc]]
+R1: Vampiric Hunger (Deal CON Score damage, regain HP equal to unblocked damage) [Action]
+R2: Cunning Strike (Deal DEX score damage, target shuffles a Daze, discards a card, and does not draw next turn) [Action]
+R3: Beguile (DC 15 Wisdom save, target deals half damage and cannot Block. Repeat save end of turn, end on success) [Action]
+
+[[Spence]]
+R1: Acidic Spittle (Deal DEX score damage, cannot be reduced, and the target discards 2 cards of their choice) [Action]
+R2: Draconic Cry (DC 15 Wisdom Save, target cannot play Actions for 3 turns) [Action]
+R3: Legendary Resistance (Block all damage, shuffle a Acidic Spittle)
+
 
 
 
