@@ -42,7 +42,7 @@ Finally, each fighter gets custom cards based of their Base Class which can help
 Play is simple, roll intimadation, initative, or performance to determine who goes first.
 Everyone starts with 3 cards of their choice. At least one must be an Action card.
 
-On your turn, you draw a card and play one  [Action] or [Power] card (unless you don't have one, in which case you skip your turn).
+On your turn, you draw a card and play one  [Action] or [Power] card (unless you don't have one, in which case you skip your turn). If your draw pile is ever empty, reshuffle your discard pile to make a new draw pile.
 
 In response to an Action card, a player can play a Reaction card, often to reduce damage.
 
@@ -54,9 +54,13 @@ Insult" (Target cannot react for 1 round)  [Audience]
 
 *Certain audience members have special cards they can play:*
 
-Bless (+1d4 to a fighter's STR, CON, or DEX score) [Audience] [Power]
-Spot Weakness (Target discards 2 cards of their choice) [Audience] [Action]
+Bless (+1d4 to target's STR, CON, or DEX score for the rest of the fight) [Audience]
+Cure Wounds (Target regains 4d8 + 5 hit points) [Audience]
+Spot Weakness (Target discards 2 cards of their choice) [Audience]
 Cheer on Underdog (Target deals double damage for next attack if they have less hit points remaining than their opponent) [Audience]
+Quick Pointer (Target draws one card of their choice) [Audience]
+Help a Brother Out (Target removes all status cards from their deck) [Audience]
+
 
 
 ## Special Cards:
@@ -88,8 +92,8 @@ R3: Goading Strike (Deal STR Mod damage. Target must play a special card on its 
 
 [[Ardwin Hammer]]
 R1: Sure Strike (Deal STR Score damage, cannot be blocked) [Action]
-R2: Commander's Intimidation (Deal STR Score damage, DC 15 Wisdom Save or skip the target's turn) [Action]
-R3: Sovereign's Might (Deal 4 x STR Score Damage, skip your next turn) [Action]
+R2: Second Wind (Whenever the deck is reshuffled, regain 2d10 + 10 hp) [Power]
+R3: Sovereign's Might (Deal 3 x STR Score Damage, skip your next turn) [Action]
 
 [[Pyro]]
 R1: Flaming Hook (Deal STR Score damage, target makes DC 15 Con Save at the start of each of their turns or takes STR mod damage and shuffles a Burn. Success ends the condition) [Action]
