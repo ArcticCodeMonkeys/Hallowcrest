@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ![[Mantis Mitts.jpg]]
 
 Rare, Gloves (2000gp), (Requires Attunement)

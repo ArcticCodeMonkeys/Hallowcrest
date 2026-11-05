@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 Rare, Wonderous Item (4000gp)
 
