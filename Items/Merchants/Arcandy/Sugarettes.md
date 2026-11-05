@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 Uncommon, Consumable (200gp)
 ![[Sugarettes.jpg]]

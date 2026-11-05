@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 *Uncommon, Bracer / Necklace (300gp)*
 

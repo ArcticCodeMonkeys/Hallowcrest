@@ -1,3 +1,6 @@
+---
+publish: true
+---
 *Wondrous Consumable, Common (20 gp)*
 
 This gum is incredibly sticky and doesn't taste particularly good. It is however, quite useful in other situations. As a bonus action, you can chew a piece of gum and roll a d4. After that many rounds, the gum is chewed and can be used. Once a piece of gum is chewed, it must be used in the next 10 minutes or it loses it magic. 

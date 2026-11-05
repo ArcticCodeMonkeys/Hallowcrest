@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 ---
 *Common, Light Crossbow (50gp)*
 
