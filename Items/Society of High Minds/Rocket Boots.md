@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 *Rare, Boots (2000gp), (Requires Attunement)*
 

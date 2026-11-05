@@ -1,3 +1,6 @@
+---
+publish: true
+---
 *Uncommon, Wonderous Item (400gp) (Requires Attunement)*
 
 This weapon has a range of (90/300), the Heavy, Two Handed, and Loading Properties, and deals 1d8 lightning damage on a hit. It also has 6 charges, which recharge on a long rest.

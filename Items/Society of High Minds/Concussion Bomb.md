@@ -1,3 +1,6 @@
+---
+publish: true
+---
 *Uncommon, Consumable (350 gp)*
 
 **Utilize.** You light the fuse of the bomb. At the end of your turn it detonates. If a creature is holding it, they take 1d6 bludgeoning damage.

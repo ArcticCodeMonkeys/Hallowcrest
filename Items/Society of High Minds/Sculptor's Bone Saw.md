@@ -1,3 +1,6 @@
+---
+publish: false
+---
 
 Very Rare (Sickle) (Minor Attunement)
 

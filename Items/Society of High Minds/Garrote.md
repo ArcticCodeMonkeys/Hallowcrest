@@ -1,3 +1,6 @@
+---
+publish: true
+---
 Common, Martial Melee Weapon (10 gp).
 
 | Damage          | Weight | Properties |

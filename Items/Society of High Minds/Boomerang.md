@@ -1,3 +1,6 @@
+---
+publish: true
+---
 Common, Simple Ranged Weapon (5 gp).
 
 | Damage          | Weight | Properties                       |
