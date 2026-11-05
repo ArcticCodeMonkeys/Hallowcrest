@@ -1,0 +1,1 @@
+Punishment: Fines up to 1.5 times the cost of the damages + 20 hours of work

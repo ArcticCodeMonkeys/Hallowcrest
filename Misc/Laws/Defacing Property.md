@@ -1,0 +1,1 @@
+Punishment: Fines up to 50gp and restoration of the property

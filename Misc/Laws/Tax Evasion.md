@@ -1,0 +1,1 @@
+Punishment: Fines equal to twice the avoided amount + 20 hours of work

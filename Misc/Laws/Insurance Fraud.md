@@ -1,0 +1,1 @@
+Punishment: Fine up to 1.5 times the frauded amount, 10 hours of work

@@ -1,0 +1,1 @@
+Punishment: Fines up to twice the cost of stolen goods + 1 week jail time or 40 hours of work

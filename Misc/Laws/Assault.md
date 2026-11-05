@@ -1,0 +1,1 @@
+Punishment: Fines up to 200gp and 1 week in jail or 40 hours of work
