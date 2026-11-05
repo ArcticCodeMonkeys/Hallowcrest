@@ -1,4 +1,7 @@
-
+---
+publish: true
+---
+	
 *Uncommon, Quarterstaff (500gp), (Requires Attunement by a Spell Caster)*
 
 This crooked weathervane has been repurposed into a quarterstaff and spell casting focus.
