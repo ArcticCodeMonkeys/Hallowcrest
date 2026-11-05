@@ -1,5 +1,5 @@
 Notes here indicate time remaining on events which pass without player input.
-Current Date: Selunum 11
+Current Date: Selunum 12
 
 
 [[Factions/Aurora College|Aurora College]]
