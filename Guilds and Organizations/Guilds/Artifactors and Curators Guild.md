@@ -1,7 +1,11 @@
+---
+publish: true
+---
+
 A guild composing mostly of collectors and magic items sales people.
 
 Enlistment Requirements: Dedication to collected demonstrated to a member + 50 gold
-Dues: 10 gp / week
+Dues: 10 gp / Tenday
 #### Benefits:
 
 Newcomer: Alarm spell cast on up to 3 items. Up to 100gp insurance for stolen or destroyed goods.

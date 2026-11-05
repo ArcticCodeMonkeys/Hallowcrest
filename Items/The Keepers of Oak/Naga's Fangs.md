@@ -1,4 +1,7 @@
-Uncommon, Dagger(s) (Minor Attunement)
+---
+publish: true
+---
+*Uncommon, Dagger(s) (Minor Attunement)*
 
 These daggers have a +1 bonus to hit and damage rolls. Additionally, they have 5 charges which recharge on a long rest which you can use for the following effects.
 
