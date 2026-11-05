@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 *Rare, Robe (1500gp) (Requires Attunement by a Spellcaster)*
 

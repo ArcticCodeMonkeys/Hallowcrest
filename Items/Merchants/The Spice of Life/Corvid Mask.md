@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 Uncommon, Mask (400gp) (Requires Half Attunement)
 

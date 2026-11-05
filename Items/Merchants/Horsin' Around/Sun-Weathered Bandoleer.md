@@ -1,3 +1,6 @@
+---
+publish: true
+---
 Rare, Wonderous Item (1400 gp) (Requires Attunement)
 
 **Quick Draw.** Whenever you roll initiative, you can make one ranged weapon attack against a creature within range.

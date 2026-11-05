@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 *Uncommon, Consumable (350gp)*
 

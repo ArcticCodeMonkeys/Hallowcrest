@@ -1,3 +1,6 @@
+---
+publish: true
+---
 (Common, Wondrous) (Consumable) (10gp)
 
 A delicious sandwich sold by [[Jim's Sandwich Shop]] which triggers wild magical effects when consumed.

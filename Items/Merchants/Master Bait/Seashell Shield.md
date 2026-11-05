@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 *Uncommon, Shield (150gp)*
 
