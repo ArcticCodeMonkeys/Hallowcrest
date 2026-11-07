@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-Common, Martial Ranged Weapon (2 gp)
+Mundane, Martial Ranged Weapon (2 gp)
 
 | Damage          | Weight | Properties                             |
 | --------------- | ------ | -------------------------------------- |
