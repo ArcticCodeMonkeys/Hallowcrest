@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"869df8d607dc6798","x":-200,"y":-80,"width":160,"height":80,"type":"file","file":"Factions/Sovereign Concord.md"},
+		{"id":"46dbcaf55bc1a8f1","x":100,"y":-65,"width":178,"height":50,"type":"file","file":"Factions/Ne're Darke.md"}
+	],
+	"edges":[]
+}
