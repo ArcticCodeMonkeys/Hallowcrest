@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"c9f98ac65619547c","type":"text","text":"# Sovereign Concord","x":-100,"y":-260,"width":250,"height":70},
+		{"id":"374a3011efd2c490","type":"text","text":"# Ember's Creed","x":-350,"y":0,"width":250,"height":60},
+		{"id":"51eb2c5298156987","type":"text","text":"# Society of Higher Minds","x":180,"y":-60,"width":250,"height":90},
+		{"id":"005bdf60573b6692","type":"text","text":"# Eternal Flame","x":-660,"y":0,"width":250,"height":60},
+		{"id":"7582d5cb9fdc4dff","x":-410,"y":-160,"width":250,"height":60,"type":"text","text":"# Menagerie"}
+	],
+	"edges":[]
+}

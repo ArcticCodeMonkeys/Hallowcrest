@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"787e5135f9257d0b","type":"text","text":"# Sovereign Concord\n\nWants: To keep [[The Mindrend Crown]] out of everyone's hands. Believes they are the best suited to keep it safe.","x":-78,"y":-200,"width":342,"height":212},
+		{"id":"34eae927a665cbda","type":"file","file":"Items/Artifacts/The Mindrend Crown.md","x":-107,"y":-960,"width":400,"height":430},
+		{"id":"a3f2ea30d2d929e8","type":"text","text":"# Ne're Darke\nWants: To use [[The Mindrend Crown]] to gain more influence in Hallowcrest. Beleives they are unjustly mistreated due to their race and beliefs and deserve a say in how Hallowcrest and the expansion on the Silver Coast is done.","x":-720,"y":401,"width":382,"height":227},
+		{"id":"bb32bb040c56b61a","type":"text","text":"# Keepers of Oak\n\nWants: To destroy [[The Mindrend Crown]]. Sees it as a disgrace to nature and believes no-one should keep it. ","x":560,"y":414,"width":250,"height":201},
+		{"id":"ddb0bceec7874919","x":-78,"y":840,"width":250,"height":60,"type":"text","text":"# Royale Flush"}
+	],
+	"edges":[
+		{"id":"87bb077244d66d40","fromNode":"bb32bb040c56b61a","fromSide":"top","toNode":"787e5135f9257d0b","toSide":"right","label":"Tentative Alliance:\nHanded over the crown since\nthey were worried it would be\nstolen. Still wish to destroy it."},
+		{"id":"105b00eff7a4b5df","fromNode":"787e5135f9257d0b","fromSide":"left","toNode":"a3f2ea30d2d929e8","toSide":"top","label":"Active Conflict:\nCan't let them have the\ncrown. See it as a threat."},
+		{"id":"b3d944dcba001ce4","fromNode":"a3f2ea30d2d929e8","fromSide":"right","toNode":"bb32bb040c56b61a","toSide":"left","label":"Dislike:\nHave opposing purposes for the crown\nUnderstand each other as marginalized groups\nOpposite positions on what to do about it."}
+	]
+}

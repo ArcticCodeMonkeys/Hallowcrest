@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"36e6725bcdaae5f8","type":"text","text":"# Aurora College","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"0689e964e21f4a0f","type":"text","text":"# Society of Higher Minds\n","x":-125,"y":240,"width":250,"height":80},
+		{"id":"4d1bc4233b091913","x":-125,"y":115,"width":250,"height":60,"type":"text","text":"# Ne're Darke"},
+		{"id":"52eea8a804faad9e","type":"text","text":"# Royale Flush","x":-420,"y":115,"width":250,"height":60},
+		{"id":"0ba2e2e3c94bb9d1","type":"text","text":"# Menagerie","x":200,"y":115,"width":250,"height":60}
+	],
+	"edges":[]
+}
