@@ -22,5 +22,5 @@ Current Date: Selunum 12
 - Magnificent Menagerie Parade - Lathand 29 / 57 days
 
 [[The Party]]
-- The Tavern is habitable - Lathand 30
-- The Tavern is finished - Mystril 30
+- The Tavern is habitable - Selunum 30
+- The Tavern is finished - Lathand 30
