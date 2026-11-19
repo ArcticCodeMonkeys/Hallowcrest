@@ -14,7 +14,7 @@ Particpants:
 Bracket style knockout tournament using 1-8 seeding, so
 
 [[Quinn Hammer]] - [[Roger Parks]]
-[[Spence]]- [[Ardwin Hammer]]
+[[Kaida Dante]]- [[Ardwin Hammer]]
 [[Pyro]] - [[Visi Parks]]
 [[Cassandro Blanc]] - [[The Party]]
 
