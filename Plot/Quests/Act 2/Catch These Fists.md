@@ -59,7 +59,9 @@ Spot Weakness (Target discards 2 cards of their choice) [Audience]
 Cheer on Underdog (Target deals double damage for next attack if they have less hit points remaining than their opponent) [Audience]
 Quick Pointer (Target draws one card of their choice) [Audience]
 Help a Brother Out (Target removes all status cards from their deck) [Audience]
-
+Felicity
+Feral Cry (Target immediately uses an Action, it cannot react next turn)  [Audience]
+	
 
 
 ## Special Cards:
