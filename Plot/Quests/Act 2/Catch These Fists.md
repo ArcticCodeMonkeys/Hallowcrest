@@ -68,7 +68,7 @@ Add 2 to your deck for R1, repeat after each round. You can also choose to steal
 
 **Felicity:**
 Flurry of Blows (Deal STR Score damage, play all other Flurry of Blows in hand) [Action]
-Powerful Punches (Whenever your attack is not blocked, deal additional damage equal to your STR Mod) [Action]
+Powerful Punches (Whenever your attack is not blocked, deal additional damage equal to your STR Mod) [Power]
 Critical Strike (Whenever you deal damage, roll a d6. On a d6, the damage is doubled) [Power]
 Rage (Whenever you take damage, reduce it by half CON mod) [Power]
 Festering Hunger (Deal STR Score + STR Mod damage, take 3. Shuffle a copy) [Action] 
