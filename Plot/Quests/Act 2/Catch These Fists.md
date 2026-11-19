@@ -84,7 +84,7 @@ R3: Dazing Blow (Deal STR Score damage, target shuffles 3 Dazed) [Action]
 [[Quinn Hammer]]
 R1: Brass Beatdown (Deal STR Mod damage. Repeat at start of turn) [Power]
 R2: Second Wind (Whenever the deck is reshuffled, regain 2d10 + 10 hp or clear all status) [Power]
-R3: TKO (If the target has less than 2 x STR Score HP remaining, knock them out) [Action]
+R3: TKO (If the target has less than STR Score HP remaining, knock them out) [Action]
 
 [[Roger Parks]]
 R1: Overconfidence (Next attack deals double damage) [Action]
