@@ -36,10 +36,9 @@ Each fighter builds a deck, which must contain:
 2 x Dodge (Block for DEX mod)  [Reaction]
 2 x Deep Breath (Draw 3)  [Action]
 
-And 6 more of Jab, Block, or Dodge in any Combination.
 Finally, each fighter gets custom cards based of their Base Class which can help them out.
 
-Play is simple, roll intimadation, initative, or performance to determine who goes first.
+Play is simple, roll intimidation, initiative, or performance to determine who goes first.
 Everyone starts with 3 cards of their choice. At least one must be an Action card.
 
 On your turn, you draw a card and play one  [Action] or [Power] card (unless you don't have one, in which case you skip your turn). If your draw pile is ever empty, reshuffle your discard pile to make a new draw pile.
