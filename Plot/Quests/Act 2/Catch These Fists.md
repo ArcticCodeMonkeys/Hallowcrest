@@ -61,6 +61,7 @@ Quick Pointer (Target draws one card of their choice) [Audience]
 Help a Brother Out (Target removes all status cards from their deck) [Audience]
 Felicity
 Feral Cry (Target immediately uses an Action, it cannot react next turn)  [Audience]
+Thick Skin (Target's next attack also blocks for half damage)  [Audience]
 
 
 ## Special Cards:
