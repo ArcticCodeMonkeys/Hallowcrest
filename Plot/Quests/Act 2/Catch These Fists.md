@@ -16,7 +16,7 @@ Bracket style knockout tournament using 1-8 seeding, so
 [[Quinn Hammer]] - [[Roger Parks]]
 [[Kaida Dante]]- [[Ardwin Hammer]]
 [[Pyro]] - [[Visi Parks]]
-	[[Cassandro Blanc]] - [[The Party]]
+[[Cassandro Blanc]] - [[The Party]]
 
 
 Semi Finals lead to the Finals on a Win, or Loser's Match on a loss
@@ -61,7 +61,6 @@ Quick Pointer (Target draws one card of their choice) [Audience]
 Help a Brother Out (Target removes all status cards from their deck) [Audience]
 Felicity
 Feral Cry (Target immediately uses an Action, it cannot react next turn)  [Audience]
-	
 
 
 ## Special Cards:
