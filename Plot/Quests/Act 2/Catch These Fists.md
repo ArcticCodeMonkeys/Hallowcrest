@@ -78,17 +78,17 @@ Yeenoghu's Might (Block CON score, play an Action from your hand)  [Reaction]
 
 [[Visi Parks]]:
 R1: Inky Escape (Block all damage. Target and you shuffle Inky)  [Reaction]
-R2: Park 'Em (Deal 2 X STR Score damage, target cannot react for 1 round) [Action]
+R2: Park 'Em (Deal STR Score damage, target cannot react for 1 round) [Action]
 R3: Dazing Blow (Deal STR Score damage, target shuffles 3 Dazed) [Action]
 
 [[Quinn Hammer]]
 R1: Brass Beatdown (Deal STR Mod damage. Repeat at start of turn) [Power]
 R2: Dazing Blow (Deal STR Score damage, target shuffles 3 Dazed) [Action]
-R3: TKO (If the target has less than 3 x STR Score HP remaining, knock them out) [Action]
+R3: TKO (If the target has less than 2 x STR Score HP remaining, knock them out) [Action]
 
 [[Roger Parks]]
 R1: Overconfidence (Next attack deals double damage) [Action]
-R2: Park 'Em (Deal 2 X STR Score damage, target cannot react for 1 round) [Action]
+R2: Park 'Em (Deal STR Score damage, target cannot react for 1 round) [Action]
 R3: Goading Strike (Deal STR Mod damage. Target must play a special card on its turn, if in hand. Block CON Score if its played) [Action]
 
 [[Ardwin Hammer]]
