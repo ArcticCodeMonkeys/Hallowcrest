@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 Rare, Potion (1000gp)
 

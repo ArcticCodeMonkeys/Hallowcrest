@@ -1,3 +1,6 @@
+---
+publish: true
+---
 *Rare, Wonderous Item, (3500gp), (Requires Attunement)*
 
 This crooked finger comes from a hag and must replace an existing finger as a part of the attunement process. While attuned, the Crooked Finger has 9 charges, which can be used for the following benefits.

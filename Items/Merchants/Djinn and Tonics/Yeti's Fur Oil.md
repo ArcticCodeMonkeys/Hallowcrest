@@ -1,3 +1,6 @@
+---
+publish: true
+---
 Common, Oil (20gp)
 
 ![[Yeti's Fur Oil.jpg]]

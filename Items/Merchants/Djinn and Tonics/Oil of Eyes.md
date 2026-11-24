@@ -1,3 +1,6 @@
+---
+publish: true
+---
 Rare, Consumable (650gp)
 
 ![[Oil of Eyes.jpg]]

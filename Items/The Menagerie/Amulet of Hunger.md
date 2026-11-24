@@ -1,3 +1,6 @@
+---
+publish: true
+---
 *Rare, Amulet, (1500gp), (Requires Minor Attunement)*
 
 Whenever you deal damage with an unarmed strike or natural weapon attack, you can gain one of the following benefits.

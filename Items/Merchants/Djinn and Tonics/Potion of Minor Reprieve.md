@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 Uncommon, Potion (175gp)
 
