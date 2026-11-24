@@ -10,3 +10,64 @@ Roach doesn't trust his crew to not get noticed after the last botched heist, so
 - Can find a hidden path to [[The Maestro]]'s office (Very high risk, very high reward)
 
 As a reward, they get a decent cut (30%), Renown, and some intel for [[Ashes to Ashes]].
+
+
+## C1: Foyer
+
+## C2: East Bathroom
+
+## C3: West Bathroom
+
+## C4: Main Floor
+
+## C5: High Roller's Room
+
+## C6: Roulette Floor
+
+## C7: Private Rooms
+
+### A:
+
+### B:
+
+### C:
+
+## C8: Dining Area
+
+## C9: Staff Only Area
+
+## C10: West Security Room
+
+## C11: Chip Foundry
+
+## C12: Vault
+
+## C13: Exchange Booth
+
+## C14: Kitchen
+
+### A: Main Kitchen
+
+### B: Cold Storage
+
+## C15: Loading Dock
+
+## C16: Employee Bathrooms
+
+### A:
+
+### B:
+
+## C17: Employee Break Room
+
+## C18: East Security Room
+
+## C19: Storage Room
+
+## C20: Conference Room
+
+## C21: The Maestro's Office
+
+## C22: 
+
+## C23
