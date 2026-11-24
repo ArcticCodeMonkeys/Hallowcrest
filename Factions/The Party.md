@@ -33,7 +33,7 @@ Renown is a system which determines how well liked you are by different factions
 | ------------------------------------------- | ------------ | -------------- |
 | [[Sovereign Concord]]                       | 4            | Liked          |
 | [[Ne're Darke]]                             | -2           | Neutral        |
-| [[Society of Higher Minds]]                 | 3            | Liked          |
+| [[Society of Higher Minds]]                 | 7            | Allied         |
 | [[Ember's Creed]]                           | 3            | Liked          |
 | [[The Menagerie]]                           | 3            | Liked          |
 | [[The Keepers of Oak]]                      | 3            | Liked          |
