@@ -112,6 +112,8 @@ A large hole in the wall behind the couch can be spotted with a 14 Passive Perce
 
 A large dining area serving meals. Servers continually come in and out of a side door which leads into the kitchen and east staff only sections, clearly unlocked. 
 
+Servers can be heard loudly complaining asking where Henry is, having gone on break 30 minutes ago.
+
 ## C9: Staff Only Area
 
 The central area between the highest security rooms in the casino. Getting here is hard, but if you do, you have access to the Vault, the Foundry, the Exchange Booth and the West Security Room. Two chairs sit in this room which can be used to barricade a door shut. Additionally, a staff key and 175gp worth of chips sits unattended on a small coffee table.
@@ -137,19 +139,33 @@ Begin rolling on the complications table twice while this is active.
 
 **Fill up the Bags.** Athletics and Sleight of Hand makes this quick, reducing the number of complications. A poor roll leads to 30 mins, an average roll takes 15, and a good roll takes 5.
 
-**Pack Up.** The bags are very heavy, a total of 35 Strengt
+**Pack Up.** The bags are very heavy, a total of 35 Strength Score is required to carry all of the chips out.
 
 ## C12: Vault
 
+A large room filled with shelfs and safes of coins, chips, and jewelry. The doors are alarmed and warded with an arcane lock, making it very difficult to break in. The vent in this room has an alarm and a glyph of warding (8d8 lightning DC 15 Dex, half on success).
+
+Within there is a total of 20k in chips, 15k in coins, and 5k in jewelry readily available.
+There is a further 20k in coins and 10k in jewelry in the 4 safes, but they must be broken open as only [[The Maestro]] knows the codes to them (DC 25 Athletics, DC 20 Sleight of Hand).
+
 ## C13: Exchange Booth
+
+The booth where you go to exchange cash for chips, protected by a thick layer of glass. [[Beck Soleil]] runs the booth and is a bit chatty.
+
+**Opportunity.** [[Beck Soleil]] is very talkative. Being nice to her and asking questions will likely lead to her giving out a bit more information than she should (to a point).
 
 ## C14: Kitchen
 
 ### A: Main Kitchen
 
+The main kitchen has a wide variety of expensive foods and spices (300gp). 
 ### B: Cold Storage
 
+A server (Henry) has locked himself in the cold storage, unable to unlock from the inside, and frozen to death. On the plus side, he has 80gp, an employee key, and a server's outfit.  
+
 ## C15: Loading Dock
+
+The loading dock is guarded by two Jesters, with a door leading into the kitchen area. 
 
 ## C16: Employee Bathrooms
 
