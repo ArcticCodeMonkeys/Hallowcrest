@@ -43,6 +43,8 @@ If they are not aware of any rooms or events, they can attempt to ask. If the ro
 
 The party needs to grab some gear, including some new fits. Formal attire will lower the attention they get while maneuvering around (5gp each). They can also purchase magic items and tools, Roach will give them Gossiper's Cuffs, which allow them to communicate to each other while within 30 feet of each other. 
 
+Roach will also provide them with a Minor Charm of Dispelling (Able to dispel 1st level spells such as alarms, 3/day) and lend them his Watch of Planning (HE WANTS THIS BACK).
+
 # Pull It Off:
 
 Then comes the execution, the party has the same heat system as before, but with the added pressure that they need to get the heist done before they perform the routine check of the vault at midnight and shut off the machine. Every 10 minutes in real time, roll on the complications table.
@@ -122,8 +124,20 @@ Monitored by [[Roger Parks]]. He will leave if a fight starts elsewhere or if se
 **Lie.** DC 15, Convince him there is a fight or something important outside.
 **Distract.** DC 18, Lure him away from the security system, likely using a fight or commotion
 
-The security system feeds into the file storage in C22, evident from a DC 15 Arcana Check upon the central console. A DC 20 Arcana Check can divine the location of this room. 
+The security system feeds into the file storage in C22, evident from a DC 15 Arcana Check upon the central console. A DC 20 Arcana Check can divine the location of this room. The Jester's active feeds can be remotely disabled from this room, but will draw the attention of [[The Maestro]] and [[Jacques Couteau]] who will come to investigate from C18.
 ## C11: Chip Foundry
+
+A large metal room with a massive piece of machinery in the middle. Deciphering how to use the machine may prove a bit of a challenge.
+
+**Activate the Machine.** DC 15 Arcana or Investigation check. Alternatively, a DC 18 Sleight of Hand or Athletics check can kick start the machinery.
+
+The machine whirs to life, clanking and shaking, making a great ruckus which could certainly be heard in nearby rooms.
+
+Begin rolling on the complications table twice while this is active.
+
+**Fill up the Bags.** Athletics and Sleight of Hand makes this quick, reducing the number of complications. A poor roll leads to 30 mins, an average roll takes 15, and a good roll takes 5.
+
+**Pack Up.** The bags are very heavy, a total of 35 Strengt
 
 ## C12: Vault
 
@@ -142,6 +156,8 @@ The security system feeds into the file storage in C22, evident from a DC 15 Arc
 ### A:
 
 ### B:
+
+The vent in this room is much thicker than all the others, capable of housing a medium creature if it squeezes. it continues up until C9, where it reduces in size again just after a vent exit. 
 
 ## C17: Employee Break Room
 
@@ -165,7 +181,7 @@ Monitored by Jacques Couteau
 
 ## Vents
 
-The vents lead throughout the casino, including into the vault and chip foundry. Unfortunately, they are very small (tiny), and have numerous alarm spells on their entrance and exits.
+The vents lead throughout the casino, including into the vault and chip foundry. Unfortunately, they are very small (tiny), and have numerous alarm spells on their entrance and exits. 
 
 ## Jesters
 
