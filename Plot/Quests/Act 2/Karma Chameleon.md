@@ -25,7 +25,7 @@ Could we climb through those vents? (Roll Dexterity (Acrobatics))
 
 # Make a Plan
 
-The party can then return to Roach and make a plan. Roach will give them information based on a budget system, basically dictating what exactly roach was able to discover during his research. They gain 20 Intel, which they can spend on the following pieces of information
+The party can then return to Roach and make a plan. Roach will give them information based on a budget system, basically dictating what exactly Roach was able to discover during his research. They gain 20 Intel, which they can spend on the following pieces of information
 
 Vents (5)
 Jesters (5)
@@ -37,7 +37,7 @@ Any specific person (2)
 Any specific event (2)
 Any specific rumor (3)
 
-If they are not aware of any rooms or events, they can attempt to ask (ie The Storage Room). If the room exists, they learn about it, if not, their intel is lost.
+If they are not aware of any rooms or events, they can attempt to ask. If the room exists, they learn about it, if not, their intel is lost.
 
 # Look the Part
 
@@ -47,9 +47,20 @@ The party needs to grab some gear, including some new fits. Formal attire will l
 
 Then comes the execution, the party has the same heat system as before, but with the added pressure that they need to get the heist done before they perform the routine check of the vault at midnight and shut off the machine. Every 10 minutes in real time, roll on the complications table.
 
+
+## All Part of the Plan
+
+Once per heist, each player can trigger a flashback. Turns out, they had prepared for this very situation. The character bought an item or casted a spell / ability which works perfectly in this scenario to resolve the issue. The character must still expend the resource (slot, gp, etc), but gets the effect immediately. Additionally, whatever effect it is automatically succeeds.
+
 ## Make Your Escape
 
-There are multiple exits from Fortune's Favor, not all of them are equally accessible. The front foyer C1 will be the easiest to exit from in a stealthy escape where the alarm was never raised, however it will be one of the most guarded places in the event of an alarm. The Loading Dock is another option, much more difficult to get to and requiri
+There are multiple exits from Fortune's Favor, not all of them are equally accessible. The front foyer C1 will be the easiest to exit from in a stealthy escape where the alarm was never raised, however it will be one of the most guarded places in the event of an alarm. The Loading Dock is another option, much more difficult to get to and requiring taking out a few guards, but no one will suspect it when the alarm is tripped. The best place to leave from is the hardest place to get to. The Maestro's Office has a large pool which leads into the ocean, equipped with his submarine the Tritone which can be stolen and driven out. No-one will notice except the Maestro, who will have to be distracted to reasonably use this exit.
+
+
+## Lose the Heat
+
+If the party made a daring escape, they will have to contend with the five members of [[The Royale Flush]] which will be sent after them. The Jesters cannot leave [[Fortune's Favor]], but these members can. They must make an escape plan and plot a route through the city. Depending on the skill of the route, they may need to make an Acrobatics, Athletics, or Constitution check to ensure they can make the escape. The harder the route, the higher the DC is for [[The Royale Flush]] to follow them (Survival Check). Splitting up increases this DC further, but obviously makes the ensuing fight much harder (1v1).
+
 ## C1: Foyer
 
 The main entrance to [[Fortune's Favor]]. There is a Jester at the front desk who is not very intelligent. It has a few preset lines and answers to questions, but beyond that can't help much.
@@ -70,7 +81,9 @@ Sitting in the corner is Savannah Domino. She is simply here gambling, but if th
 
 ## C5: High Roller's Room
 
-In the High Roller's Room, a high stakes game of poker is playing out between [[Steven Vanderblit]], [[Victor Pembroke]], and [[Danny Brand]], run by [[Jack Rivers]]. The prize for winning this game is 7 thousand gold, which the players will want to cash out pretty quickly after winning. A payout this big is bound to require a
+In the High Roller's Room, a high stakes game of poker is playing out between [[Steven Vanderblit]], [[Victor Pembroke]], and [[Danny Brand]], run by [[Jack Rivers]]. The prize for winning this game is 7 thousand gold, which the players will want to cash out pretty quickly after winning. A payout this big is bound to require a private escort to the vault.
+
+**Opportunity.** Ally with one of the High Rollers or front enough capital to get into the table. If they manage to win, you are directed straight into the vault with only Jack Rivers.
 
 ## C6: Roulette Floor
 
