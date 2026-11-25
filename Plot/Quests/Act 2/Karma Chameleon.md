@@ -238,7 +238,7 @@ The vault stores their gold and chips, estimated to have anywhere from 15 to 50 
 ## The Foundry
 
 The Foundry is home to the Chip Shipper, its only entrance is a thick metal door. The Cashier for the day ([[Beck Soleil]]) has the key. The Chip Shipper is an incredibly expensive piece of Higher Mind artifice. Powering it up may be noisy, so you'll need something to mask the sound. Should only take 10-15 minutes to print enough chips for this job to be worth it. The plan is simple, get in this room with the Master Chip, place your (or a member of [[The Menagerie]]'s) finger print on the chip, and run the machine. It should make a hefty chunk of change. Getting the chips out may prove difficult simply due to their sheer quantity, but I'm sure you'll be able to handle this. 
-
+	
 
 
 Complications
