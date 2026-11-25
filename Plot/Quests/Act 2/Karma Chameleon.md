@@ -209,12 +209,17 @@ The game is simple, roll 5d6 in secret, and state your hand (like in poker)
 The opponent can either call your bluff, or reroll any number of dice (0-5) and claim a higher hand (must be strictly better).
 When a bluff is eventually called, the accused reveals their dice and either wins or loses
 
-Hands:
+Hands, from worst to best.
 Runt (nothing)
 X Pair (a pair of Xs)
+Low straight (1, 2, 3, 4, 5)
 Trip X's (three Xs)
+Full House (three Xs, two Ys)
+High Straight (2, 3, 4, 5, 6)
 Quad X (four Xs)
-ALL
+All X (five Xs)
+
+Lady Luck rolls 7d6 at the start, choosing the best 5 card hand.
 # Features:
 
 
