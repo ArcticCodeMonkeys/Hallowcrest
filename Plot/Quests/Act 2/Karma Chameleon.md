@@ -67,7 +67,7 @@ The main entrance to [[Fortune's Favor]]. There is a Jester at the front desk wh
 
 ## C2: East Bathroom
 
-A simple bathroom, with a vent leading into the ventilation system
+A simple bathroom, with a vent leading into the ventilation system. A necklace worth 100gp is left on the floor. 
 ## C3: West Bathroom
 
 A simple bathroom, with a vent leading into the ventilation system. A drunk man is throwing up in here.
@@ -96,16 +96,23 @@ The brand new roulette wheels are a hot spot for newcomers, the main wheel is ru
 ## C7: Private Rooms
 
 ### A:
+Kris from [[The Booby Trap]] is giving a lap dance to a member of [[The Royale Flush]] this private room.
 
+**Opportunity.** The member is... distracted. If they enter quietly, they can swipe his keys off the table.
 ### B:
 
+Empty
 A large hole in the wall behind the couch can be spotted with a 14 Passive Perception, leading into C19.
-
 ### C:
+37 gp, a whiskey shot, and a pair of boxer briefs.
 
 ## C8: Dining Area
 
+A large dining area serving meals. Servers continually come in and out of a side door which leads into the kitchen and east staff only sections, clearly unlocked. 
+
 ## C9: Staff Only Area
+
+The central area between the highest security rooms in the casino. Getting here is hard, but if you do, you have access to the Vault, the Foundry, the Exchange Booth and the West Security Room. Two chairs sit in this room which can be used to barricade a door shut. Additionally, a staff key and 175gp worth of chips sits unattended on a small coffee table.
 
 ## C10: West Security Room
 
@@ -114,7 +121,8 @@ Monitored by [[Roger Parks]]. He will leave if a fight starts elsewhere or if se
 **Persuade.** DC 13, Convince him to indulge in some fun
 **Lie.** DC 15, Convince him there is a fight or something important outside.
 **Distract.** DC 18, Lure him away from the security system, likely using a fight or commotion
- 
+
+The security system feeds into the file storage in C22, evident from a DC 15 Arcana Check upon the central console. A DC 20 Arcana Check can divine the location of this room. 
 ## C11: Chip Foundry
 
 ## C12: Vault
