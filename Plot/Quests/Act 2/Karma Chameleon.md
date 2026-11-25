@@ -35,7 +35,7 @@ The Boss (5)
 Any specific room (1)
 Any specific person (2)
 Any specific event (2)
-Any specific rumor (3)
+Any general rumor (3)
 
 If they are not aware of any rooms or events, they can attempt to ask. If the room exists, they learn about it, if not, their intel is lost.
 
@@ -77,7 +77,9 @@ The main floor is filled with the new state of the art gambling machines and bla
 
 **Opportunity.** Johnny Silverstein is sick of playing jazz. He was built for something more powerful, for rock and roll. If the party can convince him to play and find his guitar (left in C19), he will play an awesome gig which will distract all the patrons and non-jester staff.
 
-Sitting in the corner is Savannah Domino. She is simply here gambling, but if the party recognizes her, they can either attempt to strike a deal with her for help or try to arrest her for the bounty. Regardless, give an inspiration if they remember her face. 
+Sitting in the corner is [[Savannah Domino]]. She is simply here gambling, but if the party recognizes her, they can either attempt to strike a deal with her for help or try to arrest her for the bounty. Regardless, give an inspiration if they remember her face. 
+
+**Opportunity.** [[Savannah Domino]] is willing to help the party out in the heist in any way possible, provided she gets a cut (10%) of the profits.
 
 ## C5: High Roller's Room
 
@@ -87,11 +89,17 @@ In the High Roller's Room, a high stakes game of poker is playing out between [[
 
 ## C6: Roulette Floor
 
+The brand new roulette wheels are a hot spot for newcomers, the main wheel is run by [[Aurore Laflame]]. She's quick, witty, and flirty, but secretly looking for cheaters. If anyone cheats on the Roulette Floor, they must succeed a DC 22 Sleight of Hand check or she notices, drawing 1 Heat.
+
+**Opportunity.** [[Aurore Laflame]] wants out of [[The Royale Flush]]. Unfortunately, they have a list of addresses for her family in C22. If the party can destroy those files, she promises she can get them into the vault or foundry.
+
 ## C7: Private Rooms
 
 ### A:
 
 ### B:
+
+A large hole in the wall behind the couch can be spotted with a 14 Passive Perception, leading into C19.
 
 ### C:
 
@@ -139,9 +147,9 @@ Monitored by Jacques Couteau
 
 ## C21: The Maestro's Office
 
-## C22: 
+## C22: File Storage
 
-## C23
+## C23: Lady Luck's Office
 
 
 # Features:
@@ -161,5 +169,5 @@ The vault stores their gold and chips, estimated to have anywhere from 15 to 50 
 
 ## The Foundry
 
-The Foundry is home to the Chip Shipper. The Machine is an incredibly expensive piece of Higher Mind artifice. Powering it up may be noisy, so you'll need something to mask the sound. Should only take 10-15 minutes to print enough chips for this job to be worth it. The plan is simple, get in this room with the Master Chip, place your (or a member of [[The Menagerie]]'s) finger print on the chip, and run the machine. It should make a hefty chunk of change. Getting the chips out may prove difficult simply due to their sheer quantity, but I'm sure you'll be able to handle this. 
+The Foundry is home to the Chip Shipper, its only entrance is a thick metal door. The Cashier for the day ([[Beck Soleil]]) has the key. The Chip Shipper is an incredibly expensive piece of Higher Mind artifice. Powering it up may be noisy, so you'll need something to mask the sound. Should only take 10-15 minutes to print enough chips for this job to be worth it. The plan is simple, get in this room with the Master Chip, place your (or a member of [[The Menagerie]]'s) finger print on the chip, and run the machine. It should make a hefty chunk of change. Getting the chips out may prove difficult simply due to their sheer quantity, but I'm sure you'll be able to handle this. 
 
