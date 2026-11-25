@@ -12,6 +12,17 @@ Roach doesn't trust his crew to not get noticed after the last botched heist, so
 As a reward, they get a decent cut (30%), Renown, and some intel for [[Ashes to Ashes]].
 
 
+# Heist Mechanics
+
+# Scout The Joint
+
+The party can wander and investigate all they want during the day while they prepare for the heist. They have a Heat meter, which indicates how suspicious they are being. Participating in the casino through gambling and drinking lowers the Heat by 1 each, and every suspicious activity increases the Heat by 1. Once they reach 3 Heat, they are escorted off the premises and temporarily banned. If they are caught in a restricted area or stealing something, they immediately reach 3 Heat.
+
+While scouting, instead of perception or investigation checks, roll more specific checks related to the question itself. For example:
+How thick does that door seem? (Roll Strength (Athletics))
+How often do the guards seem to rotate (Roll Wisdom (Insight))
+Could we climb t
+
 ## C1: Foyer
 
 The main entrance to [[Fortune's Favor]]. There is a Jester at the front desk who is not very intelligent. It has a few preset lines and answers to questions, but beyond that can't help much.
@@ -24,9 +35,15 @@ A simple bathroom, with a vent leading into the ventilation system
 A simple bathroom, with a vent leading into the ventilation system. A drunk man is throwing up in here.
 ## C4: Main Floor
 
-The main floor is filled with the new state of the art gambling machines and black jack tables, all centered around the main stage. Upon the main stage, Johnny Silverstein performs a smooth jazz with a collection of little 
+The main floor is filled with the new state of the art gambling machines and black jack tables, all centered around the main stage. Upon the main stage, Johnny Silverstein performs a smooth jazz with a band. 
+
+**Opportunity.** Johnny Silverstein is sick of playing jazz. He was built for something more powerful, for rock and roll. If the party can convince him to play and find his guitar (left in C19), he will play an awesome gig which will distract all the patrons and non-jester staff.
+
+Sitting in the corner is Savannah Domino. She is simply here gambling, but if the party recognizes her, they can either attempt to strike a deal with her for help or try to arrest her for the bounty. Regardless, give an inspiration if they remember her face. 
 
 ## C5: High Roller's Room
+
+In the High Roller's Room, a high stakes game of poker is playing out between [[Steven Vanderblit]], [[Victor Pembroke]], and [[Danny Brand]], run by [[Jack Rivers]]. The prize for winning this game is 7 thousand gold, which the players will want to cash out pretty quickly after winning. A payout this big is bound to require a
 
 ## C6: Roulette Floor
 
@@ -100,7 +117,7 @@ The Jesters are all connected to the Maestro's surveillance system, observable f
 
 ## The Vault
 
-The vault stores their gold and chips, estimated to have anywhere from 15 to 50 thousand in gold and chips at a time. The vault is heavily sealed through two entrances. Both are a 3 foot thick adamantine door with a magical lock. A knock spell or dispel magic can disable the lock, but an alarm will trigger unless the passphrase is said. Only the person in charge of handling the chips for the day knows the passphrase, and it changes every day. There is a very small (tiny creatures must squeeze) window between the vault and the foundry to pass chips through.
+The vault stores their gold and chips, estimated to have anywhere from 15 to 50 thousand in gold and chips at a time. The vault is heavily sealed through two entrances. Both are a 3 foot thick adamantine door with a magical lock. A knock spell or dispel magic can disable the lock, but an alarm will trigger unless the passphrase is said. Only one person knows the passphrase, and who and what it is changes every day. For security measures, it is ensured that whoever is running the front desk is not the person with the passphrase. There is a very small (tiny creatures must squeeze) window between the vault and the foundry to pass chips through.
 
 ## The Foundry
 
