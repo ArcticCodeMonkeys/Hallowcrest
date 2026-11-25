@@ -77,7 +77,7 @@ A simple bathroom, with a vent leading into the ventilation system. A drunk man 
 
 The main floor is filled with the new state of the art gambling machines and black jack tables, all centered around the main stage. Upon the main stage, Johnny Silverstein performs a smooth jazz with a band. 
 
-**Opportunity.** Johnny Silverstein is sick of playing jazz. He was built for something more powerful, for rock and roll. If the party can convince him to play and find his guitar (left in C19), he will play an awesome gig which will distract all the patrons and non-jester staff.
+**Opportunity.** Johnny Silverstein is sick of playing jazz. He was built for something more powerful, for rock and roll. If the party can convince him to play and find his guitar (left in C19), he will play an awesome gig which will distract all the patrons and non-jester staff. 
 
 Sitting in the corner is [[Savannah Domino]]. She is simply here gambling, but if the party recognizes her, they can either attempt to strike a deal with her for help or try to arrest her for the bounty. Regardless, give an inspiration if they remember her face. 
 
