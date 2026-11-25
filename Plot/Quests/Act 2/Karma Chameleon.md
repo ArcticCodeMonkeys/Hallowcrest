@@ -165,26 +165,35 @@ A server (Henry) has locked himself in the cold storage, unable to unlock from t
 
 ## C15: Loading Dock
 
-The loading dock is guarded by two Jesters, with a door leading into the kitchen area. 
+The loading dock is guarded by two Jesters, with a locked door leading into the kitchen area. These Jesters hold employee keys. Additionally, a server outfit can be located in the foyer just beyond the dock. The Jesters are ordered to send away anyone who approches and fight them off if needed. 
 
 ## C16: Employee Bathrooms
 
 ### A:
 
+An employee sits crying, having been overworked and yelled at by her manager. 
+
+**Opportunity.** If consoled, she will decide that this place is not worth it, leave her server outfit and keys behind, and leave.
 ### B:
 
 The vent in this room is much thicker than all the others, capable of housing a medium creature if it squeezes. it continues up until C9, where it reduces in size again just after a vent exit. 
 
 ## C17: Employee Break Room
 
+An employee key is left next to the coffee machine. Jesters and dealers frequently come in and out of this room, so it is rarely left unguarded. This room is always empty when the alarm is sounded.
 ## C18: East Security Room
 
-Monitored by Jacques Couteau
+Monitored by [[Jacques Couteau]]. If he sees a crime occurring, he will not report it directly, instead heading to the scene, abandoning his post, and attempting to kill the offenders directly. 
+
+The security system feeds into the file storage in C22, evident from a DC 15 Arcana Check upon the central console. A DC 20 Arcana Check can divine the location of this room. The Jester's active feeds can be remotely disabled from this room, but will draw the attention of [[The Maestro]] and [[Roger Parks]] who will come to investigate from C10.
 
 ## C19: Storage Room
 
+A servers outfit, 1000gp worth of chips, [[Sugarettes]] and a flask of [[Expresso]] can be found within this room. [[Jacques Couteau]] will occasionally come to this room to smoke. 
+
 ## C20: Conference Room
 
+Currently empty, documents detail a deal between the Magistrate and a figure known as [[Lady Luck]] in which [[The Royale Flush]] sent a great deal of funds to [[The Magistrate]] in return for relaxed policing and gambling laws. 
 ## C21: The Maestro's Office
 
 ## C22: File Storage
