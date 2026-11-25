@@ -14,7 +14,7 @@ As a reward, they get a decent cut (30%), Renown, and some intel for [[Ashes to 
 
 ## C1: Foyer
 
-
+The main entrance t
 
 ## C2: East Bathroom
 
