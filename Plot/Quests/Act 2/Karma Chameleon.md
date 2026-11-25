@@ -20,9 +20,36 @@ The party can wander and investigate all they want during the day while they pre
 
 While scouting, instead of perception or investigation checks, roll more specific checks related to the question itself. For example:
 How thick does that door seem? (Roll Strength (Athletics))
-How often do the guards seem to rotate (Roll Wisdom (Insight))
-Could we climb t
+How often do the guards seem to rotate? (Roll Wisdom (Insight))
+Could we climb through those vents? (Roll Dexterity (Acrobatics))
 
+# Make a Plan
+
+The party can then return to Roach and make a plan. Roach will give them information based on a budget system, basically dictating what exactly roach was able to discover during his research. They gain 20 Intel, which they can spend on the following pieces of information
+
+Vents (5)
+Jesters (5)
+The Vault (5)
+The Foundry (5)
+The Boss (5)
+Any specific room (1)
+Any specific person (2)
+Any specific event (2)
+Any specific rumor (3)
+
+If they are not aware of any rooms or events, they can attempt to ask (ie The Storage Room). If the room exists, they learn about it, if not, their intel is lost.
+
+# Look the Part
+
+The party needs to grab some gear, including some new fits. Formal attire will lower the attention they get while maneuvering around (5gp each). They can also purchase magic items and tools, Roach will give them Gossiper's Cuffs, which allow them to communicate to each other while within 30 feet of each other. 
+
+# Pull It Off:
+
+Then comes the execution, the party has the same heat system as before, but with the added pressure that they need to get the heist done before they perform the routine check of the vault at midnight and shut off the machine. Every 10 minutes in real time, roll on the complications table.
+
+## Make Your Escape
+
+There are multiple exits from Fortune's Favor, not all of them are equally accessible. The front foyer C1 will be the easiest to exit from in a stealthy escape where the alarm was never raised, however it will be one of the most guarded places in the event of an alarm. The Loading Dock is another option, much more difficult to get to and requiri
 ## C1: Foyer
 
 The main entrance to [[Fortune's Favor]]. There is a Jester at the front desk who is not very intelligent. It has a few preset lines and answers to questions, but beyond that can't help much.
