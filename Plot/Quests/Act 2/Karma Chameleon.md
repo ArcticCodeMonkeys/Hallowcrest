@@ -21,7 +21,10 @@ The main entrance to [[Fortune's Favor]]. There is a Jester at the front desk wh
 A simple bathroom, with a vent leading into the ventilation system
 ## C3: West Bathroom
 
+A simple bathroom, with a vent leading into the ventilation system. A drunk man is throwing up in here.
 ## C4: Main Floor
+
+The main floor is filled with the new state of the art gambling machines and black jack tables, all centered around the main stage. Upon the main stage, Johnny Silverstein performs a smooth jazz with a collection of little 
 
 ## C5: High Roller's Room
 
@@ -97,4 +100,9 @@ The Jesters are all connected to the Maestro's surveillance system, observable f
 
 ## The Vault
 
-The vault stores their gold and chips, estimated to have anywhere from 15 to 50 thousand in gold and chips at a time. The vault is heavily sealed throu
+The vault stores their gold and chips, estimated to have anywhere from 15 to 50 thousand in gold and chips at a time. The vault is heavily sealed through two entrances. Both are a 3 foot thick adamantine door with a magical lock. A knock spell or dispel magic can disable the lock, but an alarm will trigger unless the passphrase is said. Only the person in charge of handling the chips for the day knows the passphrase, and it changes every day. There is a very small (tiny creatures must squeeze) window between the vault and the foundry to pass chips through.
+
+## The Foundry
+
+The Foundry is home to the Chip Shipper. The Machine is an incredibly expensive piece of Higher Mind artifice. Powering it up may be noisy, so you'll need something to mask the sound. Should only take 10-15 minutes to print enough chips for this job to be worth it. The plan is simple, get in this room with the Master Chip, place your (or a member of [[The Menagerie]]'s) finger print on the chip, and run the machine. It should make a hefty chunk of change. Getting the chips out may prove difficult simply due to their sheer quantity, but I'm sure you'll be able to handle this. 
+
