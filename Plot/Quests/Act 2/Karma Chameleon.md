@@ -193,14 +193,28 @@ A servers outfit, 1000gp worth of chips, [[Sugarettes]] and a flask of [[Express
 
 ## C20: Conference Room
 
-Currently empty, documents detail a deal between the Magistrate and a figure known as [[Lady Luck]] in which [[The Royale Flush]] sent a great deal of funds to [[The Magistrate]] in return for relaxed policing and gambling laws. 
+Currently empty, documents detail a deal between the Magistrate and a figure known as [[The Maestro]] in which [[The Royale Flush]] sent a great deal of funds to [[The Magistrate]] in return for relaxed policing and gambling laws. Its clear through the wording of the document that the [[Sovereign Concord]] must be kept unaware of this deal, a sentiment shared by both parties.
 ## C21: The Maestro's Office
 
+This is very fucked if they end up here, switch to a new map.
 ## C22: File Storage
+
+Behind a locked door with an alarm, the file storage retains personal information about [[The Royale Flush]] employees and the past 24 hours of perception of the Jesters. Unless destroyed, [[The Maestro]] will come here as soon as he learns he has been robbed and learn the identities of the party unless they somehow masked themselves.
 
 ## C23: Lady Luck's Office
 
+[[Lady Luck]]'s office is locked, though surprisingly knocking or making any noise outside of it will trigger her to beckon whoever it is into her office. She is amused if she finds the party here and challenges them to a game of chance to determine what she does with them. If they win, she'll pretend she never saw them, if they lose, she'll have them killed. 
 
+The game is simple, roll 5d6 in secret, and state your hand (like in poker)
+The opponent can either call your bluff, or reroll any number of dice (0-5) and claim a higher hand (must be strictly better).
+When a bluff is eventually called, the accused reveals their dice and either wins or loses
+
+Hands:
+Runt (nothing)
+X Pair (a pair of Xs)
+Trip X's (three Xs)
+Quad X (four Xs)
+ALL
 # Features:
 
 
